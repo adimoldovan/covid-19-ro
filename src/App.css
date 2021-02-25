@@ -1,0 +1,155 @@
+.App {
+  text-align: center;
+  color: #666666;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.header {
+  margin: 10px;
+  padding: 20px;
+
+}
+
+.card {
+  margin-top: 10px;
+}
+
+#summary {
+  margin-bottom: 10px;
+}
+
+.recharts-surface {
+  font-size: 10px;
+}
+
+#countries {
+  margin-top: 10px;
+}
+
+#countries table {
+  font-size: 0.8em;
+}
+
+#countries table td {
+  white-space: nowrap
+}
+
+thead tr:nth-child(1) th {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: #dae0e5;
+}
+
+th .order:before {
+  margin-left: 3.5px;
+  content: "\2191";
+  opacity: 0.4;
+}
+
+th .order:after {
+  content: "\2193";
+  opacity: 0.4;
+}
+
+th .caret-asc:before {
+  margin-left: 3.5px;
+  content: "\2191";
+}
+
+th .caret-asc:after {
+  content: "\2193";
+  opacity: 0.4;
+}
+
+th .caret-desc:before {
+  margin-left: 3.5px;
+  content: "\2191";
+  opacity: 0.4;
+}
+
+th .caret-desc:after {
+  content: "\2193";
+}
+
+.toggle-list {
+  color: red;
+}
+
+.toggle-list-btn {
+  color: red;
+}
+
+.summary-box {
+  color: #666666;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: #dae0e5 solid 0px;
+}
+
+.summary-box .number {
+  font-size: clamp(26px, 4vw, 48px);
+  font-weight: bolder;
+  white-space: nowrap;
+}
+
+.summary-box .description {
+  font-size: clamp(18px, 4vw, 22px);
+}
+
+.summary-box .fine {
+  font-size: clamp(14px, 4vw, 18px);
+}
+
+.left {
+  text-align: left;
+}
+
+.spaced-row {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.county-box {
+  margin-bottom: 30px;
+  margin-top: 30px;
+
+}
+
+.county-name {
+  border-bottom: 1px solid lightgray;
+}
