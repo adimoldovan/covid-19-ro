@@ -106,7 +106,7 @@ export default class Countries extends Component {
             <div className='summary-box left'>
               <span className='number'>{formattedNumber(today.noNewConfirmed)}</span>
               <br />
-              <span className='description'>confirmed new</span>
+              <span className='description'>newly confirmed</span>
             </div>
           </Col>
           <Col sm={10}>
@@ -117,7 +117,7 @@ export default class Countries extends Component {
               ySeries={data.map(function (e) {
                 return e.noNewConfirmed;
               })}
-              color={Colors.confirmed} name='confirmed new'
+              color={Colors.confirmed} name='confirmed'
             />
           </Col>
         </Row>
@@ -145,7 +145,7 @@ export default class Countries extends Component {
             <div className='summary-box left'>
               <span className='number'>{formattedNumber(today.noNewDeceased)}</span>
               <br />
-              <span className='description'>deceased new</span>
+              <span className='description'>newly deceased</span>
             </div>
           </Col>
           <Col sm={10}>
@@ -155,7 +155,7 @@ export default class Countries extends Component {
               })}
               ySeries={data.map(function (e) {
                 return e.noNewDeceased;
-              })} color={Colors.deceased} name='deceased new'
+              })} color={Colors.deceased} name='deceased'
             />
           </Col>
         </Row>
@@ -164,7 +164,7 @@ export default class Countries extends Component {
             <div className='summary-box left'>
               <span className='number'>{formattedNumber(today.noNewRecovered)}</span>
               <br />
-              <span className='description'>deceased new</span>
+              <span className='description'>newly recovered</span>
             </div>
           </Col>
           <Col sm={10}>
@@ -175,7 +175,7 @@ export default class Countries extends Component {
               ySeries={data.map(function (e) {
                 return e.noNewRecovered;
               })}
-              color={Colors.recovered} name='recovered new'
+              color={Colors.recovered} name='recovered'
             />
           </Col>
         </Row>
@@ -183,6 +183,7 @@ export default class Countries extends Component {
         {/* Footer */}
         <Row className='spaced-row'>
           <Col className='text-right'><p>Data sources:</p>
+            <a href='https://graphs.ro'>graphs.ro</a><br />
             <a href='https://datelazi.ro'>datelazi.ro</a><br />
             <a href='https://stirioficiale.ro'>stirioficiale.ro</a>
           </Col>

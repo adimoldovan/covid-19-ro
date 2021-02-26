@@ -50,24 +50,26 @@ function processData(dateLaZiData, graphsRoMainData, graphsRoVaccineData) {
   return data;
 }
 
-// fetch(dateLaZiURL)
-//     .then((res) => res.json())
-//     .then((result) => {
-//         // write to file
-//         fs.writeFileSync('bin/tmp/dateLaZiData.json', JSON.stringify(result,undefined,2))
-//     });
-//
-// fetch(graphsRoMainURL)
-//     .then((res) => res.json())
-//     .then((result) => {
-//         // write to file
-//         fs.writeFileSync('bin/tmp/graphsRoData.json', JSON.stringify(result,undefined,2))
-//     });
-// fetch(graphsRoVaccineURL)
-//   .then((res) => res.json())
-//   .then((result) => {
-//     // write to file
-//     fs.writeFileSync('bin/tmp/graphsRoVaccineData.json', JSON.stringify(result,undefined,2))
-//   });
+fetch(dateLaZiURL)
+  .then((res) => res.json())
+  .then((result) => {
+    // write to file
+    fs.writeFileSync('bin/tmp/dateLaZiData.json', JSON.stringify(result,undefined,2))
+  });
 
-fs.writeFileSync('src/data/data.json', JSON.stringify(processData(dateLaZiData, graphsRoMainData,graphsRoVaccineData),undefined, 2))
+fetch(graphsRoMainURL)
+  .then((res) => res.json())
+  .then((result) => {
+    // write to file
+    fs.writeFileSync('bin/tmp/graphsRoData.json', JSON.stringify(result,undefined,2))
+  });
+fetch(graphsRoVaccineURL)
+  .then((res) => res.json())
+  .then((result) => {
+    // write to file
+    fs.writeFileSync('bin/tmp/graphsRoVaccineData.json', JSON.stringify(result,undefined,2))
+  });
+
+fs.writeFileSync(
+  'src/data/data.json',
+  JSON.stringify(processData(dateLaZiData, graphsRoMainData,graphsRoVaccineData),undefined, 2))
