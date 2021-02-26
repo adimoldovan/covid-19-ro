@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import data from '../data/data.json';
+import counties from '../data/counties.json';
 import {Col, Container, Row} from 'react-bootstrap';
 import formattedNumber from '../utils';
 import TotalCasesChart from './chart-totals-infected-active';
@@ -7,8 +8,9 @@ import DailySummaryChart from './daily-summary-chart';
 import DailySingleBarChart from './daily-single-chart';
 import {Colors} from '../config/constants';
 import DailyTestsChart from './daily-tests-chart';
+import County from './county';
 
-export default class Countries extends Component {
+export default class Dashboard extends Component {
   render() {
     const today = data[data.length - 1];
 
@@ -191,6 +193,15 @@ export default class Countries extends Component {
               color={Colors.recovered} name='recovered'
             />
           </Col>
+        </Row>
+        <hr />
+        {/* Counties */}
+        <Row className='spaced-row'>
+          {
+            Object.entries(counties).map(([key, val]) =>
+              <County county={val} key={key} />
+            )
+          }
         </Row>
         <hr />
         {/* Footer */}
