@@ -90,9 +90,20 @@ function processData() {
 
     let vaccineData = vaccineSeries.filter(function (element) {return element.data_date ===  d.reporting_date;})[0];
 
-    // when there is no vaccine data for today, use the last data available
+    let noNewVaccineDosesAdministered = null;
+    let noNewPfizer = null;
+    let noNewModerna = null;
+    let noNewAstraZeneca = null;
+
+    // when there is no vaccine data for today, use the last data available for total, and nulls for new doses
     if (!vaccineData) {
       vaccineData = vaccineSeries[0];
+    } else {
+      noNewVaccineDosesAdministered = vaccineData.mega_total_pfizer +
+        vaccineData.mega_total_moderna + vaccineData.mega_total_astrazeneca;
+      noNewPfizer =  vaccineData.mega_total_pfizer;
+      noNewModerna = vaccineData.mega_total_moderna;
+      noNewAstraZeneca = vaccineData.mega_total_astrazeneca;
     }
 
     const noImmunized = (vaccineData === undefined) ? 0 : vaccineData.total_2;
@@ -117,6 +128,10 @@ function processData() {
       noVaccineDosesAdministered: (vaccineData === undefined) ? 0 : vaccineData.total_doze,
       noImmunized,
       prcImmunized: (noImmunized/population*100).toFixed(1),
+      noNewVaccineDosesAdministered,
+      noNewPfizer,
+      noNewModerna,
+      noNewAstraZeneca,
       noNewTestsTotal: d.new_tests_today,
       noNewTestsCaseDef: d.tests_for_case_definition,
       noNewTestsOnRequest: d.tests_upon_request,

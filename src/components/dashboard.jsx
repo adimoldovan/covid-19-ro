@@ -9,10 +9,19 @@ import DailySingleBarChart from './daily-single-chart';
 import {Colors} from '../config/constants';
 import DailyTestsChart from './daily-tests-chart';
 import County from './county';
+import DailyVaccinesChart from './daily-vaccines-chart';
 
 export default class Dashboard extends Component {
   render() {
     const today = data[data.length - 1];
+
+    let newlyVaccinated = today.noNewVaccineDosesAdministered;
+
+    // if the vaccine data is not available for today, we use yesterday data
+    if(newlyVaccinated == null) {
+      newlyVaccinated = data[data.length - 2].noNewVaccineDosesAdministered;
+    }
+
 
     return (
       <Container fluid>
@@ -104,6 +113,18 @@ export default class Dashboard extends Component {
         </Row>
         <hr />
         {/* Main charts */}
+        <Row className='spaced-row align-items-center'>
+          <Col sm={2}>
+            <div className='summary-box left'>
+              <span className='number'>{formattedNumber(newlyVaccinated)}</span>
+              <br />
+              <span className='description'>newly vaccinated</span>
+            </div>
+          </Col>
+          <Col sm={10}>
+            <DailyVaccinesChart />
+          </Col>
+        </Row>
         <Row className='spaced-row align-items-center'>
           <Col sm={2}>
             <div className='summary-box left'>
