@@ -17,7 +17,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": null,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-04",
@@ -37,7 +41,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": null,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-05",
@@ -57,7 +65,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": null,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-06",
@@ -77,7 +89,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": null,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-07",
@@ -97,7 +113,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": null,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-08",
@@ -117,7 +137,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": null,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-09",
@@ -137,7 +161,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": null,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-10",
@@ -157,7 +185,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": null,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-11",
@@ -177,7 +209,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": null,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-12",
@@ -197,7 +233,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": null,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-13",
@@ -217,7 +257,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": null,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-14",
@@ -237,7 +281,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": null,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-15",
@@ -257,7 +305,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 276,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-16",
@@ -277,7 +329,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 503,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-17",
@@ -297,7 +353,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 442,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-18",
@@ -317,7 +377,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 520,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-19",
@@ -337,7 +401,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 303,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-20",
@@ -357,7 +425,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 3311,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-21",
@@ -377,7 +449,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 631,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-22",
@@ -397,7 +473,11 @@
     "noNewDeceased": null,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 1052,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-23",
@@ -417,7 +497,11 @@
     "noNewDeceased": 2,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 1256,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-24",
@@ -437,7 +521,11 @@
     "noNewDeceased": 4,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 1401,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-25",
@@ -457,7 +545,11 @@
     "noNewDeceased": 5,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 1842,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-26",
@@ -477,7 +569,11 @@
     "noNewDeceased": 4,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 1532,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-27",
@@ -497,7 +593,11 @@
     "noNewDeceased": 7,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 1455,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-28",
@@ -517,7 +617,11 @@
     "noNewDeceased": 5,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 2210,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-29",
@@ -537,7 +641,11 @@
     "noNewDeceased": 9,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 1797,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-30",
@@ -557,7 +665,11 @@
     "noNewDeceased": 8,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 1643,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-03-31",
@@ -577,7 +689,11 @@
     "noNewDeceased": 23,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 1551,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-01",
@@ -597,7 +713,11 @@
     "noNewDeceased": 16,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 1955,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-02",
@@ -617,7 +737,11 @@
     "noNewDeceased": 9,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 1874,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-03",
@@ -637,7 +761,11 @@
     "noNewDeceased": 22,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 3174,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-04",
@@ -657,7 +785,11 @@
     "noNewDeceased": 25,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 4435,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-05",
@@ -677,7 +809,11 @@
     "noNewDeceased": 7,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 2531,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-06",
@@ -697,7 +833,11 @@
     "noNewDeceased": 9,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 2364,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-07",
@@ -717,7 +857,11 @@
     "noNewDeceased": 25,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 2591,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-08",
@@ -737,7 +881,11 @@
     "noNewDeceased": 27,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 3629,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-09",
@@ -757,7 +905,11 @@
     "noNewDeceased": 20,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 4595,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-10",
@@ -777,7 +929,11 @@
     "noNewDeceased": 28,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 3628,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-11",
@@ -797,7 +953,11 @@
     "noNewDeceased": 25,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 3842,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-12",
@@ -817,7 +977,11 @@
     "noNewDeceased": 24,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 3056,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-13",
@@ -837,7 +1001,11 @@
     "noNewDeceased": 12,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 4876,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-14",
@@ -857,7 +1025,11 @@
     "noNewDeceased": 4,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 2893,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-15",
@@ -877,7 +1049,11 @@
     "noNewDeceased": 40,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 4730,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-16",
@@ -897,7 +1073,11 @@
     "noNewDeceased": 25,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 4802,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-17",
@@ -917,7 +1097,11 @@
     "noNewDeceased": 13,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6176,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-18",
@@ -937,7 +1121,11 @@
     "noNewDeceased": 17,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 5186,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-19",
@@ -957,7 +1145,11 @@
     "noNewDeceased": 17,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 2620,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-20",
@@ -977,7 +1169,11 @@
     "noNewDeceased": 17,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 4880,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-21",
@@ -997,7 +1193,11 @@
     "noNewDeceased": 31,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 3061,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-22",
@@ -1017,7 +1217,11 @@
     "noNewDeceased": 26,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 4805,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-23",
@@ -1037,7 +1241,11 @@
     "noNewDeceased": 19,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6979,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-24",
@@ -1057,7 +1265,11 @@
     "noNewDeceased": 25,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8266,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-25",
@@ -1077,7 +1289,11 @@
     "noNewDeceased": 23,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 5043,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-26",
@@ -1097,7 +1313,11 @@
     "noNewDeceased": 33,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 9873,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-27",
@@ -1117,7 +1337,11 @@
     "noNewDeceased": 23,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 7316,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-28",
@@ -1137,7 +1361,11 @@
     "noNewDeceased": 19,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6475,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-29",
@@ -1157,7 +1385,11 @@
     "noNewDeceased": 25,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 16684,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-04-30",
@@ -1177,7 +1409,11 @@
     "noNewDeceased": 20,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8381,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-01",
@@ -1197,7 +1433,11 @@
     "noNewDeceased": 31,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8314,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-02",
@@ -1217,7 +1457,11 @@
     "noNewDeceased": 29,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6852,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-03",
@@ -1237,7 +1481,11 @@
     "noNewDeceased": 25,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 4968,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-04",
@@ -1257,7 +1505,11 @@
     "noNewDeceased": 23,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 3560,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-05",
@@ -1277,7 +1529,11 @@
     "noNewDeceased": 24,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6774,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-06",
@@ -1297,7 +1553,11 @@
     "noNewDeceased": 31,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11297,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-07",
@@ -1317,7 +1577,11 @@
     "noNewDeceased": 18,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 9474,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-08",
@@ -1337,7 +1601,11 @@
     "noNewDeceased": 22,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 10667,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-09",
@@ -1357,7 +1625,11 @@
     "noNewDeceased": 28,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 10776,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-10",
@@ -1377,7 +1649,11 @@
     "noNewDeceased": 26,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8693,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-11",
@@ -1397,7 +1673,11 @@
     "noNewDeceased": 20,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 5470,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-12",
@@ -1417,7 +1697,11 @@
     "noNewDeceased": 19,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6964,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-13",
@@ -1437,7 +1721,11 @@
     "noNewDeceased": 25,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8621,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-14",
@@ -1457,7 +1745,11 @@
     "noNewDeceased": 30,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8413,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-15",
@@ -1477,7 +1769,11 @@
     "noNewDeceased": 10,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8384,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-16",
@@ -1497,7 +1793,11 @@
     "noNewDeceased": 25,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 9133,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-17",
@@ -1517,7 +1817,11 @@
     "noNewDeceased": 16,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6673,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-18",
@@ -1537,7 +1841,11 @@
     "noNewDeceased": 10,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 3214,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-19",
@@ -1557,7 +1865,11 @@
     "noNewDeceased": 19,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8453,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-20",
@@ -1577,7 +1889,11 @@
     "noNewDeceased": 15,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 10413,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-21",
@@ -1597,7 +1913,11 @@
     "noNewDeceased": 10,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 9979,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-22",
@@ -1617,7 +1937,11 @@
     "noNewDeceased": 8,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 10181,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-23",
@@ -1637,7 +1961,11 @@
     "noNewDeceased": 11,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8919,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-24",
@@ -1657,7 +1985,11 @@
     "noNewDeceased": 9,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6916,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-25",
@@ -1677,7 +2009,11 @@
     "noNewDeceased": 14,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8709,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-26",
@@ -1697,7 +2033,11 @@
     "noNewDeceased": 17,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8537,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-27",
@@ -1717,7 +2057,11 @@
     "noNewDeceased": 9,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11835,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-28",
@@ -1737,7 +2081,11 @@
     "noNewDeceased": 10,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 12437,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-29",
@@ -1757,7 +2105,11 @@
     "noNewDeceased": 11,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11451,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-30",
@@ -1777,7 +2129,11 @@
     "noNewDeceased": 13,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 4368,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-05-31",
@@ -1797,7 +2153,11 @@
     "noNewDeceased": 9,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 13378,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-01",
@@ -1817,7 +2177,11 @@
     "noNewDeceased": 8,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 4055,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-02",
@@ -1837,7 +2201,11 @@
     "noNewDeceased": 9,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 5561,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-03",
@@ -1857,7 +2225,11 @@
     "noNewDeceased": 9,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 10592,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-04",
@@ -1877,7 +2249,11 @@
     "noNewDeceased": 11,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 13445,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-05",
@@ -1897,7 +2273,11 @@
     "noNewDeceased": 9,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11932,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-06",
@@ -1917,7 +2297,11 @@
     "noNewDeceased": 10,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11626,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-07",
@@ -1937,7 +2321,11 @@
     "noNewDeceased": 8,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6792,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-08",
@@ -1957,7 +2345,11 @@
     "noNewDeceased": 8,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 2915,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-09",
@@ -1977,7 +2369,11 @@
     "noNewDeceased": 11,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 5180,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-10",
@@ -1997,7 +2393,11 @@
     "noNewDeceased": 15,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 9269,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-11",
@@ -2017,7 +2417,11 @@
     "noNewDeceased": 9,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11055,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-12",
@@ -2037,7 +2441,11 @@
     "noNewDeceased": 11,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11027,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-13",
@@ -2057,7 +2465,11 @@
     "noNewDeceased": 14,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 10024,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-14",
@@ -2077,7 +2489,11 @@
     "noNewDeceased": 16,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 7926,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-15",
@@ -2097,7 +2513,11 @@
     "noNewDeceased": 17,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 3682,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-16",
@@ -2117,7 +2537,11 @@
     "noNewDeceased": 10,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 9360,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-17",
@@ -2137,7 +2561,11 @@
     "noNewDeceased": 14,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11715,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-18",
@@ -2157,7 +2585,11 @@
     "noNewDeceased": 22,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 12343,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-19",
@@ -2177,7 +2609,11 @@
     "noNewDeceased": 11,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11075,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-20",
@@ -2197,7 +2633,11 @@
     "noNewDeceased": 16,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11226,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-21",
@@ -2217,7 +2657,11 @@
     "noNewDeceased": 12,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6333,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-22",
@@ -2237,7 +2681,11 @@
     "noNewDeceased": 11,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 4044,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-23",
@@ -2257,7 +2705,11 @@
     "noNewDeceased": 16,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8948,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-24",
@@ -2277,7 +2729,11 @@
     "noNewDeceased": 16,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11681,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-25",
@@ -2297,7 +2753,11 @@
     "noNewDeceased": 10,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 12555,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-26",
@@ -2317,7 +2777,11 @@
     "noNewDeceased": 14,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11824,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-27",
@@ -2337,7 +2801,11 @@
     "noNewDeceased": 10,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 12236,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-28",
@@ -2357,7 +2825,11 @@
     "noNewDeceased": 23,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 7291,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-29",
@@ -2377,7 +2849,11 @@
     "noNewDeceased": 22,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 4779,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-06-30",
@@ -2397,7 +2873,11 @@
     "noNewDeceased": 17,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 10424,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-01",
@@ -2417,7 +2897,11 @@
     "noNewDeceased": 16,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 12585,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-02",
@@ -2437,7 +2921,11 @@
     "noNewDeceased": 20,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 12524,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-03",
@@ -2457,7 +2945,11 @@
     "noNewDeceased": 21,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 12371,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-04",
@@ -2477,7 +2969,11 @@
     "noNewDeceased": 23,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11445,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-05",
@@ -2497,7 +2993,11 @@
     "noNewDeceased": 19,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 7831,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-06",
@@ -2517,7 +3017,11 @@
     "noNewDeceased": 18,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 4614,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-07",
@@ -2537,7 +3041,11 @@
     "noNewDeceased": 31,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11855,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-08",
@@ -2557,7 +3065,11 @@
     "noNewDeceased": 18,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 13147,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-09",
@@ -2577,7 +3089,11 @@
     "noNewDeceased": 17,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 13179,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-10",
@@ -2597,7 +3113,11 @@
     "noNewDeceased": 13,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 14680,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-11",
@@ -2617,7 +3137,11 @@
     "noNewDeceased": 24,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 14610,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-12",
@@ -2637,7 +3161,11 @@
     "noNewDeceased": 13,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8633,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-13",
@@ -2657,7 +3185,11 @@
     "noNewDeceased": 17,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6655,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-14",
@@ -2677,7 +3209,11 @@
     "noNewDeceased": 30,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 14237,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-15",
@@ -2697,7 +3233,11 @@
     "noNewDeceased": 21,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 18440,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-16",
@@ -2717,7 +3257,11 @@
     "noNewDeceased": 19,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 19097,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-17",
@@ -2737,7 +3281,11 @@
     "noNewDeceased": 17,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 18986,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-18",
@@ -2757,7 +3305,11 @@
     "noNewDeceased": 21,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 18732,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-19",
@@ -2777,7 +3329,11 @@
     "noNewDeceased": 17,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 14889,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-20",
@@ -2797,7 +3353,11 @@
     "noNewDeceased": 12,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8570,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-21",
@@ -2817,7 +3377,11 @@
     "noNewDeceased": 36,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 17204,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-22",
@@ -2837,7 +3401,11 @@
     "noNewDeceased": 27,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 24877,
+    "noNewTestsCaseDef": null,
+    "noNewTestsOnRequest": null,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-07-23",
@@ -2857,7 +3425,11 @@
     "noNewDeceased": 25,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 21419,
+    "noNewTestsCaseDef": 11978,
+    "noNewTestsOnRequest": 8107,
+    "noNewTestsOldResults": 1334
   },
   {
     "date": "2020-07-24",
@@ -2877,7 +3449,11 @@
     "noNewDeceased": 24,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 22964,
+    "noNewTestsCaseDef": 12839,
+    "noNewTestsOnRequest": 9693,
+    "noNewTestsOldResults": 432
   },
   {
     "date": "2020-07-25",
@@ -2897,7 +3473,11 @@
     "noNewDeceased": 15,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 34127,
+    "noNewTestsCaseDef": 13182,
+    "noNewTestsOnRequest": 9329,
+    "noNewTestsOldResults": 11616
   },
   {
     "date": "2020-07-26",
@@ -2917,7 +3497,11 @@
     "noNewDeceased": 22,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 15118,
+    "noNewTestsCaseDef": 8679,
+    "noNewTestsOnRequest": 6419,
+    "noNewTestsOldResults": 20
   },
   {
     "date": "2020-07-27",
@@ -2937,7 +3521,11 @@
     "noNewDeceased": 19,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 7633,
+    "noNewTestsCaseDef": 4877,
+    "noNewTestsOnRequest": 2697,
+    "noNewTestsOldResults": 59
   },
   {
     "date": "2020-07-28",
@@ -2957,7 +3545,11 @@
     "noNewDeceased": 33,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 21165,
+    "noNewTestsCaseDef": 13127,
+    "noNewTestsOnRequest": 8008,
+    "noNewTestsOldResults": 30
   },
   {
     "date": "2020-07-29",
@@ -2977,7 +3569,11 @@
     "noNewDeceased": 30,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 22529,
+    "noNewTestsCaseDef": 13954,
+    "noNewTestsOnRequest": 8095,
+    "noNewTestsOldResults": 480
   },
   {
     "date": "2020-07-30",
@@ -2997,7 +3593,11 @@
     "noNewDeceased": 35,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 23402,
+    "noNewTestsCaseDef": 13566,
+    "noNewTestsOnRequest": 9780,
+    "noNewTestsOldResults": 56
   },
   {
     "date": "2020-07-31",
@@ -3017,7 +3617,11 @@
     "noNewDeceased": 39,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 24977,
+    "noNewTestsCaseDef": 13113,
+    "noNewTestsOnRequest": 9654,
+    "noNewTestsOldResults": 2210
   },
   {
     "date": "2020-08-01",
@@ -3037,7 +3641,11 @@
     "noNewDeceased": 36,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 23451,
+    "noNewTestsCaseDef": 13756,
+    "noNewTestsOnRequest": 9695,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-02",
@@ -3057,7 +3665,11 @@
     "noNewDeceased": 34,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 14215,
+    "noNewTestsCaseDef": 8525,
+    "noNewTestsOnRequest": 5690,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-03",
@@ -3077,7 +3689,11 @@
     "noNewDeceased": 19,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8045,
+    "noNewTestsCaseDef": 5646,
+    "noNewTestsOnRequest": 2399,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-04",
@@ -3097,7 +3713,11 @@
     "noNewDeceased": 48,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 20581,
+    "noNewTestsCaseDef": 13033,
+    "noNewTestsOnRequest": 7548,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-05",
@@ -3117,7 +3737,11 @@
     "noNewDeceased": 41,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 26323,
+    "noNewTestsCaseDef": 15956,
+    "noNewTestsOnRequest": 8152,
+    "noNewTestsOldResults": 2215
   },
   {
     "date": "2020-08-06",
@@ -3137,7 +3761,11 @@
     "noNewDeceased": 45,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 24147,
+    "noNewTestsCaseDef": 14887,
+    "noNewTestsOnRequest": 9260,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-07",
@@ -3157,7 +3785,11 @@
     "noNewDeceased": 50,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 23946,
+    "noNewTestsCaseDef": 14276,
+    "noNewTestsOnRequest": 9670,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-08",
@@ -3177,7 +3809,11 @@
     "noNewDeceased": 43,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 21444,
+    "noNewTestsCaseDef": 13211,
+    "noNewTestsOnRequest": 8233,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-09",
@@ -3197,7 +3833,11 @@
     "noNewDeceased": 41,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 13968,
+    "noNewTestsCaseDef": 8561,
+    "noNewTestsOnRequest": 4792,
+    "noNewTestsOldResults": 615
   },
   {
     "date": "2020-08-10",
@@ -3217,7 +3857,11 @@
     "noNewDeceased": 29,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6607,
+    "noNewTestsCaseDef": 4738,
+    "noNewTestsOnRequest": 1869,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-11",
@@ -3237,7 +3881,11 @@
     "noNewDeceased": 35,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 19511,
+    "noNewTestsCaseDef": 11595,
+    "noNewTestsOnRequest": 7896,
+    "noNewTestsOldResults": 20
   },
   {
     "date": "2020-08-12",
@@ -3257,7 +3905,11 @@
     "noNewDeceased": 43,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 22781,
+    "noNewTestsCaseDef": 14098,
+    "noNewTestsOnRequest": 8509,
+    "noNewTestsOldResults": 174
   },
   {
     "date": "2020-08-13",
@@ -3277,7 +3929,11 @@
     "noNewDeceased": 53,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 22643,
+    "noNewTestsCaseDef": 13999,
+    "noNewTestsOnRequest": 8650,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-14",
@@ -3297,7 +3953,11 @@
     "noNewDeceased": 44,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 27787,
+    "noNewTestsCaseDef": 13439,
+    "noNewTestsOnRequest": 9475,
+    "noNewTestsOldResults": 4873
   },
   {
     "date": "2020-08-15",
@@ -3317,7 +3977,11 @@
     "noNewDeceased": 50,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 23986,
+    "noNewTestsCaseDef": 14239,
+    "noNewTestsOnRequest": 9747,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-16",
@@ -3337,7 +4001,11 @@
     "noNewDeceased": 37,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11846,
+    "noNewTestsCaseDef": 6859,
+    "noNewTestsOnRequest": 4987,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-17",
@@ -3357,7 +4025,11 @@
     "noNewDeceased": 38,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6862,
+    "noNewTestsCaseDef": 4518,
+    "noNewTestsOnRequest": 1872,
+    "noNewTestsOldResults": 472
   },
   {
     "date": "2020-08-18",
@@ -3377,7 +4049,11 @@
     "noNewDeceased": 45,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 21344,
+    "noNewTestsCaseDef": 13290,
+    "noNewTestsOnRequest": 7999,
+    "noNewTestsOldResults": 55
   },
   {
     "date": "2020-08-19",
@@ -3397,7 +4073,11 @@
     "noNewDeceased": 32,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 24538,
+    "noNewTestsCaseDef": 14542,
+    "noNewTestsOnRequest": 9765,
+    "noNewTestsOldResults": 231
   },
   {
     "date": "2020-08-20",
@@ -3417,7 +4097,11 @@
     "noNewDeceased": 48,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 24383,
+    "noNewTestsCaseDef": 13762,
+    "noNewTestsOnRequest": 10561,
+    "noNewTestsOldResults": 60
   },
   {
     "date": "2020-08-21",
@@ -3437,7 +4121,11 @@
     "noNewDeceased": 42,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 25363,
+    "noNewTestsCaseDef": 14242,
+    "noNewTestsOnRequest": 11121,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-22",
@@ -3457,7 +4145,11 @@
     "noNewDeceased": 37,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 22992,
+    "noNewTestsCaseDef": 13593,
+    "noNewTestsOnRequest": 9398,
+    "noNewTestsOldResults": 1
   },
   {
     "date": "2020-08-23",
@@ -3477,7 +4169,11 @@
     "noNewDeceased": 39,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 13274,
+    "noNewTestsCaseDef": 7415,
+    "noNewTestsOnRequest": 5859,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-24",
@@ -3497,7 +4193,11 @@
     "noNewDeceased": 37,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6491,
+    "noNewTestsCaseDef": 4493,
+    "noNewTestsOnRequest": 1967,
+    "noNewTestsOldResults": 31
   },
   {
     "date": "2020-08-25",
@@ -3517,7 +4217,11 @@
     "noNewDeceased": 58,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 20479,
+    "noNewTestsCaseDef": 11764,
+    "noNewTestsOnRequest": 8715,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-26",
@@ -3537,7 +4241,11 @@
     "noNewDeceased": 54,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 25754,
+    "noNewTestsCaseDef": 14886,
+    "noNewTestsOnRequest": 10434,
+    "noNewTestsOldResults": 434
   },
   {
     "date": "2020-08-27",
@@ -3557,7 +4265,11 @@
     "noNewDeceased": 38,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 25052,
+    "noNewTestsCaseDef": 14151,
+    "noNewTestsOnRequest": 10901,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-28",
@@ -3577,7 +4289,11 @@
     "noNewDeceased": 48,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 26500,
+    "noNewTestsCaseDef": 14319,
+    "noNewTestsOnRequest": 11740,
+    "noNewTestsOldResults": 441
   },
   {
     "date": "2020-08-29",
@@ -3597,7 +4313,11 @@
     "noNewDeceased": 32,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 24043,
+    "noNewTestsCaseDef": 13352,
+    "noNewTestsOnRequest": 10691,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-30",
@@ -3617,7 +4337,11 @@
     "noNewDeceased": 39,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 14670,
+    "noNewTestsCaseDef": 7904,
+    "noNewTestsOnRequest": 6766,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-08-31",
@@ -3637,7 +4361,11 @@
     "noNewDeceased": 43,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 7313,
+    "noNewTestsCaseDef": 4347,
+    "noNewTestsOnRequest": 2596,
+    "noNewTestsOldResults": 370
   },
   {
     "date": "2020-09-01",
@@ -3657,7 +4385,11 @@
     "noNewDeceased": 60,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 22326,
+    "noNewTestsCaseDef": 13517,
+    "noNewTestsOnRequest": 8803,
+    "noNewTestsOldResults": 6
   },
   {
     "date": "2020-09-02",
@@ -3677,7 +4409,11 @@
     "noNewDeceased": 40,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 26816,
+    "noNewTestsCaseDef": 16521,
+    "noNewTestsOnRequest": 10022,
+    "noNewTestsOldResults": 273
   },
   {
     "date": "2020-09-03",
@@ -3697,7 +4433,11 @@
     "noNewDeceased": 44,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 23975,
+    "noNewTestsCaseDef": 14760,
+    "noNewTestsOnRequest": 9213,
+    "noNewTestsOldResults": 2
   },
   {
     "date": "2020-09-04",
@@ -3717,7 +4457,11 @@
     "noNewDeceased": 47,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 25177,
+    "noNewTestsCaseDef": 14781,
+    "noNewTestsOnRequest": 10396,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-05",
@@ -3737,7 +4481,11 @@
     "noNewDeceased": 38,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 22380,
+    "noNewTestsCaseDef": 13081,
+    "noNewTestsOnRequest": 9299,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-06",
@@ -3757,7 +4505,11 @@
     "noNewDeceased": 43,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 14871,
+    "noNewTestsCaseDef": 9021,
+    "noNewTestsOnRequest": 5850,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-07",
@@ -3777,7 +4529,11 @@
     "noNewDeceased": 33,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 7247,
+    "noNewTestsCaseDef": 4613,
+    "noNewTestsOnRequest": 2634,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-08",
@@ -3797,7 +4553,11 @@
     "noNewDeceased": 41,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 20552,
+    "noNewTestsCaseDef": 12455,
+    "noNewTestsOnRequest": 8097,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-09",
@@ -3817,7 +4577,11 @@
     "noNewDeceased": 51,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 24297,
+    "noNewTestsCaseDef": 15142,
+    "noNewTestsOnRequest": 8901,
+    "noNewTestsOldResults": 254
   },
   {
     "date": "2020-09-10",
@@ -3837,7 +4601,11 @@
     "noNewDeceased": 47,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 25185,
+    "noNewTestsCaseDef": 14940,
+    "noNewTestsOnRequest": 10245,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-11",
@@ -3857,7 +4625,11 @@
     "noNewDeceased": 35,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 26149,
+    "noNewTestsCaseDef": 14415,
+    "noNewTestsOnRequest": 11734,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-12",
@@ -3877,7 +4649,11 @@
     "noNewDeceased": 27,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 24939,
+    "noNewTestsCaseDef": 14782,
+    "noNewTestsOnRequest": 10157,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-13",
@@ -3897,7 +4673,11 @@
     "noNewDeceased": 36,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 14784,
+    "noNewTestsCaseDef": 8978,
+    "noNewTestsOnRequest": 5806,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-14",
@@ -3917,7 +4697,11 @@
     "noNewDeceased": 22,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 7331,
+    "noNewTestsCaseDef": 4854,
+    "noNewTestsOnRequest": 2477,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-15",
@@ -3937,7 +4721,11 @@
     "noNewDeceased": 51,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 21049,
+    "noNewTestsCaseDef": 12767,
+    "noNewTestsOnRequest": 8327,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-16",
@@ -3957,7 +4745,11 @@
     "noNewDeceased": 49,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 26520,
+    "noNewTestsCaseDef": 16542,
+    "noNewTestsOnRequest": 9449,
+    "noNewTestsOldResults": 529
   },
   {
     "date": "2020-09-17",
@@ -3977,7 +4769,11 @@
     "noNewDeceased": 27,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 24125,
+    "noNewTestsCaseDef": 15292,
+    "noNewTestsOnRequest": 8733,
+    "noNewTestsOldResults": 100
   },
   {
     "date": "2020-09-18",
@@ -3997,7 +4793,11 @@
     "noNewDeceased": 48,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 25254,
+    "noNewTestsCaseDef": 16065,
+    "noNewTestsOnRequest": 9189,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-19",
@@ -4017,7 +4817,11 @@
     "noNewDeceased": 42,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 24148,
+    "noNewTestsCaseDef": 14305,
+    "noNewTestsOnRequest": 8725,
+    "noNewTestsOldResults": 1118
   },
   {
     "date": "2020-09-20",
@@ -4037,7 +4841,11 @@
     "noNewDeceased": 33,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 13391,
+    "noNewTestsCaseDef": 7937,
+    "noNewTestsOnRequest": 5454,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-21",
@@ -4057,7 +4865,11 @@
     "noNewDeceased": 23,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 7940,
+    "noNewTestsCaseDef": 4264,
+    "noNewTestsOnRequest": 2084,
+    "noNewTestsOldResults": 1592
   },
   {
     "date": "2020-09-22",
@@ -4077,7 +4889,11 @@
     "noNewDeceased": 45,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 21978,
+    "noNewTestsCaseDef": 13773,
+    "noNewTestsOnRequest": 8205,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-23",
@@ -4097,7 +4913,11 @@
     "noNewDeceased": 47,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 24745,
+    "noNewTestsCaseDef": 15165,
+    "noNewTestsOnRequest": 9379,
+    "noNewTestsOldResults": 201
   },
   {
     "date": "2020-09-24",
@@ -4117,7 +4937,11 @@
     "noNewDeceased": 41,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 24703,
+    "noNewTestsCaseDef": 15314,
+    "noNewTestsOnRequest": 8964,
+    "noNewTestsOldResults": 425
   },
   {
     "date": "2020-09-25",
@@ -4137,7 +4961,11 @@
     "noNewDeceased": 42,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 25494,
+    "noNewTestsCaseDef": 15879,
+    "noNewTestsOnRequest": 9615,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-26",
@@ -4157,7 +4985,11 @@
     "noNewDeceased": 54,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 24328,
+    "noNewTestsCaseDef": 14748,
+    "noNewTestsOnRequest": 9483,
+    "noNewTestsOldResults": 97
   },
   {
     "date": "2020-09-27",
@@ -4177,7 +5009,11 @@
     "noNewDeceased": 31,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 13528,
+    "noNewTestsCaseDef": 7909,
+    "noNewTestsOnRequest": 5619,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-28",
@@ -4197,7 +5033,11 @@
     "noNewDeceased": 30,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6162,
+    "noNewTestsCaseDef": 4306,
+    "noNewTestsOnRequest": 1856,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-29",
@@ -4217,7 +5057,11 @@
     "noNewDeceased": 44,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 21330,
+    "noNewTestsCaseDef": 12992,
+    "noNewTestsOnRequest": 8338,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-09-30",
@@ -4237,7 +5081,11 @@
     "noNewDeceased": 33,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 26021,
+    "noNewTestsCaseDef": 16233,
+    "noNewTestsOnRequest": 9788,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-01",
@@ -4257,7 +5105,11 @@
     "noNewDeceased": 37,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 25797,
+    "noNewTestsCaseDef": 16991,
+    "noNewTestsOnRequest": 8806,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-02",
@@ -4277,7 +5129,11 @@
     "noNewDeceased": 53,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 26011,
+    "noNewTestsCaseDef": 15436,
+    "noNewTestsOnRequest": 10575,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-03",
@@ -4297,7 +5153,11 @@
     "noNewDeceased": 32,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 24940,
+    "noNewTestsCaseDef": 15455,
+    "noNewTestsOnRequest": 9392,
+    "noNewTestsOldResults": 93
   },
   {
     "date": "2020-10-04",
@@ -4317,7 +5177,11 @@
     "noNewDeceased": 56,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 13770,
+    "noNewTestsCaseDef": 8720,
+    "noNewTestsOnRequest": 5050,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-05",
@@ -4337,7 +5201,11 @@
     "noNewDeceased": 45,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 6537,
+    "noNewTestsCaseDef": 4454,
+    "noNewTestsOnRequest": 2083,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-06",
@@ -4357,7 +5225,11 @@
     "noNewDeceased": 73,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 23476,
+    "noNewTestsCaseDef": 14771,
+    "noNewTestsOnRequest": 8705,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-07",
@@ -4377,7 +5249,11 @@
     "noNewDeceased": 82,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 27849,
+    "noNewTestsCaseDef": 17351,
+    "noNewTestsOnRequest": 10463,
+    "noNewTestsOldResults": 35
   },
   {
     "date": "2020-10-08",
@@ -4397,7 +5273,11 @@
     "noNewDeceased": 44,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 30191,
+    "noNewTestsCaseDef": 18626,
+    "noNewTestsOnRequest": 11565,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-09",
@@ -4417,7 +5297,11 @@
     "noNewDeceased": 52,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 29282,
+    "noNewTestsCaseDef": 17286,
+    "noNewTestsOnRequest": 11996,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-10",
@@ -4437,7 +5321,11 @@
     "noNewDeceased": 59,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 29284,
+    "noNewTestsCaseDef": 16924,
+    "noNewTestsOnRequest": 12360,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-11",
@@ -4457,7 +5345,11 @@
     "noNewDeceased": 53,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 15709,
+    "noNewTestsCaseDef": 9160,
+    "noNewTestsOnRequest": 6549,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-12",
@@ -4477,7 +5369,11 @@
     "noNewDeceased": 56,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 10051,
+    "noNewTestsCaseDef": 6605,
+    "noNewTestsOnRequest": 3446,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-13",
@@ -4497,7 +5393,11 @@
     "noNewDeceased": 68,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 26718,
+    "noNewTestsCaseDef": 16933,
+    "noNewTestsOnRequest": 9785,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-14",
@@ -4517,7 +5417,11 @@
     "noNewDeceased": 66,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 31318,
+    "noNewTestsCaseDef": 18899,
+    "noNewTestsOnRequest": 12419,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-15",
@@ -4537,7 +5441,11 @@
     "noNewDeceased": 73,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 29857,
+    "noNewTestsCaseDef": 17575,
+    "noNewTestsOnRequest": 12081,
+    "noNewTestsOldResults": 211
   },
   {
     "date": "2020-10-16",
@@ -4557,7 +5465,11 @@
     "noNewDeceased": 75,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 30431,
+    "noNewTestsCaseDef": 18337,
+    "noNewTestsOnRequest": 11988,
+    "noNewTestsOldResults": 106
   },
   {
     "date": "2020-10-17",
@@ -4577,7 +5489,11 @@
     "noNewDeceased": 63,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 31767,
+    "noNewTestsCaseDef": 18564,
+    "noNewTestsOnRequest": 13203,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-18",
@@ -4597,7 +5513,11 @@
     "noNewDeceased": 60,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 19507,
+    "noNewTestsCaseDef": 11530,
+    "noNewTestsOnRequest": 7977,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-19",
@@ -4617,7 +5537,11 @@
     "noNewDeceased": 59,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8040,
+    "noNewTestsCaseDef": 5681,
+    "noNewTestsOnRequest": 2359,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-20",
@@ -4637,7 +5561,11 @@
     "noNewDeceased": 65,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 29845,
+    "noNewTestsCaseDef": 19172,
+    "noNewTestsOnRequest": 10228,
+    "noNewTestsOldResults": 445
   },
   {
     "date": "2020-10-21",
@@ -4657,7 +5585,11 @@
     "noNewDeceased": 69,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 37025,
+    "noNewTestsCaseDef": 22388,
+    "noNewTestsOnRequest": 14637,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-22",
@@ -4677,7 +5609,11 @@
     "noNewDeceased": 98,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 34466,
+    "noNewTestsCaseDef": 21260,
+    "noNewTestsOnRequest": 13206,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-23",
@@ -4697,7 +5633,11 @@
     "noNewDeceased": 82,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 41238,
+    "noNewTestsCaseDef": 22018,
+    "noNewTestsOnRequest": 13333,
+    "noNewTestsOldResults": 5887
   },
   {
     "date": "2020-10-24",
@@ -4717,7 +5657,11 @@
     "noNewDeceased": 73,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 33843,
+    "noNewTestsCaseDef": 19931,
+    "noNewTestsOnRequest": 13912,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-25",
@@ -4737,7 +5681,11 @@
     "noNewDeceased": 73,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 19346,
+    "noNewTestsCaseDef": 11948,
+    "noNewTestsOnRequest": 7344,
+    "noNewTestsOldResults": 54
   },
   {
     "date": "2020-10-26",
@@ -4757,7 +5705,11 @@
     "noNewDeceased": 79,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8709,
+    "noNewTestsCaseDef": 6229,
+    "noNewTestsOnRequest": 2480,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-27",
@@ -4777,7 +5729,11 @@
     "noNewDeceased": 104,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 31828,
+    "noNewTestsCaseDef": 18498,
+    "noNewTestsOnRequest": 10378,
+    "noNewTestsOldResults": 2952
   },
   {
     "date": "2020-10-28",
@@ -4797,7 +5753,11 @@
     "noNewDeceased": 107,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 37283,
+    "noNewTestsCaseDef": 22641,
+    "noNewTestsOnRequest": 14174,
+    "noNewTestsOldResults": 468
   },
   {
     "date": "2020-10-29",
@@ -4817,7 +5777,11 @@
     "noNewDeceased": 83,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 36169,
+    "noNewTestsCaseDef": 22182,
+    "noNewTestsOnRequest": 13987,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-10-30",
@@ -4837,7 +5801,11 @@
     "noNewDeceased": 103,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 36589,
+    "noNewTestsCaseDef": 22342,
+    "noNewTestsOnRequest": 13993,
+    "noNewTestsOldResults": 254
   },
   {
     "date": "2020-10-31",
@@ -4857,7 +5825,11 @@
     "noNewDeceased": 101,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 36181,
+    "noNewTestsCaseDef": 20708,
+    "noNewTestsOnRequest": 15473,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-01",
@@ -4877,7 +5849,11 @@
     "noNewDeceased": 99,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 21556,
+    "noNewTestsCaseDef": 12014,
+    "noNewTestsOnRequest": 9409,
+    "noNewTestsOldResults": 133
   },
   {
     "date": "2020-11-02",
@@ -4897,7 +5873,11 @@
     "noNewDeceased": 86,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 10566,
+    "noNewTestsCaseDef": 7089,
+    "noNewTestsOnRequest": 3477,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-03",
@@ -4917,7 +5897,11 @@
     "noNewDeceased": 120,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 30439,
+    "noNewTestsCaseDef": 17698,
+    "noNewTestsOnRequest": 12638,
+    "noNewTestsOldResults": 103
   },
   {
     "date": "2020-11-04",
@@ -4937,7 +5921,11 @@
     "noNewDeceased": 146,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 36558,
+    "noNewTestsCaseDef": 21808,
+    "noNewTestsOnRequest": 14156,
+    "noNewTestsOldResults": 594
   },
   {
     "date": "2020-11-05",
@@ -4957,7 +5945,11 @@
     "noNewDeceased": 121,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 37742,
+    "noNewTestsCaseDef": 21622,
+    "noNewTestsOnRequest": 16063,
+    "noNewTestsOldResults": 57
   },
   {
     "date": "2020-11-06",
@@ -4977,7 +5969,11 @@
     "noNewDeceased": 123,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 38636,
+    "noNewTestsCaseDef": 21568,
+    "noNewTestsOnRequest": 16830,
+    "noNewTestsOldResults": 238
   },
   {
     "date": "2020-11-07",
@@ -4997,7 +5993,11 @@
     "noNewDeceased": 130,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 36848,
+    "noNewTestsCaseDef": 20612,
+    "noNewTestsOnRequest": 15590,
+    "noNewTestsOldResults": 646
   },
   {
     "date": "2020-11-08",
@@ -5017,7 +6017,11 @@
     "noNewDeceased": 86,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 21552,
+    "noNewTestsCaseDef": 13421,
+    "noNewTestsOnRequest": 8131,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-09",
@@ -5037,7 +6041,11 @@
     "noNewDeceased": 130,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11445,
+    "noNewTestsCaseDef": 7286,
+    "noNewTestsOnRequest": 4159,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-10",
@@ -5057,7 +6065,11 @@
     "noNewDeceased": 177,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 31005,
+    "noNewTestsCaseDef": 18988,
+    "noNewTestsOnRequest": 12017,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-11",
@@ -5077,7 +6089,11 @@
     "noNewDeceased": 203,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 38863,
+    "noNewTestsCaseDef": 23110,
+    "noNewTestsOnRequest": 15753,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-12",
@@ -5097,7 +6113,11 @@
     "noNewDeceased": 121,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 35762,
+    "noNewTestsCaseDef": 20855,
+    "noNewTestsOnRequest": 14907,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-13",
@@ -5117,7 +6137,11 @@
     "noNewDeceased": 174,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 37136,
+    "noNewTestsCaseDef": 22169,
+    "noNewTestsOnRequest": 14967,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-14",
@@ -5137,7 +6161,11 @@
     "noNewDeceased": 129,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 37040,
+    "noNewTestsCaseDef": 21204,
+    "noNewTestsOnRequest": 15836,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-15",
@@ -5157,7 +6185,11 @@
     "noNewDeceased": 113,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 23166,
+    "noNewTestsCaseDef": 13195,
+    "noNewTestsOnRequest": 8376,
+    "noNewTestsOldResults": 1595
   },
   {
     "date": "2020-11-16",
@@ -5177,7 +6209,11 @@
     "noNewDeceased": 149,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 11266,
+    "noNewTestsCaseDef": 7499,
+    "noNewTestsOnRequest": 3767,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-17",
@@ -5197,7 +6233,11 @@
     "noNewDeceased": 186,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 31082,
+    "noNewTestsCaseDef": 18868,
+    "noNewTestsOnRequest": 12214,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-18",
@@ -5217,7 +6257,11 @@
     "noNewDeceased": 168,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 37906,
+    "noNewTestsCaseDef": 23269,
+    "noNewTestsOnRequest": 14637,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-19",
@@ -5237,7 +6281,11 @@
     "noNewDeceased": 167,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 36963,
+    "noNewTestsCaseDef": 20954,
+    "noNewTestsOnRequest": 16009,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-20",
@@ -5257,7 +6305,11 @@
     "noNewDeceased": 160,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 36453,
+    "noNewTestsCaseDef": 21299,
+    "noNewTestsOnRequest": 15154,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-21",
@@ -5277,7 +6329,11 @@
     "noNewDeceased": 160,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 33221,
+    "noNewTestsCaseDef": 20387,
+    "noNewTestsOnRequest": 12834,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-22",
@@ -5297,7 +6353,11 @@
     "noNewDeceased": 131,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 20790,
+    "noNewTestsCaseDef": 13258,
+    "noNewTestsOnRequest": 7532,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-23",
@@ -5317,7 +6377,11 @@
     "noNewDeceased": 130,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 9938,
+    "noNewTestsCaseDef": 7488,
+    "noNewTestsOnRequest": 2450,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-24",
@@ -5337,7 +6401,11 @@
     "noNewDeceased": 196,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 30740,
+    "noNewTestsCaseDef": 19069,
+    "noNewTestsOnRequest": 11671,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-25",
@@ -5357,7 +6425,11 @@
     "noNewDeceased": 168,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 35575,
+    "noNewTestsCaseDef": 22524,
+    "noNewTestsOnRequest": 13051,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-26",
@@ -5377,7 +6449,11 @@
     "noNewDeceased": 171,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 36891,
+    "noNewTestsCaseDef": 22829,
+    "noNewTestsOnRequest": 13442,
+    "noNewTestsOldResults": 620
   },
   {
     "date": "2020-11-27",
@@ -5397,7 +6473,11 @@
     "noNewDeceased": 172,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 36649,
+    "noNewTestsCaseDef": 23026,
+    "noNewTestsOnRequest": 12584,
+    "noNewTestsOldResults": 1039
   },
   {
     "date": "2020-11-28",
@@ -5417,7 +6497,11 @@
     "noNewDeceased": 161,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 33021,
+    "noNewTestsCaseDef": 20669,
+    "noNewTestsOnRequest": 12352,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-29",
@@ -5437,7 +6521,11 @@
     "noNewDeceased": 148,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 16225,
+    "noNewTestsCaseDef": 9877,
+    "noNewTestsOnRequest": 6348,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-11-30",
@@ -5457,7 +6545,11 @@
     "noNewDeceased": 138,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 9785,
+    "noNewTestsCaseDef": 7039,
+    "noNewTestsOnRequest": 2747,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-01",
@@ -5477,7 +6569,11 @@
     "noNewDeceased": 199,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 14625,
+    "noNewTestsCaseDef": 9551,
+    "noNewTestsOnRequest": 5037,
+    "noNewTestsOldResults": 37
   },
   {
     "date": "2020-12-02",
@@ -5497,7 +6593,11 @@
     "noNewDeceased": 135,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 15701,
+    "noNewTestsCaseDef": 11455,
+    "noNewTestsOnRequest": 4246,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-03",
@@ -5517,7 +6617,11 @@
     "noNewDeceased": 211,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 32120,
+    "noNewTestsCaseDef": 20420,
+    "noNewTestsOnRequest": 11700,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-04",
@@ -5537,7 +6641,11 @@
     "noNewDeceased": 176,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 35467,
+    "noNewTestsCaseDef": 23340,
+    "noNewTestsOnRequest": 12127,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-05",
@@ -5557,7 +6665,11 @@
     "noNewDeceased": 134,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 32445,
+    "noNewTestsCaseDef": 20672,
+    "noNewTestsOnRequest": 11679,
+    "noNewTestsOldResults": 4
   },
   {
     "date": "2020-12-06",
@@ -5577,7 +6689,11 @@
     "noNewDeceased": 134,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 17556,
+    "noNewTestsCaseDef": 11391,
+    "noNewTestsOnRequest": 6139,
+    "noNewTestsOldResults": 26
   },
   {
     "date": "2020-12-07",
@@ -5597,7 +6713,11 @@
     "noNewDeceased": 127,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8791,
+    "noNewTestsCaseDef": 6532,
+    "noNewTestsOnRequest": 2259,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-08",
@@ -5617,7 +6737,11 @@
     "noNewDeceased": 213,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 29400,
+    "noNewTestsCaseDef": 19176,
+    "noNewTestsOnRequest": 9975,
+    "noNewTestsOldResults": 249
   },
   {
     "date": "2020-12-09",
@@ -5637,7 +6761,11 @@
     "noNewDeceased": 161,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 31458,
+    "noNewTestsCaseDef": 20394,
+    "noNewTestsOnRequest": 11064,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-10",
@@ -5657,7 +6785,11 @@
     "noNewDeceased": 127,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 31437,
+    "noNewTestsCaseDef": 21078,
+    "noNewTestsOnRequest": 10359,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-11",
@@ -5677,7 +6809,11 @@
     "noNewDeceased": 168,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 30246,
+    "noNewTestsCaseDef": 20287,
+    "noNewTestsOnRequest": 9959,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-12",
@@ -5697,7 +6833,11 @@
     "noNewDeceased": 148,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 26399,
+    "noNewTestsCaseDef": 17098,
+    "noNewTestsOnRequest": 9291,
+    "noNewTestsOldResults": 10
   },
   {
     "date": "2020-12-13",
@@ -5717,7 +6857,11 @@
     "noNewDeceased": 121,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 14859,
+    "noNewTestsCaseDef": 9650,
+    "noNewTestsOnRequest": 5209,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-14",
@@ -5737,7 +6881,11 @@
     "noNewDeceased": 109,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 8059,
+    "noNewTestsCaseDef": 6250,
+    "noNewTestsOnRequest": 1809,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-15",
@@ -5757,7 +6905,11 @@
     "noNewDeceased": 204,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 25185,
+    "noNewTestsCaseDef": 15740,
+    "noNewTestsOnRequest": 9445,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-16",
@@ -5777,7 +6929,11 @@
     "noNewDeceased": 164,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 44601,
+    "noNewTestsCaseDef": 17926,
+    "noNewTestsOnRequest": 10265,
+    "noNewTestsOldResults": 16410
   },
   {
     "date": "2020-12-17",
@@ -5797,7 +6953,11 @@
     "noNewDeceased": 107,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 28281,
+    "noNewTestsCaseDef": 18117,
+    "noNewTestsOnRequest": 9982,
+    "noNewTestsOldResults": 182
   },
   {
     "date": "2020-12-18",
@@ -5817,7 +6977,11 @@
     "noNewDeceased": 188,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 27529,
+    "noNewTestsCaseDef": 18226,
+    "noNewTestsOnRequest": 9256,
+    "noNewTestsOldResults": 47
   },
   {
     "date": "2020-12-19",
@@ -5837,7 +7001,11 @@
     "noNewDeceased": 139,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 25826,
+    "noNewTestsCaseDef": 16650,
+    "noNewTestsOnRequest": 9138,
+    "noNewTestsOldResults": 38
   },
   {
     "date": "2020-12-20",
@@ -5857,7 +7025,11 @@
     "noNewDeceased": 98,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 12293,
+    "noNewTestsCaseDef": 7764,
+    "noNewTestsOnRequest": 4470,
+    "noNewTestsOldResults": 59
   },
   {
     "date": "2020-12-21",
@@ -5877,7 +7049,11 @@
     "noNewDeceased": 87,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 7185,
+    "noNewTestsCaseDef": 5310,
+    "noNewTestsOnRequest": 1806,
+    "noNewTestsOldResults": 69
   },
   {
     "date": "2020-12-22",
@@ -5897,7 +7073,11 @@
     "noNewDeceased": 155,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 23844,
+    "noNewTestsCaseDef": 16036,
+    "noNewTestsOnRequest": 7798,
+    "noNewTestsOldResults": 10
   },
   {
     "date": "2020-12-23",
@@ -5917,7 +7097,11 @@
     "noNewDeceased": 130,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 25840,
+    "noNewTestsCaseDef": 17825,
+    "noNewTestsOnRequest": 8015,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-24",
@@ -5937,7 +7121,11 @@
     "noNewDeceased": 146,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 32914,
+    "noNewTestsCaseDef": 19032,
+    "noNewTestsOnRequest": 8621,
+    "noNewTestsOldResults": 5261
   },
   {
     "date": "2020-12-25",
@@ -5957,7 +7145,11 @@
     "noNewDeceased": 111,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 16862,
+    "noNewTestsCaseDef": 11262,
+    "noNewTestsOnRequest": 5600,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-26",
@@ -5977,7 +7169,11 @@
     "noNewDeceased": 85,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 4352,
+    "noNewTestsCaseDef": 3732,
+    "noNewTestsOnRequest": 620,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-27",
@@ -5997,7 +7193,11 @@
     "noNewDeceased": 122,
     "noVaccineDosesAdministered": 965,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 7783,
+    "noNewTestsCaseDef": 5688,
+    "noNewTestsOnRequest": 2095,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2020-12-28",
@@ -6017,7 +7217,11 @@
     "noNewDeceased": 104,
     "noVaccineDosesAdministered": 2066,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 7841,
+    "noNewTestsCaseDef": 5315,
+    "noNewTestsOnRequest": 2389,
+    "noNewTestsOldResults": 137
   },
   {
     "date": "2020-12-29",
@@ -6037,7 +7241,11 @@
     "noNewDeceased": 135,
     "noVaccineDosesAdministered": 2778,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 24591,
+    "noNewTestsCaseDef": 15541,
+    "noNewTestsOnRequest": 8701,
+    "noNewTestsOldResults": 349
   },
   {
     "date": "2020-12-30",
@@ -6057,7 +7265,11 @@
     "noNewDeceased": 127,
     "noVaccineDosesAdministered": 5666,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 24864,
+    "noNewTestsCaseDef": 17552,
+    "noNewTestsOnRequest": 7270,
+    "noNewTestsOldResults": 42
   },
   {
     "date": "2020-12-31",
@@ -6077,7 +7289,11 @@
     "noNewDeceased": 171,
     "noVaccineDosesAdministered": 10289,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 21528,
+    "noNewTestsCaseDef": 15313,
+    "noNewTestsOnRequest": 6215,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-01",
@@ -6097,7 +7313,11 @@
     "noNewDeceased": 74,
     "noVaccineDosesAdministered": 11656,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 15957,
+    "noNewTestsCaseDef": 10272,
+    "noNewTestsOnRequest": 5681,
+    "noNewTestsOldResults": 4
   },
   {
     "date": "2021-01-02",
@@ -6117,7 +7337,11 @@
     "noNewDeceased": 78,
     "noVaccineDosesAdministered": 13242,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 4438,
+    "noNewTestsCaseDef": 3681,
+    "noNewTestsOnRequest": 757,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-03",
@@ -6137,7 +7361,11 @@
     "noNewDeceased": 60,
     "noVaccineDosesAdministered": 13596,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 9829,
+    "noNewTestsCaseDef": 6220,
+    "noNewTestsOnRequest": 3609,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-04",
@@ -6157,7 +7385,11 @@
     "noNewDeceased": 78,
     "noVaccineDosesAdministered": 25508,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 9688,
+    "noNewTestsCaseDef": 6320,
+    "noNewTestsOnRequest": 3230,
+    "noNewTestsOldResults": 138
   },
   {
     "date": "2021-01-05",
@@ -6177,7 +7409,11 @@
     "noNewDeceased": 121,
     "noVaccineDosesAdministered": 41609,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 31022,
+    "noNewTestsCaseDef": 18458,
+    "noNewTestsOnRequest": 12564,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-06",
@@ -6197,7 +7433,11 @@
     "noNewDeceased": 121,
     "noVaccineDosesAdministered": 58554,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 34343,
+    "noNewTestsCaseDef": 22072,
+    "noNewTestsOnRequest": 12271,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-07",
@@ -6217,7 +7457,11 @@
     "noNewDeceased": 111,
     "noVaccineDosesAdministered": 76400,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 31393,
+    "noNewTestsCaseDef": 20599,
+    "noNewTestsOnRequest": 10794,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-08",
@@ -6237,7 +7481,11 @@
     "noNewDeceased": 96,
     "noVaccineDosesAdministered": 92706,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 39389,
+    "noNewTestsCaseDef": 18834,
+    "noNewTestsOnRequest": 12758,
+    "noNewTestsOldResults": 7797
   },
   {
     "date": "2021-01-09",
@@ -6257,7 +7505,11 @@
     "noNewDeceased": 86,
     "noVaccineDosesAdministered": 102301,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 28319,
+    "noNewTestsCaseDef": 15011,
+    "noNewTestsOnRequest": 13286,
+    "noNewTestsOldResults": 22
   },
   {
     "date": "2021-01-10",
@@ -6277,7 +7529,11 @@
     "noNewDeceased": 62,
     "noVaccineDosesAdministered": 108294,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 15797,
+    "noNewTestsCaseDef": 8765,
+    "noNewTestsOnRequest": 7032,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-11",
@@ -6297,7 +7553,11 @@
     "noNewDeceased": 71,
     "noVaccineDosesAdministered": 125190,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 7005,
+    "noNewTestsCaseDef": 4812,
+    "noNewTestsOnRequest": 2193,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-12",
@@ -6317,7 +7577,11 @@
     "noNewDeceased": 156,
     "noVaccineDosesAdministered": 140447,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 24299,
+    "noNewTestsCaseDef": 14971,
+    "noNewTestsOnRequest": 8696,
+    "noNewTestsOldResults": 569
   },
   {
     "date": "2021-01-13",
@@ -6337,7 +7601,11 @@
     "noNewDeceased": 88,
     "noVaccineDosesAdministered": 154268,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 28592,
+    "noNewTestsCaseDef": 18552,
+    "noNewTestsOnRequest": 9809,
+    "noNewTestsOldResults": 231
   },
   {
     "date": "2021-01-14",
@@ -6357,7 +7625,11 @@
     "noNewDeceased": 66,
     "noVaccineDosesAdministered": 167612,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 26709,
+    "noNewTestsCaseDef": 16474,
+    "noNewTestsOnRequest": 10235,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-15",
@@ -6377,7 +7649,11 @@
     "noNewDeceased": 63,
     "noVaccineDosesAdministered": 183669,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 25626,
+    "noNewTestsCaseDef": 14620,
+    "noNewTestsOnRequest": 11006,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-16",
@@ -6397,7 +7673,11 @@
     "noNewDeceased": 66,
     "noVaccineDosesAdministered": 196090,
     "noImmunized": 0,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 23170,
+    "noNewTestsCaseDef": 12134,
+    "noNewTestsOnRequest": 10387,
+    "noNewTestsOldResults": 649
   },
   {
     "date": "2021-01-17",
@@ -6417,7 +7697,11 @@
     "noNewDeceased": 57,
     "noVaccineDosesAdministered": 204185,
     "noImmunized": 875,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 11524,
+    "noNewTestsCaseDef": 6529,
+    "noNewTestsOnRequest": 4995,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-18",
@@ -6437,7 +7721,11 @@
     "noNewDeceased": 50,
     "noVaccineDosesAdministered": 235239,
     "noImmunized": 1951,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 5808,
+    "noNewTestsCaseDef": 4303,
+    "noNewTestsOnRequest": 1505,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-19",
@@ -6457,7 +7745,11 @@
     "noNewDeceased": 98,
     "noVaccineDosesAdministered": 270046,
     "noImmunized": 2622,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 23060,
+    "noNewTestsCaseDef": 14692,
+    "noNewTestsOnRequest": 8368,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-20",
@@ -6477,7 +7769,11 @@
     "noNewDeceased": 116,
     "noVaccineDosesAdministered": 308384,
     "noImmunized": 5814,
-    "prcImmunized": "0.0"
+    "prcImmunized": "0.0",
+    "noNewTestsTotal": 26783,
+    "noNewTestsCaseDef": 18424,
+    "noNewTestsOnRequest": 8344,
+    "noNewTestsOldResults": 15
   },
   {
     "date": "2021-01-21",
@@ -6497,7 +7793,11 @@
     "noNewDeceased": 69,
     "noVaccineDosesAdministered": 348096,
     "noImmunized": 9844,
-    "prcImmunized": "0.1"
+    "prcImmunized": "0.1",
+    "noNewTestsTotal": 24552,
+    "noNewTestsCaseDef": 16496,
+    "noNewTestsOnRequest": 8056,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-22",
@@ -6517,7 +7817,11 @@
     "noNewDeceased": 74,
     "noVaccineDosesAdministered": 385936,
     "noImmunized": 11255,
-    "prcImmunized": "0.1"
+    "prcImmunized": "0.1",
+    "noNewTestsTotal": 23712,
+    "noNewTestsCaseDef": 15012,
+    "noNewTestsOnRequest": 8700,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-23",
@@ -6537,7 +7841,11 @@
     "noNewDeceased": 94,
     "noVaccineDosesAdministered": 418885,
     "noImmunized": 12879,
-    "prcImmunized": "0.1"
+    "prcImmunized": "0.1",
+    "noNewTestsTotal": 21410,
+    "noNewTestsCaseDef": 12385,
+    "noNewTestsOnRequest": 9052,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-24",
@@ -6557,7 +7865,11 @@
     "noNewDeceased": 54,
     "noVaccineDosesAdministered": 446285,
     "noImmunized": 13156,
-    "prcImmunized": "0.1"
+    "prcImmunized": "0.1",
+    "noNewTestsTotal": 10916,
+    "noNewTestsCaseDef": 6491,
+    "noNewTestsOnRequest": 4425,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-25",
@@ -6577,7 +7889,11 @@
     "noNewDeceased": 65,
     "noVaccineDosesAdministered": 484631,
     "noImmunized": 25064,
-    "prcImmunized": "0.1"
+    "prcImmunized": "0.1",
+    "noNewTestsTotal": 5921,
+    "noNewTestsCaseDef": 4311,
+    "noNewTestsOnRequest": 1610,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-26",
@@ -6597,7 +7913,11 @@
     "noNewDeceased": 97,
     "noVaccineDosesAdministered": 528378,
     "noImmunized": 40667,
-    "prcImmunized": "0.2"
+    "prcImmunized": "0.2",
+    "noNewTestsTotal": 22197,
+    "noNewTestsCaseDef": 14079,
+    "noNewTestsOnRequest": 8118,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-01-27",
@@ -6617,7 +7937,11 @@
     "noNewDeceased": 77,
     "noVaccineDosesAdministered": 570704,
     "noImmunized": 57275,
-    "prcImmunized": "0.3"
+    "prcImmunized": "0.3",
+    "noNewTestsTotal": 25692,
+    "noNewTestsCaseDef": 17096,
+    "noNewTestsOnRequest": 8508,
+    "noNewTestsOldResults": 88
   },
   {
     "date": "2021-01-28",
@@ -6637,7 +7961,11 @@
     "noNewDeceased": 90,
     "noVaccineDosesAdministered": 609396,
     "noImmunized": 75050,
-    "prcImmunized": "0.4"
+    "prcImmunized": "0.4",
+    "noNewTestsTotal": 24847,
+    "noNewTestsCaseDef": 15905,
+    "noNewTestsOnRequest": 8821,
+    "noNewTestsOldResults": 121
   },
   {
     "date": "2021-01-29",
@@ -6657,7 +7985,11 @@
     "noNewDeceased": 91,
     "noVaccineDosesAdministered": 647000,
     "noImmunized": 92076,
-    "prcImmunized": "0.5"
+    "prcImmunized": "0.5",
+    "noNewTestsTotal": 25946,
+    "noNewTestsCaseDef": 14729,
+    "noNewTestsOnRequest": 10936,
+    "noNewTestsOldResults": 281
   },
   {
     "date": "2021-01-30",
@@ -6677,7 +8009,11 @@
     "noNewDeceased": 68,
     "noVaccineDosesAdministered": 672396,
     "noImmunized": 101305,
-    "prcImmunized": "0.5"
+    "prcImmunized": "0.5",
+    "noNewTestsTotal": 26669,
+    "noNewTestsCaseDef": 12273,
+    "noNewTestsOnRequest": 12183,
+    "noNewTestsOldResults": 2213
   },
   {
     "date": "2021-01-31",
@@ -6697,7 +8033,11 @@
     "noNewDeceased": 71,
     "noVaccineDosesAdministered": 691415,
     "noImmunized": 106197,
-    "prcImmunized": "0.5"
+    "prcImmunized": "0.5",
+    "noNewTestsTotal": 11675,
+    "noNewTestsCaseDef": 6417,
+    "noNewTestsOnRequest": 5783,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-01",
@@ -6717,7 +8057,11 @@
     "noNewDeceased": 67,
     "noVaccineDosesAdministered": 721184,
     "noImmunized": 123049,
-    "prcImmunized": "0.6"
+    "prcImmunized": "0.6",
+    "noNewTestsTotal": 5801,
+    "noNewTestsCaseDef": 4033,
+    "noNewTestsOnRequest": 1768,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-02",
@@ -6737,7 +8081,11 @@
     "noNewDeceased": 111,
     "noVaccineDosesAdministered": 748732,
     "noImmunized": 138349,
-    "prcImmunized": "0.7"
+    "prcImmunized": "0.7",
+    "noNewTestsTotal": 23287,
+    "noNewTestsCaseDef": 14755,
+    "noNewTestsOnRequest": 8532,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-03",
@@ -6757,7 +8105,11 @@
     "noNewDeceased": 87,
     "noVaccineDosesAdministered": 772202,
     "noImmunized": 152026,
-    "prcImmunized": "0.8"
+    "prcImmunized": "0.8",
+    "noNewTestsTotal": 25550,
+    "noNewTestsCaseDef": 17107,
+    "noNewTestsOnRequest": 8443,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-04",
@@ -6777,7 +8129,11 @@
     "noNewDeceased": 75,
     "noVaccineDosesAdministered": 794795,
     "noImmunized": 165516,
-    "prcImmunized": "0.9"
+    "prcImmunized": "0.9",
+    "noNewTestsTotal": 25234,
+    "noNewTestsCaseDef": 16477,
+    "noNewTestsOnRequest": 8757,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-05",
@@ -6797,7 +8153,11 @@
     "noNewDeceased": 73,
     "noVaccineDosesAdministered": 821552,
     "noImmunized": 182666,
-    "prcImmunized": "0.9"
+    "prcImmunized": "0.9",
+    "noNewTestsTotal": 24527,
+    "noNewTestsCaseDef": 16316,
+    "noNewTestsOnRequest": 8994,
+    "noNewTestsOldResults": 217
   },
   {
     "date": "2021-02-06",
@@ -6817,7 +8177,11 @@
     "noNewDeceased": 61,
     "noVaccineDosesAdministered": 840812,
     "noImmunized": 193122,
-    "prcImmunized": "1.0"
+    "prcImmunized": "1.0",
+    "noNewTestsTotal": 21646,
+    "noNewTestsCaseDef": 12037,
+    "noNewTestsOnRequest": 9609,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-07",
@@ -6837,7 +8201,11 @@
     "noNewDeceased": 72,
     "noVaccineDosesAdministered": 856322,
     "noImmunized": 200145,
-    "prcImmunized": "1.0"
+    "prcImmunized": "1.0",
+    "noNewTestsTotal": 11949,
+    "noNewTestsCaseDef": 6383,
+    "noNewTestsOnRequest": 5566,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-08",
@@ -6857,7 +8225,11 @@
     "noNewDeceased": 80,
     "noVaccineDosesAdministered": 891348,
     "noImmunized": 230286,
-    "prcImmunized": "1.2"
+    "prcImmunized": "1.2",
+    "noNewTestsTotal": 6210,
+    "noNewTestsCaseDef": 4089,
+    "noNewTestsOnRequest": 2121,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-09",
@@ -6877,7 +8249,11 @@
     "noNewDeceased": 95,
     "noVaccineDosesAdministered": 930155,
     "noImmunized": 263213,
-    "prcImmunized": "1.4"
+    "prcImmunized": "1.4",
+    "noNewTestsTotal": 22229,
+    "noNewTestsCaseDef": 13421,
+    "noNewTestsOnRequest": 8712,
+    "noNewTestsOldResults": 96
   },
   {
     "date": "2021-02-10",
@@ -6897,7 +8273,11 @@
     "noNewDeceased": 79,
     "noVaccineDosesAdministered": 970967,
     "noImmunized": 299519,
-    "prcImmunized": "1.5"
+    "prcImmunized": "1.5",
+    "noNewTestsTotal": 26404,
+    "noNewTestsCaseDef": 16770,
+    "noNewTestsOnRequest": 9417,
+    "noNewTestsOldResults": 217
   },
   {
     "date": "2021-02-11",
@@ -6917,7 +8297,11 @@
     "noNewDeceased": 65,
     "noVaccineDosesAdministered": 1009421,
     "noImmunized": 334188,
-    "prcImmunized": "1.7"
+    "prcImmunized": "1.7",
+    "noNewTestsTotal": 24745,
+    "noNewTestsCaseDef": 15184,
+    "noNewTestsOnRequest": 9561,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-12",
@@ -6937,7 +8321,11 @@
     "noNewDeceased": 77,
     "noVaccineDosesAdministered": 1048797,
     "noImmunized": 369465,
-    "prcImmunized": "1.9"
+    "prcImmunized": "1.9",
+    "noNewTestsTotal": 24608,
+    "noNewTestsCaseDef": 14591,
+    "noNewTestsOnRequest": 10017,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-13",
@@ -6957,7 +8345,11 @@
     "noNewDeceased": 48,
     "noVaccineDosesAdministered": 1084096,
     "noImmunized": 400750,
-    "prcImmunized": "2.1"
+    "prcImmunized": "2.1",
+    "noNewTestsTotal": 21849,
+    "noNewTestsCaseDef": 11782,
+    "noNewTestsOnRequest": 10067,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-14",
@@ -6977,7 +8369,11 @@
     "noNewDeceased": 41,
     "noVaccineDosesAdministered": 1113975,
     "noImmunized": 427341,
-    "prcImmunized": "2.2"
+    "prcImmunized": "2.2",
+    "noNewTestsTotal": 11822,
+    "noNewTestsCaseDef": 6455,
+    "noNewTestsOnRequest": 5367,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-15",
@@ -6997,7 +8393,11 @@
     "noNewDeceased": 79,
     "noVaccineDosesAdministered": 1151112,
     "noImmunized": 454169,
-    "prcImmunized": "2.3"
+    "prcImmunized": "2.3",
+    "noNewTestsTotal": 5945,
+    "noNewTestsCaseDef": 4194,
+    "noNewTestsOnRequest": 1751,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-16",
@@ -7017,7 +8417,11 @@
     "noNewDeceased": 81,
     "noVaccineDosesAdministered": 1197089,
     "noImmunized": 481341,
-    "prcImmunized": "2.5"
+    "prcImmunized": "2.5",
+    "noNewTestsTotal": 23978,
+    "noNewTestsCaseDef": 14874,
+    "noNewTestsOnRequest": 9077,
+    "noNewTestsOldResults": 27
   },
   {
     "date": "2021-02-17",
@@ -7037,7 +8441,11 @@
     "noNewDeceased": 62,
     "noVaccineDosesAdministered": 1240408,
     "noImmunized": 505480,
-    "prcImmunized": "2.6"
+    "prcImmunized": "2.6",
+    "noNewTestsTotal": 27551,
+    "noNewTestsCaseDef": 18188,
+    "noNewTestsOnRequest": 9174,
+    "noNewTestsOldResults": 189
   },
   {
     "date": "2021-02-18",
@@ -7057,7 +8465,11 @@
     "noNewDeceased": 71,
     "noVaccineDosesAdministered": 1280228,
     "noImmunized": 526476,
-    "prcImmunized": "2.7"
+    "prcImmunized": "2.7",
+    "noNewTestsTotal": 27599,
+    "noNewTestsCaseDef": 17720,
+    "noNewTestsOnRequest": 9879,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-19",
@@ -7077,7 +8489,11 @@
     "noNewDeceased": 79,
     "noVaccineDosesAdministered": 1318355,
     "noImmunized": 547116,
-    "prcImmunized": "2.8"
+    "prcImmunized": "2.8",
+    "noNewTestsTotal": 26842,
+    "noNewTestsCaseDef": 15249,
+    "noNewTestsOnRequest": 10198,
+    "noNewTestsOldResults": 1395
   },
   {
     "date": "2021-02-20",
@@ -7097,7 +8513,11 @@
     "noNewDeceased": 57,
     "noVaccineDosesAdministered": 1351279,
     "noImmunized": 562772,
-    "prcImmunized": "2.9"
+    "prcImmunized": "2.9",
+    "noNewTestsTotal": 30408,
+    "noNewTestsCaseDef": 13604,
+    "noNewTestsOnRequest": 10416,
+    "noNewTestsOldResults": 6388
   },
   {
     "date": "2021-02-21",
@@ -7117,7 +8537,11 @@
     "noNewDeceased": 52,
     "noVaccineDosesAdministered": 1379223,
     "noImmunized": 576126,
-    "prcImmunized": "3.0"
+    "prcImmunized": "3.0",
+    "noNewTestsTotal": 12962,
+    "noNewTestsCaseDef": 7063,
+    "noNewTestsOnRequest": 5899,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-22",
@@ -7137,7 +8561,11 @@
     "noNewDeceased": 47,
     "noVaccineDosesAdministered": 1409087,
     "noImmunized": 589641,
-    "prcImmunized": "3.0"
+    "prcImmunized": "3.0",
+    "noNewTestsTotal": 6279,
+    "noNewTestsCaseDef": 4360,
+    "noNewTestsOnRequest": 1919,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-23",
@@ -7157,7 +8585,11 @@
     "noNewDeceased": 119,
     "noVaccineDosesAdministered": 1438432,
     "noImmunized": 601573,
-    "prcImmunized": "3.1"
+    "prcImmunized": "3.1",
+    "noNewTestsTotal": 23599,
+    "noNewTestsCaseDef": 15082,
+    "noNewTestsOnRequest": 8517,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-24",
@@ -7177,7 +8609,11 @@
     "noNewDeceased": 73,
     "noVaccineDosesAdministered": 1466649,
     "noImmunized": 611553,
-    "prcImmunized": "3.1"
+    "prcImmunized": "3.1",
+    "noNewTestsTotal": 26447,
+    "noNewTestsCaseDef": 17019,
+    "noNewTestsOnRequest": 9428,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-25",
@@ -7197,7 +8633,11 @@
     "noNewDeceased": 81,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 28141,
+    "noNewTestsCaseDef": 18390,
+    "noNewTestsOnRequest": 9751,
+    "noNewTestsOldResults": null
   },
   {
     "date": "2021-02-26",
@@ -7217,6 +8657,10 @@
     "noNewDeceased": 66,
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
-    "prcImmunized": "3.2"
+    "prcImmunized": "3.2",
+    "noNewTestsTotal": 27016,
+    "noNewTestsCaseDef": 15794,
+    "noNewTestsOnRequest": 11222,
+    "noNewTestsOldResults": null
   }
 ]

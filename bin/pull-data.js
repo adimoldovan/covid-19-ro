@@ -5,9 +5,7 @@ const graphsRoMainURL = 'https://www.graphs.ro/json.php';
 const graphsRoVaccineURL = 'https://www.graphs.ro/vaccinare_json.php';
 const population = 19414458;
 
-fs.writeFileSync(
-  'src/data/data.json',
-  JSON.stringify(processData(),undefined, 2));
+processData();
 
 function fetchData(url, name) {
   const fetchedData = fetch(url).json();
@@ -17,22 +15,27 @@ function fetchData(url, name) {
   return fetchedData;
 }
 
-function processData () {
-  // const rawData = {
-  //   graphsRoMainData:  fetchData(graphsRoMainURL, 'graphsRoMainData'),
-  //   graphsRoVaccineData:  fetchData(graphsRoVaccineURL, 'graphsRoVaccineData'),
-  //   dateLaZiData:  fetchData(dateLaZiURL, 'dateLaZiData'),
-  // };
-
-  const rawData = {
-    graphsRoMainData:  require('./tmp/graphsRoMainData.json'),
-    graphsRoVaccineData:  require('./tmp/graphsRoVaccineData.json'),
-    dateLaZiData:  require('./tmp/dateLaZiData.json'),
-  };
+function processData() {
+  let rawData;
+  if (process.env.CI) {
+    rawData = {
+      graphsRoMainData: fetchData(graphsRoMainURL, 'graphsRoMainData'),
+      graphsRoVaccineData: fetchData(graphsRoVaccineURL, 'graphsRoVaccineData'),
+      dateLaZiData: fetchData(dateLaZiURL, 'dateLaZiData'),
+    };
+  }
+  else {
+    rawData = {
+      graphsRoMainData: require('./tmp/graphsRoMainData.json'),
+      graphsRoVaccineData: require('./tmp/graphsRoVaccineData.json'),
+      dateLaZiData: require('./tmp/dateLaZiData.json'),
+    };
+  }
 
   const mainSeries = rawData.graphsRoMainData.covid_romania;
   const vaccineSeries = rawData.graphsRoVaccineData.covid_romania_vaccination;
-  const data = [];
+  const roData = [];
+  const countiesData = [];
 
   for (const d of mainSeries) {
     const noActive = d.total_cases - d.total_recovered - d.total_deaths;
@@ -65,15 +68,20 @@ function processData () {
       noNewDeceased: d.new_deaths_today,
       noVaccineDosesAdministered: (vaccineData === undefined) ? 0 : vaccineData.total_doze,
       noImmunized,
-      prcImmunized: (noImmunized/population*100).toFixed(1)
+      prcImmunized: (noImmunized/population*100).toFixed(1),
+      noNewTestsTotal: d.new_tests_today,
+      noNewTestsCaseDef: d.tests_for_case_definition,
+      noNewTestsOnRequest: d.tests_upon_request,
+      noNewTestsOldResults: d.tests_done_before_today_and_reported_today
     };
 
-    data.push(day);
+    roData.push(day);
   }
 
-  data.reverse();
+  roData.reverse();
 
-  return data;
+  fs.writeFileSync('src/data/data.json', JSON.stringify(roData,undefined, 2));
+  fs.writeFileSync('src/data/counties.json', JSON.stringify(countiesData,undefined, 2));
 }
 
 

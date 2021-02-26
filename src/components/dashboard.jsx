@@ -6,6 +6,7 @@ import TotalCasesChart from './chart-totals-infected-active';
 import DailySummaryChart from './daily-summary-chart';
 import DailySingleBarChart from './daily-single-chart';
 import {Colors} from '../config/constants';
+import DailyTestsChart from './daily-tests-chart';
 
 export default class Countries extends Component {
   render() {
@@ -157,6 +158,18 @@ export default class Countries extends Component {
                 return e.noNewDeceased;
               })} color={Colors.deceased} name='deceased'
             />
+          </Col>
+        </Row>
+        <Row className='spaced-row align-items-center'>
+          <Col sm={2}>
+            <div className='summary-box left'>
+              <span className='number'>{formattedNumber(today.noNewTestsTotal)}</span>
+              <br />
+              <span className='description'>newly tested</span>
+            </div>
+          </Col>
+          <Col sm={10}>
+            <DailyTestsChart />
           </Col>
         </Row>
         <Row className='spaced-row align-items-center'>
