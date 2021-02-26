@@ -19,15 +19,14 @@ export default class DailySummaryChart extends Component {
       yAxis: [
         {
           type: 'value',
-          max: 15000
         }
       ],
       dataZoom: [{
         type: 'inside',
-        start: 60,
+        start: 0,
         end: 100
       }, {
-        start: 60,
+        start: 0,
         end: 100
       }],
       series: [

@@ -57,7 +57,7 @@ export default class Countries extends Component {
               <span className='description'>deceased</span>
               <br />
               <span className='fine'>
-                {formattedNumber(today.prcDeceasedOfClosed)} % out of closed,
+                {formattedNumber(today.prcDeceasedOfClosed)} % out of closed,&nbsp;
                 {formattedNumber(today.prcDeceasedOfTotal)} % out of total
               </span>
             </div>
@@ -69,7 +69,7 @@ export default class Countries extends Component {
               <span className='description'>recovered</span>
               <br />
               <span className='fine'>
-                {formattedNumber(today.prcRecoveredOfClosed)} % out of closed,
+                {formattedNumber(today.prcRecoveredOfClosed)} % out of closed,&nbsp;
                 {formattedNumber(today.prcRecoveredOfTotal)} % out of total
               </span>
             </div>
@@ -101,7 +101,7 @@ export default class Countries extends Component {
         </Row>
         <hr />
         {/* Main charts */}
-        <Row className='spaced-row'>
+        <Row className='spaced-row align-items-center'>
           <Col sm={2}>
             <div className='summary-box left'>
               <span className='number'>{formattedNumber(today.noNewConfirmed)}</span>
@@ -121,7 +121,7 @@ export default class Countries extends Component {
             />
           </Col>
         </Row>
-        <Row className='spaced-row'>
+        <Row className='spaced-row align-items-center'>
           <Col sm={2}>
             <div className='summary-box left'>
               <span className='number'>{formattedNumber(today.noIC)}</span>
@@ -140,7 +140,7 @@ export default class Countries extends Component {
             />
           </Col>
         </Row>
-        <Row className='spaced-row'>
+        <Row className='spaced-row align-items-center'>
           <Col sm={2}>
             <div className='summary-box left'>
               <span className='number'>{formattedNumber(today.noNewDeceased)}</span>
@@ -159,7 +159,7 @@ export default class Countries extends Component {
             />
           </Col>
         </Row>
-        <Row className='spaced-row'>
+        <Row className='spaced-row align-items-center'>
           <Col sm={2}>
             <div className='summary-box left'>
               <span className='number'>{formattedNumber(today.noNewRecovered)}</span>
