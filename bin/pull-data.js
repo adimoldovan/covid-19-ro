@@ -18,10 +18,16 @@ function fetchData(url, name) {
 }
 
 function processData () {
+  // const rawData = {
+  //   graphsRoMainData:  fetchData(graphsRoMainURL, 'graphsRoMainData'),
+  //   graphsRoVaccineData:  fetchData(graphsRoVaccineURL, 'graphsRoVaccineData'),
+  //   dateLaZiData:  fetchData(dateLaZiURL, 'dateLaZiData'),
+  // };
+
   const rawData = {
-    graphsRoMainData:  fetchData(graphsRoMainURL, 'graphsRoMainData'),
-    graphsRoVaccineData:  fetchData(graphsRoVaccineURL, 'graphsRoVaccineData'),
-    dateLaZiData:  fetchData(dateLaZiURL, 'dateLaZiData'),
+    graphsRoMainData:  require('./tmp/graphsRoMainData.json'),
+    graphsRoVaccineData:  require('./tmp/graphsRoVaccineData.json'),
+    dateLaZiData:  require('./tmp/dateLaZiData.json'),
   };
 
   const mainSeries = rawData.graphsRoMainData.covid_romania;
@@ -32,7 +38,13 @@ function processData () {
     const noActive = d.total_cases - d.total_recovered - d.total_deaths;
     const noClosed = d.total_recovered + d.total_deaths;
 
-    const vaccineData = vaccineSeries.filter(function (element) {return element.data_date ===  d.reporting_date;})[0];
+    let vaccineData = vaccineSeries.filter(function (element) {return element.data_date ===  d.reporting_date;})[0];
+
+    // when there is no vaccine data for today, use the last data available
+    if (!vaccineData) {
+      vaccineData = vaccineSeries[0];
+    }
+
     const noImmunized = (vaccineData === undefined) ? 0 : vaccineData.total_2;
 
     const day = {
