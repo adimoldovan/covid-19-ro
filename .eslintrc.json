@@ -12,7 +12,8 @@
   "plugins": ["react"],
   "extends": [
     "react-app",
-    "standard-jsx"
+    "standard-jsx",
+    "eslint:recommended"
   ],
 
   "rules": {
@@ -24,6 +25,18 @@
         "ignoreRefs": true
       }
     ],
+    "space-unary-ops": [
+      2, {
+        "words": true,
+        "nonwords": false,
+        "overrides": {
+          "new": false,
+          "++": true
+        }
+      }],
+    "spaced-comment": ["error", "always", { "exceptions": ["-", "+"] }],
+    "space-before-blocks": ["error", "always"],
+    "semi": [2, "always"],
     "quotes": ["warn", "single"],
     "indent": ["warn", 2],
     "no-eval": "error",

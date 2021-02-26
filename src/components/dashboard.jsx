@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import data from '../data/data.json'
+import data from '../data/data.json';
 import {Col, Container, Row} from 'react-bootstrap';
 import formattedNumber from '../utils';
 import TotalCasesChart from './chart-totals-infected-active';
@@ -190,6 +190,6 @@ export default class Countries extends Component {
         </Row>
         <hr />
       </Container>
-    )
+    );
   }
 }

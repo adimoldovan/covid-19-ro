@@ -12,7 +12,6 @@
     "bootstrap": "^4.6.0",
     "echarts": "^5.0.2",
     "echarts-for-react": "^3.0.0",
-    "node-fetch": "^2.6.1",
     "react": "^17.0.1",
     "react-bootstrap": "^1.5.0",
     "react-dom": "^17.0.1",
@@ -40,6 +39,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint-config-standard-jsx": "^10.0.0"
+    "eslint-config-standard-jsx": "^10.0.0",
+    "sync-fetch": "^0.3.0"
   }
 }

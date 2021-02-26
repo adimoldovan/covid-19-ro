@@ -7198,5 +7198,25 @@
     "noVaccineDosesAdministered": 1486907,
     "noImmunized": 614547,
     "prcImmunized": "3.2"
+  },
+  {
+    "date": "2021-02-26",
+    "noConfirmed": 795732,
+    "noActive": 39479,
+    "prcActive": "5.0",
+    "noIC": 968,
+    "noRecovered": 736020,
+    "prcRecoveredOfTotal": "92.5",
+    "prcRecoveredOfClosed": "97.3",
+    "noDeceased": 20233,
+    "prcDeceasedOfTotal": "2.5",
+    "prcDeceasedOfClosed": "2.7",
+    "noClosed": 756253,
+    "noNewConfirmed": 3761,
+    "noNewRecovered": 2404,
+    "noNewDeceased": 66,
+    "noVaccineDosesAdministered": 0,
+    "noImmunized": 0,
+    "prcImmunized": "0.0"
   }
 ]
