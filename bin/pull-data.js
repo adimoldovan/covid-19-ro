@@ -1,102 +1,73 @@
-const fs = require("fs");
+const fs = require('fs');
 const fetch = require('node-fetch');
-const dateLaZiData = require('../latestData.json')
+const dateLaZiData = require('./tmp/dateLaZiData.json')
+const graphsRoMainData = require('./tmp/graphsRoData.json')
+const graphsRoVaccineData = require('./tmp/graphsRoVaccineData.json')
+const dateLaZiURL = 'https://d35p9e4fm9h3wo.cloudfront.net/latestData.json'
+const graphsRoMainURL = 'https://www.graphs.ro/json.php'
+const graphsRoVaccineURL = 'https://www.graphs.ro/vaccinare_json.php'
+const population = 19414458;
 
-function processData(dateLaZiData, graphsRoData) {
-    const population = 19414458;
-    const data = [];
+function processData(dateLaZiData, graphsRoMainData, graphsRoVaccineData) {
 
-    const timelineData = Object.entries(dateLaZiData.historicalData).reverse()
-    const current = dateLaZiData.currentDayStats;
+  const mainSeries = graphsRoMainData.covid_romania
+  const vaccineSeries = graphsRoVaccineData.covid_romania_vaccination
+  const data = [];
 
-    // last day
-    const noActive = current.numberInfected - current.numberCured - current.numberDeceased
-    const noClosedCases = current.numberCured + current.numberDeceased
-    const totalConfirmedYesterday = timelineData[timelineData.length-1][1].numberInfected;
-    const totalRecoveredYesterday = timelineData[timelineData.length-1][1].numberCured;
-    const totalDeceasedYesterday = timelineData[timelineData.length-1][1].numberDeceased;
+  for (const d of mainSeries) {
+    const noActive = d.total_cases - d.total_recovered - d.total_deaths
+    const noClosed = d.total_recovered + d.total_deaths
 
-    const lastDay = {
-        date: current.parsedOnString,
-        noConfirmed: current.numberInfected,
-        noActive: noActive,
-        prcActive: (noActive/current.numberInfected*100).toFixed(1),
-        noRecovered: current.numberCured,
-        prcRecoveredOfTotal: (current.numberCured/current.numberInfected*100).toFixed(1),
-        prcRecoveredOfClosed: (current.numberCured/noClosedCases*100).toFixed(1),
-        noDeceased: current.numberDeceased,
-        prcDeceasedOfTotal: (current.numberDeceased/current.numberInfected*100).toFixed(1),
-        prcDeceasedOfClosed: (current.numberDeceased/noClosedCases*100).toFixed(1),
-        noClosedCases: noClosedCases,
-        noNewConfirmed: current.numberInfected - totalConfirmedYesterday,
-        noNewRecovered: current.numberCured - totalRecoveredYesterday,
-        noNewDeceased: current.numberDeceased - totalDeceasedYesterday
+    const vaccineData = vaccineSeries.filter(function(element) {return element.data_date ===  d.reporting_date})[0];
+    const noImmunized = (vaccineData === undefined) ? 0 : vaccineData.total_2
+
+    const day = {
+      date: d.reporting_date,
+      noConfirmed: d.total_cases,
+      noActive,
+      prcActive: (noActive/d.total_cases*100).toFixed(1),
+      noIC: d.intensive_care_right_now,
+      noRecovered: d.total_recovered,
+      prcRecoveredOfTotal: (d.total_recovered/d.total_cases*100).toFixed(1),
+      prcRecoveredOfClosed: (d.total_recovered/noClosed*100).toFixed(1),
+      noDeceased: d.total_deaths,
+      prcDeceasedOfTotal: (d.total_deaths/d.total_cases*100).toFixed(1),
+      prcDeceasedOfClosed: (d.total_deaths/noClosed*100).toFixed(1),
+      noClosed,
+      noNewConfirmed: d.new_cases_today,
+      noNewRecovered: d.new_recovered_today,
+      noNewDeceased: d.new_deaths_today,
+      noVaccineDosesAdministered: (vaccineData === undefined) ? 0 : vaccineData.total_doze,
+      noImmunized,
+      prcImmunized: (noImmunized/population*100).toFixed(1)
     }
 
-    // calculate vaccines totals
-    lastDay.noVaccineDosesAdministered = 0;
-    lastDay.noImmunized = 0;
+    data.push(day);
+  }
 
-    // vaccines from historical data
-    for (const dayEntry in dateLaZiData.historicalData) {
-        for (const vaccine in dateLaZiData.historicalData[dayEntry].vaccines) {
-            lastDay.noVaccineDosesAdministered += dateLaZiData.historicalData[dayEntry].vaccines[vaccine].total_administered;
-            lastDay.noImmunized += dateLaZiData.historicalData[dayEntry].vaccines[vaccine].immunized;
-        }
-    }
+  data.reverse();
 
-    lastDay.prcImmunized = (lastDay.noImmunized / population * 100).toFixed(1);
-
-    // each day
-    for (let i = 0; i <= timelineData.length - 1; i++) {
-        const totalConfirmedToday = timelineData[i][1].numberInfected;
-        const totalRecoveredToday = timelineData[i][1].numberCured;
-        const totalDeceasedToday = timelineData[i][1].numberDeceased;
-        let totalConfirmedYesterday = 0;
-        let totalRecoveredYesterday = 0;
-        let totalDeceasedYesterday = 0;
-
-        if (i > 0)
-        {
-            totalConfirmedYesterday = timelineData[i-1][1].numberInfected;
-            totalRecoveredYesterday = timelineData[i-1][1].numberCured;
-            totalDeceasedYesterday = timelineData[i-1][1].numberDeceased;
-        }
-
-        const noActive = timelineData[i][1].numberInfected - timelineData[i][1].numberCured - timelineData[i][1].numberDeceased
-        const noClosedCases = timelineData[i][1].numberCured + timelineData[i][1].numberDeceased
-
-        const day = {
-            date: timelineData[i][0],
-            noConfirmed: totalConfirmedToday,
-            noActive: noActive,
-            prcActive: (noActive/totalConfirmedToday*100).toFixed(1),
-            noRecovered: timelineData[i][1].numberCured,
-            prcRecoveredOfTotal: (timelineData[i][1].numberCured/totalConfirmedToday*100).toFixed(1),
-            prcRecoveredOfClosed: (timelineData[i][1].numberCured/noClosedCases*100).toFixed(1),
-            noDeceased: timelineData[i][1].numberDeceased,
-            prcDeceasedOfTotal: (timelineData[i][1].numberDeceased/totalConfirmedToday*100).toFixed(1),
-            prcDeceasedOfClosed: (timelineData[i][1].numberDeceased/noClosedCases*100).toFixed(1),
-            noClosedCases: noClosedCases,
-            noVaccineDosesAdministered: timelineData[i][1].numberTotalDosesAdministered,
-            noNewConfirmed: totalConfirmedToday - totalConfirmedYesterday,
-            noNewRecovered: totalRecoveredToday - totalRecoveredYesterday,
-            noNewDeceased: totalDeceasedToday - totalDeceasedYesterday
-        }
-
-        data.push(day);
-    }
-
-    data.push(lastDay);
-
-    return data;
+  return data;
 }
 
-// fetch('https://d35p9e4fm9h3wo.cloudfront.net/latestData.json')
+// fetch(dateLaZiURL)
 //     .then((res) => res.json())
 //     .then((result) => {
 //         // write to file
-//         fs.writeFileSync('src/ro-data.json', JSON.stringify(cleanData(result)))
+//         fs.writeFileSync('bin/tmp/dateLaZiData.json', JSON.stringify(result,undefined,2))
 //     });
+//
+// fetch(graphsRoMainURL)
+//     .then((res) => res.json())
+//     .then((result) => {
+//         // write to file
+//         fs.writeFileSync('bin/tmp/graphsRoData.json', JSON.stringify(result,undefined,2))
+//     });
+// fetch(graphsRoVaccineURL)
+//   .then((res) => res.json())
+//   .then((result) => {
+//     // write to file
+//     fs.writeFileSync('bin/tmp/graphsRoVaccineData.json', JSON.stringify(result,undefined,2))
+//   });
 
-fs.writeFileSync('src/ro-data.json', JSON.stringify(processData(dateLaZiData, {}),undefined, 2))
+fs.writeFileSync('src/data/data.json', JSON.stringify(processData(dateLaZiData, graphsRoMainData,graphsRoVaccineData),undefined, 2))

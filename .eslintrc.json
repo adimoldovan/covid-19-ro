@@ -9,5 +9,27 @@
       "version": "detect"
     }
   },
-  "plugins": ["react"]
+  "plugins": ["react"],
+  "extends": [
+    "react-app",
+    "standard-jsx"
+  ],
+
+  "rules": {
+    "react/jsx-no-bind": [
+      "error",
+      {
+        "allowArrowFunctions": true,
+        "allowBind": false,
+        "ignoreRefs": true
+      }
+    ],
+    "quotes": ["warn", "single"],
+    "indent": ["warn", 2],
+    "no-eval": "error",
+    "no-trailing-spaces": "warn",
+    "no-unused-expressions": "error",
+    "no-var": "error",
+    "max-len": ["warn", { "code": 120 }]
+  }
 }
