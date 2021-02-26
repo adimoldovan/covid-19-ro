@@ -1,8 +1,8 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
-const dateLaZiData = require('./tmp/dateLaZiData.json')
-const graphsRoMainData = require('./tmp/graphsRoData.json')
-const graphsRoVaccineData = require('./tmp/graphsRoVaccineData.json')
+// const dateLaZiData = require('./tmp/dateLaZiData.json')
+// const graphsRoMainData = require('./tmp/graphsRoData.json')
+// const graphsRoVaccineData = require('./tmp/graphsRoVaccineData.json')
 const dateLaZiURL = 'https://d35p9e4fm9h3wo.cloudfront.net/latestData.json'
 const graphsRoMainURL = 'https://www.graphs.ro/json.php'
 const graphsRoVaccineURL = 'https://www.graphs.ro/vaccinare_json.php'
@@ -50,26 +50,30 @@ function processData(dateLaZiData, graphsRoMainData, graphsRoVaccineData) {
   return data;
 }
 
+let dateLaZiData = {}
+let graphsRoMainData = {}
+let graphsRoVaccineData = {}
+
 fetch(dateLaZiURL)
   .then((res) => res.json())
   .then((result) => {
     // write to file
-    fs.writeFileSync('bin/tmp/dateLaZiData.json', JSON.stringify(result,undefined,2))
+    dateLaZiData = result;
   });
 
 fetch(graphsRoMainURL)
   .then((res) => res.json())
   .then((result) => {
     // write to file
-    fs.writeFileSync('bin/tmp/graphsRoData.json', JSON.stringify(result,undefined,2))
+    graphsRoMainData = result;
   });
 fetch(graphsRoVaccineURL)
   .then((res) => res.json())
   .then((result) => {
     // write to file
-    fs.writeFileSync('bin/tmp/graphsRoVaccineData.json', JSON.stringify(result,undefined,2))
+    graphsRoVaccineData = result;
   });
 
 fs.writeFileSync(
   'src/data/data.json',
-  JSON.stringify(processData(dateLaZiData, graphsRoMainData,graphsRoVaccineData),undefined, 2))
+  JSON.stringify(processData(dateLaZiData, graphsRoMainData, graphsRoVaccineData),undefined, 2))
