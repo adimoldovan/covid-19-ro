@@ -96,6 +96,7 @@ function processData() {
     }
 
     const noImmunized = (vaccineData === undefined) ? 0 : vaccineData.total_2;
+    const prcPositiveTests = (d.new_cases_today/d.new_tests_today*100).toFixed(1);
 
     const day = {
       date: d.reporting_date,
@@ -119,7 +120,8 @@ function processData() {
       noNewTestsTotal: d.new_tests_today,
       noNewTestsCaseDef: d.tests_for_case_definition,
       noNewTestsOnRequest: d.tests_upon_request,
-      noNewTestsOldResults: d.tests_done_before_today_and_reported_today
+      noNewTestsOldResults: d.tests_done_before_today_and_reported_today,
+      prcPositiveTests: parseFloat(prcPositiveTests)
     };
 
     // prepare counties data

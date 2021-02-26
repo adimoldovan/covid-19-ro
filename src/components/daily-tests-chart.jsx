@@ -20,24 +20,29 @@ export default class DailyTestsChart extends Component {
       yAxis: [
         {
           type: 'value',
+        },
+        {
+          type: 'value',
+          min: 0,
+          max: 100,
+          axisLabel: {
+            formatter: '{value} %'
+          }
         }
       ],
-      dataZoom: [{
-        type: 'inside',
-        start: 0,
-        end: 100
-      }, {
-        start: 0,
-        end: 100
-      }],
+      dataZoom: [
+        {
+          type: 'inside',
+          start: 0,
+          end: 100
+        }, {
+          start: 0,
+          end: 100
+        }],
       series: [
         {
           name: 'total tests',
-          type: 'bar',
-          stack: '1',
-          emphasis: {
-            focus: 'series'
-          },
+          type: 'line',
           color: Colors.tests,
           data: data.map(function (e) {
             return e.noNewTestsTotal;
@@ -77,6 +82,15 @@ export default class DailyTestsChart extends Component {
           color: Colors.brush,
           data: data.map(function (e) {
             return e.noNewTestsOldResults;
+          })
+        },
+        {
+          name: 'positive tests (%)',
+          type: 'line',
+          yAxisIndex: 1,
+          color: Colors.confirmed,
+          data: data.map(function (e) {
+            return e.prcPositiveTests;
           })
         }
       ]
