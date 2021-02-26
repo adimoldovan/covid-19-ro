@@ -3,10 +3,6 @@ import ReactEcharts from 'echarts-for-react';
 import {ChartOptions} from '../config/constants';
 
 export default class DailySingleBarChart extends Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     const { xSeries, ySeries, color, name } = this.props;
 

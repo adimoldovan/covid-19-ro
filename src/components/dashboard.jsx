@@ -13,6 +13,7 @@ export default class Countries extends Component {
 
     return (
       <Container fluid>
+        <hr />
         <Row className='justify-content-between header'>
           <Col className='text-left'><h1>Covid 19 in Romania</h1></Col>
         </Row>
@@ -55,9 +56,9 @@ export default class Countries extends Component {
               <br />
               <span className='description'>deceased</span>
               <br />
-              <span
-                className='fine'
-              >{formattedNumber(today.prcDeceasedOfClosed)} % out of closed, {formattedNumber(today.prcDeceasedOfTotal)} % out of total
+              <span className='fine'>
+                {formattedNumber(today.prcDeceasedOfClosed)} % out of closed,
+                {formattedNumber(today.prcDeceasedOfTotal)} % out of total
               </span>
             </div>
           </Col>
@@ -67,9 +68,9 @@ export default class Countries extends Component {
               <br />
               <span className='description'>recovered</span>
               <br />
-              <span
-                className='fine'
-              >{formattedNumber(today.prcRecoveredOfClosed)} % out of closed, {formattedNumber(today.prcRecoveredOfTotal)} % out of total
+              <span className='fine'>
+                {formattedNumber(today.prcRecoveredOfClosed)} % out of closed,
+                {formattedNumber(today.prcRecoveredOfTotal)} % out of total
               </span>
             </div>
           </Col>
@@ -178,54 +179,6 @@ export default class Countries extends Component {
             />
           </Col>
         </Row>
-
-        <hr />
-        {/* Counties */}
-        {/*{lastCasesDay.county_data.map((county, index) => (*/}
-        {/*    <Row className="spaced-row" key={index}>*/}
-        {/*        <Col>*/}
-        {/*            <div className="summary-box county-box left">*/}
-        {/*                <span className="description county-name ">{county.county_name}</span>*/}
-        {/*                <br/>*/}
-        {/*                <span className="number">{county.total_cases} ({county.cases_1_k_pop} &#8240;)</span>*/}
-        {/*                <br/>*/}
-        {/*                <span className="description">total cases</span>*/}
-        {/*            </div>*/}
-        {/*        </Col>*/}
-        {/*        <Col>*/}
-        {/*            <ResponsiveContainer height={250}>*/}
-        {/*                <BarChart data={counties.find(c => c.county_name === county.county_name).timeline}*/}
-        {/*                          style={{margin: "0 auto"}}>*/}
-        {/*                    <XAxis dataKey="reporting_date"/>*/}
-        {/*                    <YAxis orientation="right" domain={["0", 'dataMax+10']}/>*/}
-        {/*                    <Tooltip/>*/}
-        {/*                    <Brush dataKey="reporting_date" travellerWidth={1} stroke={Utils.BRUSH_COLOR}*/}
-        {/*                           fill="none" height={20}/>*/}
-        {/*                    <Bar name="confirmed" type="monotone"*/}
-        {/*                         dataKey="new_cases"*/}
-        {/*                         stroke="none"*/}
-        {/*                         fillOpacity={0.5} fill={Utils.CONFIRMED_COLOR}/>*/}
-        {/*                </BarChart>*/}
-        {/*            </ResponsiveContainer>*/}
-        {/*        </Col>*/}
-        {/*        <Col>*/}
-        {/*            <ResponsiveContainer height={250}>*/}
-        {/*                <AreaChart data={counties.find(c => c.county_name === county.county_name).timeline}*/}
-        {/*                           style={{margin: "0 auto"}}>*/}
-        {/*                    <XAxis dataKey="reporting_date"/>*/}
-        {/*                    <YAxis orientation="right" domain={["0", 'dataMax+10']}/>*/}
-        {/*                    <Tooltip/>*/}
-        {/*                    <Brush dataKey="reporting_date" travellerWidth={1} stroke={Utils.BRUSH_COLOR}*/}
-        {/*                           fill="none" height={20}/>*/}
-        {/*                    <Area name="confirmed" type="monotone"*/}
-        {/*                          dataKey="total_cases"*/}
-        {/*                          stroke="none"*/}
-        {/*                          fillOpacity={0.5} fill={Utils.CONFIRMED_COLOR}/>*/}
-        {/*                </AreaChart>*/}
-        {/*            </ResponsiveContainer>*/}
-        {/*        </Col>*/}
-        {/*    </Row>*/}
-        {/*))}*/}
         <hr />
         {/* Footer */}
         <Row className='spaced-row'>
@@ -234,6 +187,7 @@ export default class Countries extends Component {
             <a href='https://stirioficiale.ro'>stirioficiale.ro</a>
           </Col>
         </Row>
+        <hr />
       </Container>
     )
   }

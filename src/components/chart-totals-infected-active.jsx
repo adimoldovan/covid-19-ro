@@ -4,10 +4,6 @@ import data from '../data/data.json'
 import {ChartOptions, Colors} from '../config/constants'
 
 export default class TotalCasesChart extends Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     const chartOptions = {
       tooltip: ChartOptions.tooltip,
