@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import ReactEcharts from 'echarts-for-react';
-import data from '../data/data.json'
-import {ChartOptions, Colors} from '../config/constants'
+import data from '../data/data.json';
+import {ChartOptions, Colors} from '../config/constants';
 
 export default class DailySummaryChart extends Component {
   render() {
@@ -59,6 +59,6 @@ export default class DailySummaryChart extends Component {
 
     return (
       <ReactEcharts option={chartOptions} />
-    )
+    );
   }
 }

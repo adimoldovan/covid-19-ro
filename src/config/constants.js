@@ -8,7 +8,7 @@ export const Colors =
   positivity: '#C889A3',
   brush: '#919191',
   tests: '#719df3'
-}
+};
 
 export const ChartOptions = {
   tooltip: {
@@ -17,4 +17,4 @@ export const ChartOptions = {
       type: 'cross',
     }
   },
-}
+};

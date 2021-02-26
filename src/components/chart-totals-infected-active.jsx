@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import ReactEcharts from 'echarts-for-react';
-import data from '../data/data.json'
-import {ChartOptions, Colors} from '../config/constants'
+import data from '../data/data.json';
+import {ChartOptions, Colors} from '../config/constants';
 
 export default class TotalCasesChart extends Component {
   render() {
@@ -61,6 +61,6 @@ export default class TotalCasesChart extends Component {
 
     return (
       <ReactEcharts option={chartOptions} />
-    )
+    );
   }
 }

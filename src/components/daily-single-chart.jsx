@@ -44,6 +44,6 @@ export default class DailySingleBarChart extends Component {
 
     return (
       <ReactEcharts option={chartOptions} />
-    )
+    );
   }
 }

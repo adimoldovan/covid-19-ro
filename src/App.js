@@ -1,5 +1,5 @@
 import './App.css';
-import Dashboard from './components/dashboard'
+import Dashboard from './components/dashboard';
 import {HashRouter, Route, Switch} from 'react-router-dom';
 
 function App() {
