@@ -23,12 +23,21 @@ export default class Dashboard extends Component {
       newlyVaccinated = data[data.length - 2].noNewVaccineDosesAdministered;
     }
 
-    // get counties current incidence rate
-    const countiesIncidence = [];
+    // get counties summary info
+    const countiesSummary = [];
     Object.entries(counties).map(([key, val]) =>
-      countiesIncidence.push({key: key, name: val.name, incidence: val.timeline[0].incidence}));
+      countiesSummary.push({
+        key: key,
+        name: val.name,
+        total: val.timeline[0].noConfirmed,
+        new: val.timeline[0].noConfirmed - val.timeline[1].noConfirmed,
+        incidence: val.timeline[0].incidence,
+        incidenceDiff: val.timeline[0].incidence - val.timeline[1].incidence,
+        totalShare: (val.timeline[0].noConfirmed / today.noConfirmed * 100).toFixed(1)
+      }));
+    console.log(countiesSummary);
     // sort them desc by incidence rate
-    countiesIncidence.sort((a,b) => b.incidence - a.incidence);
+    countiesSummary.sort((a,b) => b.incidence - a.incidence);
 
     return (
       <Container fluid>
@@ -225,14 +234,14 @@ export default class Dashboard extends Component {
         <Row className='spaced-row align-items-center'>
           <Col sm={2}>
             <div className='summary-box left'>
-              <span className='number'>{countiesIncidence[0].incidence}</span>
+              <span className='number'>{countiesSummary[0].incidence}</span>
               <br />
               <span className='description'>highest county incidence</span>
             </div>
           </Col>
           <Col sm={10}>
             <DailyCountiesIncidenceBarChart
-              data={countiesIncidence}
+              data={countiesSummary}
             />
           </Col>
         </Row>
@@ -240,8 +249,8 @@ export default class Dashboard extends Component {
         {/* Counties */}
         <Row className='spaced-row'>
           {
-            countiesIncidence.map((county, index) =>
-              <County countyKey={county.key} key={index} />
+            countiesSummary.map((county, index) =>
+              <County countySummary={county} key={index} />
             )
           }
         </Row>

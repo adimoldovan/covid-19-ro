@@ -7,14 +7,9 @@ import formattedNumber from '../utils';
 
 export default class County extends Component {
   render() {
-    const { countyKey } = this.props;
-    const county = counties[countyKey];
-
-    const totalConfirmed = county.timeline[0].noConfirmed;
-    const incidenceRate = county.timeline[0].incidence;
-    const newCases = county.timeline[0].noConfirmed - county.timeline[1].noConfirmed;
-
-    county.timeline.reverse();
+    const { countySummary } = this.props;
+    const timeline = counties[countySummary.key].timeline;
+    timeline.reverse();
 
     const chartOptions = {
       tooltip: ChartOptions.tooltip,
@@ -22,7 +17,7 @@ export default class County extends Component {
         {
           type: 'category',
           boundaryGap: false,
-          data: county.timeline.map(function (e) {
+          data: timeline.map(function (e) {
             return e.date;
           })
         }
@@ -50,7 +45,7 @@ export default class County extends Component {
             focus: 'series'
           },
           color: Colors.confirmed,
-          data: county.timeline.map(function (e) {
+          data: timeline.map(function (e) {
             return e.incidence;
           }),
           markLine: {
@@ -76,25 +71,25 @@ export default class County extends Component {
 
     return (
       <Col sm={6}>
-        <h1>{county.name}</h1>
+        <h1>{countySummary.name}</h1>
         <Row className='justify-content-between'>
           <Col lg={4}>
             <div className='summary-box center'>
-              <span className='description'>{formattedNumber(totalConfirmed)}</span>
+              <span className='description'>{formattedNumber(countySummary.total)} ({countySummary.totalShare} %)</span>
               <br />
               <span className='fine'>total cases</span>
             </div>
           </Col>
           <Col lg={4}>
             <div className='summary-box center'>
-              <span className='description'>{formattedNumber(newCases)}</span>
+              <span className='description'>{formattedNumber(countySummary.new)}</span>
               <br />
               <span className='fine'>new cases</span>
             </div>
           </Col>
           <Col lg={4}>
             <div className='summary-box center'>
-              <span className='description'>{incidenceRate}%</span>
+              <span className='description'>{countySummary.incidence} ‰</span>
               <br />
               <span className='fine'>incidence</span>
             </div>
