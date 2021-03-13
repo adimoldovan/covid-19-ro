@@ -10,6 +10,7 @@ import {Colors} from '../config/constants';
 import DailyTestsChart from './daily-tests-chart';
 import County from './county';
 import DailyVaccinesChart from './daily-vaccines-chart';
+import DailyCountiesIncidenceBarChart from './daily-counties-incidence-chart';
 
 export default class Dashboard extends Component {
   render() {
@@ -22,6 +23,12 @@ export default class Dashboard extends Component {
       newlyVaccinated = data[data.length - 2].noNewVaccineDosesAdministered;
     }
 
+    // get counties current incidence rate
+    const countiesIncidence = [];
+    Object.entries(counties).map(([key, val]) =>
+      countiesIncidence.push({key: key, name: val.name, incidence: val.timeline[0].incidence}));
+    // sort them desc by incidence rate
+    countiesIncidence.sort((a,b) => b.incidence - a.incidence);
 
     return (
       <Container fluid>
@@ -215,12 +222,26 @@ export default class Dashboard extends Component {
             />
           </Col>
         </Row>
+        <Row className='spaced-row align-items-center'>
+          <Col sm={2}>
+            <div className='summary-box left'>
+              <span className='number'>{countiesIncidence[0].incidence}</span>
+              <br />
+              <span className='description'>highest county incidence</span>
+            </div>
+          </Col>
+          <Col sm={10}>
+            <DailyCountiesIncidenceBarChart
+              data={countiesIncidence}
+            />
+          </Col>
+        </Row>
         <hr />
         {/* Counties */}
         <Row className='spaced-row'>
           {
-            Object.entries(counties).map(([key, val]) =>
-              <County county={val} key={key} />
+            countiesIncidence.map((county, index) =>
+              <County countyKey={county.key} key={index} />
             )
           }
         </Row>
