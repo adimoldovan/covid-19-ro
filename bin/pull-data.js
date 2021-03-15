@@ -41,7 +41,7 @@ const countiesData = {
   'SB': {'name':'Sibiu', 'timeline': []},
   'SV': {'name':'Suceava', 'timeline': []},
   'TR': {'name':'Teleorman', 'timeline': []},
-  'TM': {'name':'Timisoara', 'timeline': []},
+  'TM': {'name':'Timis', 'timeline': []},
   'TL': {'name':'Tulcea', 'timeline': []},
   'VS': {'name':'Vaslui', 'timeline': []},
   'VL': {'name':'Valcea', 'timeline': []},
