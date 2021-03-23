@@ -3,7 +3,7 @@ const fetch = require('sync-fetch');
 const dateLaZiURL = 'https://d35p9e4fm9h3wo.cloudfront.net/latestData.json';
 const graphsRoMainURL = 'https://www.graphs.ro/json.php';
 const graphsRoVaccineURL = 'https://www.graphs.ro/vaccinare_json.php';
-const population = 19414458;
+const population = require('../src/config/constants').population;
 const countiesData = {
   'AB': {'name':'Alba', 'timeline': []},
   'AR': {'name':'Arad', 'timeline': []},

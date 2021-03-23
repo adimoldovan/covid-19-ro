@@ -1,4 +1,4 @@
-export const Colors =
+const Colors =
 {
   confirmed: '#ffc658',
   recovered: '#82ca9d',
@@ -10,7 +10,7 @@ export const Colors =
   tests: '#719df3'
 };
 
-export const ChartOptions = {
+const ChartOptions = {
   tooltip: {
     trigger: 'axis',
     axisPointer: {
@@ -19,4 +19,10 @@ export const ChartOptions = {
   },
 };
 
-export const population = 19414458;
+const population = 19414458;
+
+module.exports = {
+  Colors,
+  ChartOptions,
+  population
+};
