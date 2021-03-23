@@ -157,7 +157,7 @@ export default class Dashboard extends Component {
             <VaccinesGaugeChart name='At least one dose' prc={prcVaccineAtLeast1stDose} />
           </Col>
           <Col sm={5}>
-            <VaccinesGaugeChart name='Both dozes' prc={today.prcImmunized} />
+            <VaccinesGaugeChart name='Both doses' prc={today.prcImmunized} />
           </Col>
         </Row>
         <Row className='spaced-row align-items-center'>
