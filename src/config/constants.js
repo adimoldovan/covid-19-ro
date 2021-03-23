@@ -18,3 +18,5 @@ export const ChartOptions = {
     }
   },
 };
+
+export const population = 19414458;

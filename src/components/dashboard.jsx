@@ -3,14 +3,13 @@ import data from '../data/data.json';
 import counties from '../data/counties.json';
 import {Col, Container, Row} from 'react-bootstrap';
 import formattedNumber from '../utils';
-import TotalCasesChart from './chart-totals-infected-active';
-import DailySummaryChart from './daily-summary-chart';
 import DailySingleBarChart from './daily-single-chart';
-import {Colors} from '../config/constants';
+import {Colors, population} from '../config/constants';
 import DailyTestsChart from './daily-tests-chart';
 import County from './county';
 import DailyVaccinesChart from './daily-vaccines-chart';
 import DailyCountiesIncidenceBarChart from './daily-counties-incidence-chart';
+import VaccinesGaugeChart from './vaccines-gauge-chart';
 
 export default class Dashboard extends Component {
   render() {
@@ -19,7 +18,7 @@ export default class Dashboard extends Component {
     let newlyVaccinated = today.noNewVaccineDosesAdministered;
 
     // if the vaccine data is not available for today, we use yesterday data
-    if(newlyVaccinated == null) {
+    if (newlyVaccinated == null) {
       newlyVaccinated = data[data.length - 2].noNewVaccineDosesAdministered;
     }
 
@@ -37,7 +36,12 @@ export default class Dashboard extends Component {
       }));
     console.log(countiesSummary);
     // sort them desc by incidence rate
-    countiesSummary.sort((a,b) => b.incidence - a.incidence);
+    countiesSummary.sort((a, b) => b.incidence - a.incidence);
+
+    // calculate immunized with at least one dose percent
+    const prcVaccineAtLeast1stDose = (
+      (today.noVaccineDosesAdministered - today.noImmunized) / population * 100
+    ).toFixed(1);
 
     return (
       <Container fluid>
@@ -50,14 +54,14 @@ export default class Dashboard extends Component {
           <Col className='text-right'>Last update: {today.date}</Col>
         </Row>
         {/* Top charts */}
-        <Row className='spaced-row'>
-          <Col sm={6}>
-            <TotalCasesChart timeline={data} />
-          </Col>
-          <Col sm={6}>
-            <DailySummaryChart timeline={data} />
-          </Col>
-        </Row>
+        {/* <Row className='spaced-row'>*/}
+        {/*  <Col sm={6}>*/}
+        {/*    <TotalCasesChart timeline={data} />*/}
+        {/*  </Col>*/}
+        {/*  <Col sm={6}>*/}
+        {/*    <DailySummaryChart timeline={data} />*/}
+        {/*  </Col>*/}
+        {/* </Row>*/}
         {/* Summary boxes */}
         <Row className='justify-content-between header'>
           <Col lg={4}>
@@ -139,6 +143,21 @@ export default class Dashboard extends Component {
           </Col>
           <Col sm={10}>
             <DailyVaccinesChart />
+          </Col>
+        </Row>
+        <Row className='spaced-row align-items-center'>
+          <Col sm={2}>
+            <div className='summary-box left'>
+              <span className='number'>&nbsp;</span>
+              <br />
+              <span className='description'>&nbsp;</span>
+            </div>
+          </Col>
+          <Col sm={5}>
+            <VaccinesGaugeChart name='At least one dose' prc={prcVaccineAtLeast1stDose} />
+          </Col>
+          <Col sm={5}>
+            <VaccinesGaugeChart name='Both dozes' prc={today.prcImmunized} />
           </Col>
         </Row>
         <Row className='spaced-row align-items-center'>
