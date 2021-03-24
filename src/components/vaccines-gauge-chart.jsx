@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import ReactEcharts from 'echarts-for-react';
-import {ChartOptions, Colors} from '../config/constants';
+import {Colors} from '../config/constants';
 
 export default class VaccinesGaugeChart extends Component {
   render() {
@@ -8,10 +8,12 @@ export default class VaccinesGaugeChart extends Component {
     const {name, prc} = this.props;
 
     const chartOptions = {
-      tooltip: ChartOptions.tooltip,
       title: {
         text: name,
-        left: 'center'
+        left: 'center',
+        textStyle: {
+          color: '#666'
+        }
       },
       series: [
         {
@@ -38,7 +40,7 @@ export default class VaccinesGaugeChart extends Component {
           },
           detail: {
             fontSize: 22,
-            color: Colors.deceased,
+            color: '#666',
             formatter: '{value}%',
             offsetCenter: ['0%', '0%']
           },

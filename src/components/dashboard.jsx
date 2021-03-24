@@ -39,9 +39,10 @@ export default class Dashboard extends Component {
     countiesSummary.sort((a, b) => b.incidence - a.incidence);
 
     // calculate immunized with at least one dose percent
-    const prcVaccineAtLeast1stDose = (
-      (today.noVaccineDosesAdministered - today.noImmunized) / population * 100
-    ).toFixed(1);
+    const noVaccineAtLeast1stDose = today.noVaccineDosesAdministered - today.noImmunized;
+    const prcVaccineAtLeast1stDose = (noVaccineAtLeast1stDose / population * 100).toFixed(1);
+    const noImmunizedOnly1stDose = noVaccineAtLeast1stDose - today.noImmunized;
+    const prcImmunizedOnly1stDose = (noImmunizedOnly1stDose / population * 100).toFixed(1);
 
     return (
       <Container fluid>
@@ -79,7 +80,7 @@ export default class Dashboard extends Component {
               <br />
               <span className='description'>active cases</span>
               <br />
-              <span className='fine'>{formattedNumber(today.prcActive)} %</span>
+              <span className='fine'>{formattedNumber(today.prcActive)}%</span>
             </div>
           </Col>
           <Col lg={4}>
@@ -89,20 +90,8 @@ export default class Dashboard extends Component {
               <span className='description'>deceased</span>
               <br />
               <span className='fine'>
-                {formattedNumber(today.prcDeceasedOfClosed)} % out of closed,&nbsp;
-                {formattedNumber(today.prcDeceasedOfTotal)} % out of total
-              </span>
-            </div>
-          </Col>
-          <Col lg={4}>
-            <div className='summary-box '>
-              <span className='number'>{formattedNumber(today.noRecovered)}</span>
-              <br />
-              <span className='description'>recovered</span>
-              <br />
-              <span className='fine'>
-                {formattedNumber(today.prcRecoveredOfClosed)} % out of closed,&nbsp;
-                {formattedNumber(today.prcRecoveredOfTotal)} % out of total
+                {formattedNumber(today.prcDeceasedOfClosed)}% out of closed,&nbsp;
+                {formattedNumber(today.prcDeceasedOfTotal)}% out of total
               </span>
             </div>
           </Col>
@@ -122,17 +111,44 @@ export default class Dashboard extends Component {
             <div className='summary-box '>
               <span
                 className='number'
+              >{formattedNumber(noImmunizedOnly1stDose)}
+              </span>
+              <br />
+              <span className='description'>immunized with first dose</span>
+              <br />
+              <span className='fine'>{formattedNumber(prcImmunizedOnly1stDose)}%</span>
+            </div>
+          </Col>
+          <Col lg={4}>
+            <div className='summary-box '>
+              <span
+                className='number'
               >{formattedNumber(today.noImmunized)}
               </span>
               <br />
-              <span className='description'>immunized</span>
+              <span className='description'>immunized with second dose</span>
               <br />
-              <span className='fine'>{formattedNumber(today.prcImmunized)} %</span>
+              <span className='fine'>{formattedNumber(today.prcImmunized)}%</span>
             </div>
           </Col>
         </Row>
         <hr />
         {/* Main charts */}
+        <Row className='spaced-row align-items-center'>
+          <Col sm={2}>
+            <div className='summary-box left'>
+              <span className='number'>{formattedNumber(noVaccineAtLeast1stDose)}</span>
+              <br />
+              <span className='description'>people vaccinated</span>
+            </div>
+          </Col>
+          <Col sm={5}>
+            <VaccinesGaugeChart name='At least one dose' prc={prcVaccineAtLeast1stDose} />
+          </Col>
+          <Col sm={5}>
+            <VaccinesGaugeChart name='Both doses' prc={today.prcImmunized} />
+          </Col>
+        </Row>
         <Row className='spaced-row align-items-center'>
           <Col sm={2}>
             <div className='summary-box left'>
@@ -143,21 +159,6 @@ export default class Dashboard extends Component {
           </Col>
           <Col sm={10}>
             <DailyVaccinesChart />
-          </Col>
-        </Row>
-        <Row className='spaced-row align-items-center'>
-          <Col sm={2}>
-            <div className='summary-box left'>
-              <span className='number'>&nbsp;</span>
-              <br />
-              <span className='description'>&nbsp;</span>
-            </div>
-          </Col>
-          <Col sm={5}>
-            <VaccinesGaugeChart name='At least one dose' prc={prcVaccineAtLeast1stDose} />
-          </Col>
-          <Col sm={5}>
-            <VaccinesGaugeChart name='Both doses' prc={today.prcImmunized} />
           </Col>
         </Row>
         <Row className='spaced-row align-items-center'>
