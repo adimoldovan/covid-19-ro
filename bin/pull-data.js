@@ -108,6 +108,8 @@ function processData() {
       noNewJohnson = vaccineData.mega_total_johnson;
     }
 
+    const noTotalDoses = (vaccineData === undefined) ? 0 : vaccineData.total_doze;
+    const noImmunized1stDose = (vaccineData === undefined) ? 0 : vaccineData.total_1;
     const noImmunized = (vaccineData === undefined) ? 0 : vaccineData.total_2;
     const prcPositiveTests = (d.new_cases_today/d.new_tests_today*100).toFixed(1);
 
@@ -128,6 +130,8 @@ function processData() {
       noNewRecovered: d.new_recovered_today,
       noNewDeceased: d.new_deaths_today,
       noVaccineDosesAdministered: (vaccineData === undefined) ? 0 : vaccineData.total_doze,
+      noTotalDoses,
+      noImmunized1stDose,
       noImmunized,
       prcImmunized: (noImmunized/population*100).toFixed(1),
       noNewVaccineDosesAdministered,

@@ -86,7 +86,7 @@ export default class DailyVaccinesChart extends Component {
           emphasis: {
             focus: 'series'
           },
-          color: Colors.confirmed,
+          color: Colors.positivity,
           data: data.map(function (e) {
             return e.noNewJohnson;
           })
