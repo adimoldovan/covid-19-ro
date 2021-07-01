@@ -28,5 +28,5 @@ jobs:
           touch datalog
           echo $(date +"%d %b %Y %H-%M %Z") > datalog
           git add .
-          git commit -m "Data update"
+          git commit -m "Data update $(date +"%d %b %Y %H-%M %Z")"
           git push
