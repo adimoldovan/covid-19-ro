@@ -94,16 +94,18 @@ function processData() {
     let noNewPfizer = null;
     let noNewModerna = null;
     let noNewAstraZeneca = null;
+    let noNewJohnson = null;
 
     // when there is no vaccine data for today, use the last data available for total, and nulls for new doses
     if (!vaccineData) {
       vaccineData = vaccineSeries[0];
     } else {
       noNewVaccineDosesAdministered = vaccineData.mega_total_pfizer +
-        vaccineData.mega_total_moderna + vaccineData.mega_total_astrazeneca;
+        vaccineData.mega_total_moderna + vaccineData.mega_total_astrazeneca + vaccineData.mega_total_johnson;
       noNewPfizer =  vaccineData.mega_total_pfizer;
       noNewModerna = vaccineData.mega_total_moderna;
       noNewAstraZeneca = vaccineData.mega_total_astrazeneca;
+      noNewJohnson = vaccineData.mega_total_johnson;
     }
 
     const noImmunized = (vaccineData === undefined) ? 0 : vaccineData.total_2;
@@ -132,6 +134,7 @@ function processData() {
       noNewPfizer,
       noNewModerna,
       noNewAstraZeneca,
+      noNewJohnson,
       noNewTestsTotal: d.new_tests_today,
       noNewTestsCaseDef: d.tests_for_case_definition,
       noNewTestsOnRequest: d.tests_upon_request,

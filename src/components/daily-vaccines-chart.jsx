@@ -78,6 +78,18 @@ export default class DailyVaccinesChart extends Component {
           data: data.map(function (e) {
             return e.noNewAstraZeneca;
           })
+        },
+        {
+          name: 'Johnson',
+          type: 'bar',
+          stack: '1',
+          emphasis: {
+            focus: 'series'
+          },
+          color: Colors.confirmed,
+          data: data.map(function (e) {
+            return e.noNewJohnson;
+          })
         }
       ]
     };
