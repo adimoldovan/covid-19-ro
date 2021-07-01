@@ -38,9 +38,6 @@ export default class Dashboard extends Component {
     // sort them desc by incidence rate
     countiesSummary.sort((a, b) => b.incidence - a.incidence);
 
-    // calculate immunized with at least one dose percent
-    const prcImmunized1stDose = (today.noImmunized1stDose / population * 100).toFixed(1);
-
     return (
       <Container fluid>
         <hr />
@@ -111,9 +108,9 @@ export default class Dashboard extends Component {
               >{formattedNumber(today.noImmunized1stDose)}
               </span>
               <br />
-              <span className='description'>immunized with first dose</span>
+              <span className='description'>immunized with first dose only</span>
               <br />
-              <span className='fine'>{formattedNumber(prcImmunized1stDose)}%</span>
+              <span className='fine'>{formattedNumber((today.noImmunized1stDose / population * 100).toFixed(1))}</span>
             </div>
           </Col>
           <Col lg={4}>
@@ -134,13 +131,16 @@ export default class Dashboard extends Component {
         <Row className='spaced-row align-items-center'>
           <Col sm={2}>
             <div className='summary-box left'>
-              <span className='number'>{formattedNumber(today.noImmunized1stDose)}</span>
+              <span className='number'>{formattedNumber(today.noImmunized1stDose + today.noImmunized)}</span>
               <br />
               <span className='description'>people vaccinated</span>
             </div>
           </Col>
           <Col sm={5}>
-            <VaccinesGaugeChart name='At least one dose' prc={prcImmunized1stDose} />
+            <VaccinesGaugeChart
+              name='At least one dose'
+              prc={((today.noImmunized1stDose + today.noImmunized) / population * 100).toFixed(1)}
+            />
           </Col>
           <Col sm={5}>
             <VaccinesGaugeChart name='Both doses' prc={today.prcImmunized} />
