@@ -3,6 +3,71 @@
     "name": "Alba",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 21375,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 21362,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 21351,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 21342,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 21340,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 21340,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 21340,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 21334,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 21326,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 21323,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 21320,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 21320,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 21316,
+        "incidence": 0.06
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 21314,
         "incidence": 0.06
@@ -1457,6 +1522,71 @@
   "AR": {
     "name": "Arad",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 23882,
+        "incidence": 0.21
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 23864,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 23844,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 23832,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 23825,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 23803,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 23803,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 23800,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 23782,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 23779,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 23772,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 23768,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 23767,
+        "incidence": 0.08
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 23760,
@@ -2913,6 +3043,71 @@
     "name": "Arges",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 27669,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 27659,
+        "incidence": 0.2
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 27650,
+        "incidence": 0.18
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 27643,
+        "incidence": 0.17
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 27635,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 27623,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 27623,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 27609,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 27599,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 27590,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 27582,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 27552,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 27563,
+        "incidence": 0.06
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 27552,
         "incidence": 0.05
@@ -4367,6 +4562,71 @@
   "BC": {
     "name": "Bacau",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 26463,
+        "incidence": 0.25
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 26432,
+        "incidence": 0.23
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 26402,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 26382,
+        "incidence": 0.18
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 26366,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 26333,
+        "incidence": 0.17
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 26333,
+        "incidence": 0.17
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 26308,
+        "incidence": 0.15
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 26295,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 26281,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 26267,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 26256,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 26243,
+        "incidence": 0.11
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 26228,
@@ -5823,6 +6083,71 @@
     "name": "Bihor",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 29417,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 29405,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 29396,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 29390,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 29388,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 29385,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 29385,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 29374,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 29359,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 29359,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 29354,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 29348,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 29341,
+        "incidence": 0.04
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 29340,
         "incidence": 0.04
@@ -7277,6 +7602,71 @@
   "BN": {
     "name": "Bistrita Nasaud",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 12166,
+        "incidence": 0.5
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 12149,
+        "incidence": 0.48
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 12125,
+        "incidence": 0.4
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 12102,
+        "incidence": 0.37
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 12094,
+        "incidence": 0.37
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 12073,
+        "incidence": 0.33
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 12073,
+        "incidence": 0.33
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 12056,
+        "incidence": 0.33
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 12046,
+        "incidence": 0.29
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 12033,
+        "incidence": 0.25
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 12018,
+        "incidence": 0.23
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 12016,
+        "incidence": 0.21
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 12002,
+        "incidence": 0.17
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 11986,
@@ -8733,6 +9123,71 @@
     "name": "Botosani",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 14275,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 14266,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 14257,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 14255,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 14252,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 14249,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 14249,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 14245,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 14244,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 14243,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 14238,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 14236,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 14232,
+        "incidence": 0.03
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 14233,
         "incidence": 0.03
@@ -10187,6 +10642,71 @@
   "BV": {
     "name": "Brasov",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 43923,
+        "incidence": 0.22
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 43914,
+        "incidence": 0.22
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 43898,
+        "incidence": 0.195
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 43886,
+        "incidence": 0.15
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 43882,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 43838,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 43838,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 43811,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 43801,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 43784,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 43776,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 43773,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 43769,
+        "incidence": 0.07
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 43762,
@@ -11643,6 +12163,71 @@
     "name": "Braila",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 13395,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 13390,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 13381,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 13375,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 13370,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 13362,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 13362,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 13362,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 13358,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 13352,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 13348,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 13348,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 13341,
+        "incidence": 0.08
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 13339,
         "incidence": 0.05
@@ -13097,6 +13682,71 @@
   "BZ": {
     "name": "Buzau",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 12682,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 12674,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 12667,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 12659,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 12653,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 12643,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 12643,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 12640,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 12635,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 12633,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 12632,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 12632,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 12630,
+        "incidence": 0.03
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 12620,
@@ -14553,6 +15203,71 @@
     "name": "Caras-Severin",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 11613,
+        "incidence": 0.25
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 11603,
+        "incidence": 0.25
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 11597,
+        "incidence": 0.2
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 11591,
+        "incidence": 0.17
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 11586,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 11571,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 11571,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 11561,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 11557,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 11550,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 11541,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 11538,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 11535,
+        "incidence": 0.09
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 11528,
         "incidence": 0.07
@@ -16007,6 +16722,71 @@
   "CL": {
     "name": "Calarasi",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 10331,
+        "incidence": 0.48
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 10318,
+        "incidence": 0.45
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 10292,
+        "incidence": 0.38
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 10280,
+        "incidence": 0.36
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 10262,
+        "incidence": 0.34
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 10245,
+        "incidence": 0.29
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 10245,
+        "incidence": 0.29
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 10233,
+        "incidence": 0.3
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 10221,
+        "incidence": 0.31
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 10203,
+        "incidence": 0.3
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 10197,
+        "incidence": 0.3
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 10190,
+        "incidence": 0.28
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 10186,
+        "incidence": 0.25
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 10176,
@@ -17463,6 +18243,71 @@
     "name": "Cluj",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 58352,
+        "incidence": 0.48
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 58305,
+        "incidence": 0.45
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 58256,
+        "incidence": 0.36
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 58175,
+        "incidence": 0.35
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 58125,
+        "incidence": 0.31
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 58075,
+        "incidence": 0.28
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 58075,
+        "incidence": 0.28
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 58044,
+        "incidence": 0.28
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 58019,
+        "incidence": 0.27
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 57997,
+        "incidence": 0.24
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 57979,
+        "incidence": 0.23
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 57970,
+        "incidence": 0.22
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 57947,
+        "incidence": 0.23
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 57921,
         "incidence": 0.22
@@ -18917,6 +19762,71 @@
   "CT": {
     "name": "Constanta",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 43537,
+        "incidence": 0.36
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 43503,
+        "incidence": 0.33
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 43473,
+        "incidence": 0.28
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 43446,
+        "incidence": 0.27
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 43423,
+        "incidence": 0.26
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 43387,
+        "incidence": 0.24
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 43387,
+        "incidence": 0.24
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 43359,
+        "incidence": 0.24
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 43336,
+        "incidence": 0.24
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 43309,
+        "incidence": 0.22
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 43286,
+        "incidence": 0.23
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 43272,
+        "incidence": 0.22
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 43264,
+        "incidence": 0.22
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 43234,
@@ -20373,6 +21283,71 @@
     "name": "Covasna",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 8577,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 8576,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 8574,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 8574,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 8574,
+        "incidence": 0.03
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 8571,
+        "incidence": 0.03
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 8571,
+        "incidence": 0.03
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 8568,
+        "incidence": 0.03
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 8566,
+        "incidence": 0.03
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 8566,
+        "incidence": 0.03
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 8566,
+        "incidence": 0.03
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 8566,
+        "incidence": 0.03
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 8566,
+        "incidence": 0
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 8567,
         "incidence": 0.01
@@ -21827,6 +22802,71 @@
   "DB": {
     "name": "Dambovita",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 22718,
+        "incidence": 0.24
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 22704,
+        "incidence": 0.24
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 22694,
+        "incidence": 0.22
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 22681,
+        "incidence": 0.02
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 22680,
+        "incidence": 0.18
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 22668,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 22668,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 22655,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 22636,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 22622,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 22613,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 22604,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 22597,
+        "incidence": 0.1
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 22592,
@@ -23283,6 +24323,71 @@
     "name": "Dolj",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 26992,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 26954,
+        "incidence": 0.18
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 26928,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 26913,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 26906,
+        "incidence": 0.15
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 26892,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 26892,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 26878,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 26865,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 26848,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 26846,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 26844,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 26835,
+        "incidence": 0.1
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 26827,
         "incidence": 0.1
@@ -24737,6 +25842,71 @@
   "GL": {
     "name": "Galati",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 27924,
+        "incidence": 0.23
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 27899,
+        "incidence": 0.21
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 27878,
+        "incidence": 0.2
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 27866,
+        "incidence": 0.18
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 27856,
+        "incidence": 0.17
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 27838,
+        "incidence": 0.15
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 27838,
+        "incidence": 0.15
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 27829,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 27802,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 27795,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 27785,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 27779,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 27773,
+        "incidence": 0.09
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 27761,
@@ -26193,6 +27363,71 @@
     "name": "Giurgiu",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 11140,
+        "incidence": 0.21
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 11131,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 11121,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 11114,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 11101,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 11091,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 11091,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 11086,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 11076,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 11073,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 11072,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 11072,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 11071,
+        "incidence": 0.1
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 11069,
         "incidence": 0.08
@@ -27647,6 +28882,71 @@
   "GJ": {
     "name": "Gorj",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 9281,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 9276,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 9266,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 9261,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 9255,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 9251,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 9251,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 9249,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 9246,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 9245,
+        "incidence": 0.03
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 9244,
+        "incidence": 0.03
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 9241,
+        "incidence": 0.02
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 9239,
+        "incidence": 0.01
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 9235,
@@ -29103,6 +30403,71 @@
     "name": "Harghita",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 8342,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 8338,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 8331,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 8323,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 8323,
+        "incidence": 0.03
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 8317,
+        "incidence": 0.02
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 8317,
+        "incidence": 0.02
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 8316,
+        "incidence": 0.02
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 8308,
+        "incidence": 0.02
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 8306,
+        "incidence": 0.02
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 8305,
+        "incidence": 0.02
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 8304,
+        "incidence": 0.02
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 8303,
+        "incidence": 0.02
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 8302,
         "incidence": 0.02
@@ -30557,6 +31922,71 @@
   "HD": {
     "name": "Hunedoara",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 23109,
+        "incidence": 0.25
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 23101,
+        "incidence": 0.25
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 23080,
+        "incidence": 0.21
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 23052,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 23050,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 23028,
+        "incidence": 0.17
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 23028,
+        "incidence": 0.17
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 23021,
+        "incidence": 0.15
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 23000,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 22994,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 22991,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 22987,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 22980,
+        "incidence": 0.09
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 22969,
@@ -32013,6 +33443,71 @@
     "name": "Ialomita",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 10905,
+        "incidence": 0.23
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 10899,
+        "incidence": 0.22
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 10890,
+        "incidence": 0.2
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 10885,
+        "incidence": 0.17
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 10883,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 10873,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 10873,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 10867,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 10861,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 10857,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 10851,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 10849,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 10841,
+        "incidence": 0.1
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 10841,
         "incidence": 0.09
@@ -33467,6 +34962,71 @@
   "IS": {
     "name": "Iasi",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 42888,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 42861,
+        "incidence": 0.18
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 42835,
+        "incidence": 0.15
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 42816,
+        "incidence": 0.15
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 42798,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 42771,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 42771,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 42746,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 42732,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 42709,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 42692,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 42682,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 42670,
+        "incidence": 0.11
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 42659,
@@ -34923,6 +36483,71 @@
     "name": "Ilfov",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 45827,
+        "incidence": 0.79
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 45801,
+        "incidence": 0.74
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 45769,
+        "incidence": 0.65
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 45730,
+        "incidence": 0.58
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 45697,
+        "incidence": 0.55
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 45639,
+        "incidence": 0.48
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 45639,
+        "incidence": 0.48
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 45615,
+        "incidence": 0.46
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 45563,
+        "incidence": 0.43
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 45526,
+        "incidence": 0.4
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 45506,
+        "incidence": 0.37
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 45487,
+        "incidence": 0.36
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 45465,
+        "incidence": 0.34
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 45462,
         "incidence": 0.3
@@ -36377,6 +38002,71 @@
   "MM": {
     "name": "Maramures",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 20598,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 20587,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 20568,
+        "incidence": 0.15
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 20560,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 20556,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 20543,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 20543,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 20533,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 20527,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 20521,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 20511,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 20509,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 20501,
+        "incidence": 0.07
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 20502,
@@ -37833,6 +39523,71 @@
     "name": "Mehedinti",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 8392,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 8386,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 8377,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 8369,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 8369,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 8366,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 8366,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 8366,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 8362,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 8360,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 8357,
+        "incidence": 0.03
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 8356,
+        "incidence": 0.03
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 8356,
+        "incidence": 0.03
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 8356,
         "incidence": 0.03
@@ -39287,6 +41042,71 @@
   "MS": {
     "name": "Mures",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 24106,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 24093,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 24088,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 24082,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 24082,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 24072,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 24072,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 24065,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 24058,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 24047,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 24044,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 24041,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 24036,
+        "incidence": 0.05
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 24035,
@@ -40743,6 +42563,71 @@
     "name": "Neamt",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 19254,
+        "incidence": 0.28
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 19229,
+        "incidence": 0.27
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 19200,
+        "incidence": 0.23
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 19183,
+        "incidence": 0.22
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 19177,
+        "incidence": 0.18
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 19144,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 19144,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 19127,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 19108,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 19090,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 19081,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 19079,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 19070,
+        "incidence": 0.08
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 19066,
         "incidence": 0.06
@@ -42197,6 +44082,71 @@
   "OT": {
     "name": "Olt",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 14744,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 14732,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 14720,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 14710,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 14707,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 14696,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 14696,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 14692,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 14689,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 14682,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 14679,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 14674,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 14673,
+        "incidence": 0.05
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 14670,
@@ -43653,6 +45603,71 @@
     "name": "Prahova",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 35853,
+        "incidence": 0.25
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 35827,
+        "incidence": 0.24
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 35797,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 35775,
+        "incidence": 0.17
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 35759,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 35711,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 35711,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 35700,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 35683,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 35658,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 35643,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 35635,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 35627,
+        "incidence": 0.1
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 35620,
         "incidence": 0.1
@@ -45107,6 +47122,71 @@
   "SM": {
     "name": "Satu Mare",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 13225,
+        "incidence": 0.25
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 13214,
+        "incidence": 0.24
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 13197,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 13184,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 13175,
+        "incidence": 0.15
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 13160,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 13160,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 13149,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 13139,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 13129,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 13120,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 13119,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 13118,
+        "incidence": 0.1
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 13112,
@@ -46563,6 +48643,71 @@
     "name": "Salaj",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 10986,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 10983,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 10982,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 10979,
+        "incidence": 0.03
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 10977,
+        "incidence": 0.02
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 10970,
+        "incidence": 0.02
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 10970,
+        "incidence": 0.02
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 10966,
+        "incidence": 0.01
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 10964,
+        "incidence": 0.01
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 10964,
+        "incidence": 0.01
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 10963,
+        "incidence": 0.01
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 10962,
+        "incidence": 0.01
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 10961,
+        "incidence": 0.02
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 10961,
         "incidence": 0.02
@@ -48017,6 +50162,71 @@
   "SB": {
     "name": "Sibiu",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 26731,
+        "incidence": 0.26
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 26713,
+        "incidence": 0.26
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 26687,
+        "incidence": 0.2
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 26675,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 26662,
+        "incidence": 0.17
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 26632,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 26632,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 26622,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 26605,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 26596,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 26596,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 26592,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 26580,
+        "incidence": 0.06
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 26574,
@@ -49473,6 +51683,71 @@
     "name": "Suceava",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 24634,
+        "incidence": 0.31
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 24617,
+        "incidence": 0.31
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 24591,
+        "incidence": 0.24
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 24562,
+        "incidence": 0.23
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 24546,
+        "incidence": 0.23
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 24487,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 24487,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 24474,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 24457,
+        "incidence": 0.17
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 24435,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 24419,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 24407,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 24400,
+        "incidence": 0.1
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 24378,
         "incidence": 0.09
@@ -50927,6 +53202,71 @@
   "TR": {
     "name": "Teleorman",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 13909,
+        "incidence": 0.31
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 13895,
+        "incidence": 0.28
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 13880,
+        "incidence": 0.22
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 13863,
+        "incidence": 0.2
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 13854,
+        "incidence": 0.17
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 13830,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 13830,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 13825,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 13810,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 13804,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 13794,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 13792,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 13791,
+        "incidence": 0.08
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 13787,
@@ -52383,6 +54723,71 @@
     "name": "Timis",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 54982,
+        "incidence": 0.36
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 54936,
+        "incidence": 0.34
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 54887,
+        "incidence": 0.27
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 54843,
+        "incidence": 0.25
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 54825,
+        "incidence": 0.21
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 54759,
+        "incidence": 0.18
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 54759,
+        "incidence": 0.18
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 54710,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 54696,
+        "incidence": 0.19
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 54672,
+        "incidence": 0.18
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 54649,
+        "incidence": 0.18
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 54639,
+        "incidence": 0.17
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 54627,
+        "incidence": 0.17
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 54616,
         "incidence": 0.18
@@ -53837,6 +56242,71 @@
   "TL": {
     "name": "Tulcea",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 8516,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 8508,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 8501,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 8498,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 8493,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 8486,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 8486,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 8483,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 8480,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 8478,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 8476,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 8475,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 8475,
+        "incidence": 0.08
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 8474,
@@ -55293,6 +57763,71 @@
     "name": "Vaslui",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 16135,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 16122,
+        "incidence": 0.13
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 16113,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 16102,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 16098,
+        "incidence": 0.09
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 16085,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 16085,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 16082,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 16068,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 16061,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 16053,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 16051,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 16046,
+        "incidence": 0.04
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 16041,
         "incidence": 0.04
@@ -56747,6 +59282,71 @@
   "VL": {
     "name": "Valcea",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 16550,
+        "incidence": 0.15
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 16544,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 16532,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 16531,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 16530,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 16514,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 16514,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 16511,
+        "incidence": 0.11
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 16504,
+        "incidence": 0.1
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 16503,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 16499,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 16494,
+        "incidence": 0.05
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 16486,
+        "incidence": 0.05
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 16484,
@@ -58203,6 +60803,71 @@
     "name": "Vrancea",
     "timeline": [
       {
+        "date": "2021-08-26",
+        "noConfirmed": 10788,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 10776,
+        "incidence": 0.16
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 10767,
+        "incidence": 0.14
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 10764,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 10761,
+        "incidence": 0.12
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 10754,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 10754,
+        "incidence": 0.08
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 10749,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 10743,
+        "incidence": 0.07
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 10732,
+        "incidence": 0.06
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 10724,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 10724,
+        "incidence": 0.04
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 10721,
+        "incidence": 0.03
+      },
+      {
         "date": "2021-08-13",
         "noConfirmed": 10718,
         "incidence": 0.02
@@ -59657,6 +62322,71 @@
   "B": {
     "name": "Bucuresti",
     "timeline": [
+      {
+        "date": "2021-08-26",
+        "noConfirmed": 186230,
+        "incidence": 0.6
+      },
+      {
+        "date": "2021-08-25",
+        "noConfirmed": 186061,
+        "incidence": 0.58
+      },
+      {
+        "date": "2021-08-24",
+        "noConfirmed": 185907,
+        "incidence": 0.52
+      },
+      {
+        "date": "2021-08-23",
+        "noConfirmed": 185773,
+        "incidence": 0.48
+      },
+      {
+        "date": "2021-08-22",
+        "noConfirmed": 185717,
+        "incidence": 0.47
+      },
+      {
+        "date": "2021-08-21",
+        "noConfirmed": 185513,
+        "incidence": 0.42
+      },
+      {
+        "date": "2021-08-20",
+        "noConfirmed": 185513,
+        "incidence": 0.42
+      },
+      {
+        "date": "2021-08-19",
+        "noConfirmed": 185395,
+        "incidence": 0.41
+      },
+      {
+        "date": "2021-08-18",
+        "noConfirmed": 185259,
+        "incidence": 0.38
+      },
+      {
+        "date": "2021-08-17",
+        "noConfirmed": 185152,
+        "incidence": 0.36
+      },
+      {
+        "date": "2021-08-16",
+        "noConfirmed": 185043,
+        "incidence": 0.34
+      },
+      {
+        "date": "2021-08-15",
+        "noConfirmed": 185007,
+        "incidence": 0.32
+      },
+      {
+        "date": "2021-08-14",
+        "noConfirmed": 184980,
+        "incidence": 0.29
+      },
       {
         "date": "2021-08-13",
         "noConfirmed": 184895,
