@@ -65,6 +65,12 @@ export default class DailyCountiesIncidenceBarChart extends Component {
               },
               {
                 yAxis: 3
+              },
+              {
+                yAxis: 6
+              },
+              {
+                yAxis: 7.5
               }
             ]
           }
