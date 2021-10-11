@@ -174,8 +174,8 @@ function processData() {
 
   roData.reverse();
 
-  fs.writeFileSync('src/data/data.json', JSON.stringify(roData,undefined, 2));
-  fs.writeFileSync('src/data/counties.json', JSON.stringify(countiesData,undefined, 2));
+  fs.writeFileSync('src/data/data.json', JSON.stringify(roData,undefined, 1));
+  fs.writeFileSync('src/data/counties.json', JSON.stringify(countiesData,undefined, 1));
 }
 
 
