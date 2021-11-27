@@ -3,6 +3,11 @@
   "name": "Alba",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 33500,
+    "incidence": 2.71
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 33451,
     "incidence": 3.03
@@ -1977,6 +1982,11 @@
  "AR": {
   "name": "Arad",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 40882,
+    "incidence": 3.78
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 40790,
@@ -3953,6 +3963,11 @@
   "name": "Arges",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 45628,
+    "incidence": 2.2
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 45568,
     "incidence": 2.38
@@ -5927,6 +5942,11 @@
  "BC": {
   "name": "Bacau",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 40759,
+    "incidence": 1.35
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 40714,
@@ -7903,6 +7923,11 @@
   "name": "Bihor",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 49478,
+    "incidence": 3.48
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 49389,
     "incidence": 3.77
@@ -9877,6 +9902,11 @@
  "BN": {
   "name": "Bistrita Nasaud",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 19208,
+    "incidence": 1.13
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 19192,
@@ -11853,6 +11883,11 @@
   "name": "Botosani",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 22432,
+    "incidence": 1.06
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 22411,
     "incidence": 1.14
@@ -13827,6 +13862,11 @@
  "BV": {
   "name": "Brasov",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 65606,
+    "incidence": 3.38
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 65510,
@@ -15803,6 +15843,11 @@
   "name": "Braila",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 22455,
+    "incidence": 2
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 22430,
     "incidence": 2.27
@@ -17777,6 +17822,11 @@
  "BZ": {
   "name": "Buzau",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 23857,
+    "incidence": 1.92
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 23837,
@@ -19753,6 +19803,11 @@
   "name": "Caras-Severin",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 18623,
+    "incidence": 2.13
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 18584,
     "incidence": 2.3
@@ -21727,6 +21782,11 @@
  "CL": {
   "name": "Calarasi",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 17588,
+    "incidence": 1.25
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 17578,
@@ -23703,6 +23763,11 @@
   "name": "Cluj",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 86989,
+    "incidence": 3.38
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 86810,
     "incidence": 3.76
@@ -25677,6 +25742,11 @@
  "CT": {
   "name": "Constanta",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 68257,
+    "incidence": 2.14
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 68196,
@@ -27653,6 +27723,11 @@
   "name": "Covasna",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 12780,
+    "incidence": 2.22
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 12739,
     "incidence": 2.32
@@ -29627,6 +29702,11 @@
  "DB": {
   "name": "Dambovita",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 36011,
+    "incidence": 2.06
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 35952,
@@ -31603,6 +31683,11 @@
   "name": "Dolj",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 44704,
+    "incidence": 1.21
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 44665,
     "incidence": 1.29
@@ -33577,6 +33662,11 @@
  "GL": {
   "name": "Galati",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 43534,
+    "incidence": 1.38
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 43488,
@@ -35553,6 +35643,11 @@
   "name": "Giurgiu",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 19353,
+    "incidence": 1.39
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 19339,
     "incidence": 1.49
@@ -37527,6 +37622,11 @@
  "GJ": {
   "name": "Gorj",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 15104,
+    "incidence": 1.08
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 15096,
@@ -39503,6 +39603,11 @@
   "name": "Harghita",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 13834,
+    "incidence": 1.53
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 13822,
     "incidence": 1.73
@@ -41477,6 +41582,11 @@
  "HD": {
   "name": "Hunedoara",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 35421,
+    "incidence": 2.9
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 35353,
@@ -43453,6 +43563,11 @@
   "name": "Ialomita",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 19304,
+    "incidence": 1.89
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 19286,
     "incidence": 2.08
@@ -45427,6 +45542,11 @@
  "IS": {
   "name": "Iasi",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 70943,
+    "incidence": 1.47
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 70880,
@@ -47403,6 +47523,11 @@
   "name": "Ilfov",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 74854,
+    "incidence": 2.85
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 74778,
     "incidence": 3.1
@@ -49377,6 +49502,11 @@
  "MM": {
   "name": "Maramures",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 30810,
+    "incidence": 1.53
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 30770,
@@ -51353,6 +51483,11 @@
   "name": "Mehedinti",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 15636,
+    "incidence": 1.34
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 15626,
     "incidence": 1.48
@@ -53327,6 +53462,11 @@
  "MS": {
   "name": "Mures",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 39073,
+    "incidence": 2.66
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 39002,
@@ -55303,6 +55443,11 @@
   "name": "Neamt",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 30745,
+    "incidence": 1.26
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 30720,
     "incidence": 1.41
@@ -57277,6 +57422,11 @@
  "OT": {
   "name": "Olt",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 25814,
+    "incidence": 1.5
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 25764,
@@ -59253,6 +59403,11 @@
   "name": "Prahova",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 62618,
+    "incidence": 1.93
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 62535,
     "incidence": 2.19
@@ -61227,6 +61382,11 @@
  "SM": {
   "name": "Satu Mare",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 20460,
+    "incidence": 1.36
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 20439,
@@ -63203,6 +63363,11 @@
   "name": "Salaj",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 17594,
+    "incidence": 1.78
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 17575,
     "incidence": 2.13
@@ -65177,6 +65342,11 @@
  "SB": {
   "name": "Sibiu",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 42238,
+    "incidence": 3.17
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 42135,
@@ -67153,6 +67323,11 @@
   "name": "Suceava",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 37638,
+    "incidence": 0.76
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 37620,
     "incidence": 0.82
@@ -69127,6 +69302,11 @@
  "TR": {
   "name": "Teleorman",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 24732,
+    "incidence": 1.93
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 24695,
@@ -71103,6 +71283,11 @@
   "name": "Timis",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 86133,
+    "incidence": 2.94
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 86012,
     "incidence": 3.15
@@ -73077,6 +73262,11 @@
  "TL": {
   "name": "Tulcea",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 13682,
+    "incidence": 1.68
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 13667,
@@ -75053,6 +75243,11 @@
   "name": "Vaslui",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 26593,
+    "incidence": 1.03
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 26571,
     "incidence": 1.16
@@ -77027,6 +77222,11 @@
  "VL": {
   "name": "Valcea",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 26348,
+    "incidence": 1.65
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 26324,
@@ -79003,6 +79203,11 @@
   "name": "Vrancea",
   "timeline": [
    {
+    "date": "2021-11-26",
+    "noConfirmed": 17638,
+    "incidence": 1.15
+   },
+   {
     "date": "2021-11-25",
     "noConfirmed": 17626,
     "incidence": 1.3
@@ -80977,6 +81182,11 @@
  "B": {
   "name": "Bucuresti",
   "timeline": [
+   {
+    "date": "2021-11-26",
+    "noConfirmed": 301455,
+    "incidence": 2.41
+   },
    {
     "date": "2021-11-25",
     "noConfirmed": 301236,
