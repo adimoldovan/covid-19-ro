@@ -231,26 +231,6 @@ export default class Dashboard extends Component {
         <Row className='spaced-row align-items-center'>
           <Col sm={2}>
             <div className='summary-box left'>
-              <span className='number'>{formattedNumber(today.noNewRecovered)}</span>
-              <br />
-              <span className='description'>newly recovered</span>
-            </div>
-          </Col>
-          <Col sm={10}>
-            <DailySingleBarChart
-              xSeries={data.map(function (e) {
-                return e.date;
-              })}
-              ySeries={data.map(function (e) {
-                return e.noNewRecovered;
-              })}
-              color={Colors.recovered} name='recovered'
-            />
-          </Col>
-        </Row>
-        <Row className='spaced-row align-items-center'>
-          <Col sm={2}>
-            <div className='summary-box left'>
               <span className='number'>{countiesSummary[0].incidence}</span>
               <br />
               <span className='description'>highest county incidence</span>
