@@ -10141,7 +10141,7 @@
   "noNewTestsCaseDef": 18552,
   "noNewTestsOnRequest": 9809,
   "noNewTestsOldResults": 231,
-  "prcPositiveTests": 15.5
+  "prcPositiveTests": 13.4
  },
  {
   "date": "2021-01-14",
@@ -10173,7 +10173,7 @@
   "noNewTestsCaseDef": 16474,
   "noNewTestsOnRequest": 10235,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 13.2
+  "prcPositiveTests": 10.8
  },
  {
   "date": "2021-01-15",
@@ -10205,7 +10205,7 @@
   "noNewTestsCaseDef": 14620,
   "noNewTestsOnRequest": 11006,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 13.1
+  "prcPositiveTests": 10.8
  },
  {
   "date": "2021-01-16",
@@ -10237,7 +10237,7 @@
   "noNewTestsCaseDef": 12134,
   "noNewTestsOnRequest": 10387,
   "noNewTestsOldResults": 649,
-  "prcPositiveTests": 13.9
+  "prcPositiveTests": 11.7
  },
  {
   "date": "2021-01-17",
@@ -10269,7 +10269,7 @@
   "noNewTestsCaseDef": 6529,
   "noNewTestsOnRequest": 4995,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 18.7
+  "prcPositiveTests": 14.5
  },
  {
   "date": "2021-01-18",
@@ -10301,7 +10301,7 @@
   "noNewTestsCaseDef": 4303,
   "noNewTestsOnRequest": 1505,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 26
+  "prcPositiveTests": 17
  },
  {
   "date": "2021-01-19",
@@ -10333,7 +10333,7 @@
   "noNewTestsCaseDef": 14692,
   "noNewTestsOnRequest": 8368,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 11.9
+  "prcPositiveTests": 9.6
  },
  {
   "date": "2021-01-20",
@@ -10365,7 +10365,7 @@
   "noNewTestsCaseDef": 18424,
   "noNewTestsOnRequest": 8344,
   "noNewTestsOldResults": 15,
-  "prcPositiveTests": 11.2
+  "prcPositiveTests": 9.1
  },
  {
   "date": "2021-01-21",
@@ -10397,7 +10397,7 @@
   "noNewTestsCaseDef": 16496,
   "noNewTestsOnRequest": 8056,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 11.7
+  "prcPositiveTests": 9.6
  },
  {
   "date": "2021-01-22",
@@ -10429,7 +10429,7 @@
   "noNewTestsCaseDef": 15012,
   "noNewTestsOnRequest": 8700,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 11.4
+  "prcPositiveTests": 9.1
  },
  {
   "date": "2021-01-23",
@@ -10461,7 +10461,7 @@
   "noNewTestsCaseDef": 12385,
   "noNewTestsOnRequest": 9052,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 12.7
+  "prcPositiveTests": 10.2
  },
  {
   "date": "2021-01-24",
@@ -10493,7 +10493,7 @@
   "noNewTestsCaseDef": 6491,
   "noNewTestsOnRequest": 4425,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 16.6
+  "prcPositiveTests": 12.5
  },
  {
   "date": "2021-01-25",
@@ -10525,7 +10525,7 @@
   "noNewTestsCaseDef": 4311,
   "noNewTestsOnRequest": 1610,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 26.2
+  "prcPositiveTests": 17
  },
  {
   "date": "2021-01-26",
@@ -10557,7 +10557,7 @@
   "noNewTestsCaseDef": 14079,
   "noNewTestsOnRequest": 8118,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 13
+  "prcPositiveTests": 9.9
  },
  {
   "date": "2021-01-27",
@@ -10589,7 +10589,7 @@
   "noNewTestsCaseDef": 17096,
   "noNewTestsOnRequest": 8508,
   "noNewTestsOldResults": 88,
-  "prcPositiveTests": 12.4
+  "prcPositiveTests": 9.6
  },
  {
   "date": "2021-01-28",
@@ -10621,7 +10621,7 @@
   "noNewTestsCaseDef": 15905,
   "noNewTestsOnRequest": 8821,
   "noNewTestsOldResults": 121,
-  "prcPositiveTests": 11.7
+  "prcPositiveTests": 9.2
  },
  {
   "date": "2021-01-29",
@@ -10653,7 +10653,7 @@
   "noNewTestsCaseDef": 14729,
   "noNewTestsOnRequest": 10936,
   "noNewTestsOldResults": 281,
-  "prcPositiveTests": 10.5
+  "prcPositiveTests": 8.5
  },
  {
   "date": "2021-01-30",
@@ -10685,7 +10685,7 @@
   "noNewTestsCaseDef": 12273,
   "noNewTestsOnRequest": 12183,
   "noNewTestsOldResults": 2213,
-  "prcPositiveTests": 10
+  "prcPositiveTests": 7.9
  },
  {
   "date": "2021-01-31",
@@ -10717,7 +10717,7 @@
   "noNewTestsCaseDef": 6417,
   "noNewTestsOnRequest": 5783,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 15.6
+  "prcPositiveTests": 12.5
  },
  {
   "date": "2021-02-01",
@@ -10749,7 +10749,7 @@
   "noNewTestsCaseDef": 4033,
   "noNewTestsOnRequest": 1768,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 22.6
+  "prcPositiveTests": 14.6
  },
  {
   "date": "2021-02-02",
@@ -10781,7 +10781,7 @@
   "noNewTestsCaseDef": 14755,
   "noNewTestsOnRequest": 8532,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 11.5
+  "prcPositiveTests": 8.8
  },
  {
   "date": "2021-02-03",
@@ -10813,7 +10813,7 @@
   "noNewTestsCaseDef": 17107,
   "noNewTestsOnRequest": 8443,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 10.8
+  "prcPositiveTests": 8.1
  },
  {
   "date": "2021-02-04",
@@ -10845,7 +10845,7 @@
   "noNewTestsCaseDef": 16477,
   "noNewTestsOnRequest": 8757,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 10.6
+  "prcPositiveTests": 8.2
  },
  {
   "date": "2021-02-05",
@@ -10877,7 +10877,7 @@
   "noNewTestsCaseDef": 16316,
   "noNewTestsOnRequest": 8994,
   "noNewTestsOldResults": 217,
-  "prcPositiveTests": 10.5
+  "prcPositiveTests": 8.1
  },
  {
   "date": "2021-02-06",
@@ -10909,7 +10909,7 @@
   "noNewTestsCaseDef": 12037,
   "noNewTestsOnRequest": 9609,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 12.1
+  "prcPositiveTests": 9.6
  },
  {
   "date": "2021-02-07",
@@ -10941,7 +10941,7 @@
   "noNewTestsCaseDef": 6383,
   "noNewTestsOnRequest": 5566,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 16.5
+  "prcPositiveTests": 12.7
  },
  {
   "date": "2021-02-08",
@@ -10973,7 +10973,7 @@
   "noNewTestsCaseDef": 4089,
   "noNewTestsOnRequest": 2121,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 21.2
+  "prcPositiveTests": 13.9
  },
  {
   "date": "2021-02-09",
@@ -11005,7 +11005,7 @@
   "noNewTestsCaseDef": 13421,
   "noNewTestsOnRequest": 8712,
   "noNewTestsOldResults": 96,
-  "prcPositiveTests": 12.6
+  "prcPositiveTests": 9.2
  },
  {
   "date": "2021-02-10",
@@ -11037,7 +11037,7 @@
   "noNewTestsCaseDef": 16770,
   "noNewTestsOnRequest": 9417,
   "noNewTestsOldResults": 217,
-  "prcPositiveTests": 11.5
+  "prcPositiveTests": 9
  },
  {
   "date": "2021-02-11",
@@ -11069,7 +11069,7 @@
   "noNewTestsCaseDef": 15184,
   "noNewTestsOnRequest": 9561,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 10.7
+  "prcPositiveTests": 8.4
  },
  {
   "date": "2021-02-12",
@@ -11101,7 +11101,7 @@
   "noNewTestsCaseDef": 14591,
   "noNewTestsOnRequest": 10017,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 10.4
+  "prcPositiveTests": 8.3
  },
  {
   "date": "2021-02-13",
@@ -11133,7 +11133,7 @@
   "noNewTestsCaseDef": 11782,
   "noNewTestsOnRequest": 10067,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 11.1
+  "prcPositiveTests": 8.5
  },
  {
   "date": "2021-02-14",
@@ -11165,7 +11165,7 @@
   "noNewTestsCaseDef": 6455,
   "noNewTestsOnRequest": 5367,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 15.8
+  "prcPositiveTests": 12.8
  },
  {
   "date": "2021-02-15",
@@ -11197,7 +11197,7 @@
   "noNewTestsCaseDef": 4194,
   "noNewTestsOnRequest": 1751,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 22.4
+  "prcPositiveTests": 13.6
  },
  {
   "date": "2021-02-16",
@@ -11229,7 +11229,7 @@
   "noNewTestsCaseDef": 14874,
   "noNewTestsOnRequest": 9077,
   "noNewTestsOldResults": 27,
-  "prcPositiveTests": 11.2
+  "prcPositiveTests": 8.2
  },
  {
   "date": "2021-02-17",
@@ -11261,7 +11261,7 @@
   "noNewTestsCaseDef": 18188,
   "noNewTestsOnRequest": 9174,
   "noNewTestsOldResults": 189,
-  "prcPositiveTests": 10.2
+  "prcPositiveTests": 8
  },
  {
   "date": "2021-02-18",
@@ -11293,7 +11293,7 @@
   "noNewTestsCaseDef": 17720,
   "noNewTestsOnRequest": 9879,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 11.1
+  "prcPositiveTests": 8.6
  },
  {
   "date": "2021-02-19",
@@ -11325,7 +11325,7 @@
   "noNewTestsCaseDef": 15249,
   "noNewTestsOnRequest": 10198,
   "noNewTestsOldResults": 1395,
-  "prcPositiveTests": 10.1
+  "prcPositiveTests": 7.9
  },
  {
   "date": "2021-02-20",
@@ -11357,7 +11357,7 @@
   "noNewTestsCaseDef": 13604,
   "noNewTestsOnRequest": 10416,
   "noNewTestsOldResults": 6388,
-  "prcPositiveTests": 8.9
+  "prcPositiveTests": 7.2
  },
  {
   "date": "2021-02-21",
@@ -11389,7 +11389,7 @@
   "noNewTestsCaseDef": 7063,
   "noNewTestsOnRequest": 5899,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 18.7
+  "prcPositiveTests": 14.5
  },
  {
   "date": "2021-02-22",
@@ -11421,7 +11421,7 @@
   "noNewTestsCaseDef": 4360,
   "noNewTestsOnRequest": 1919,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 26
+  "prcPositiveTests": 15.9
  },
  {
   "date": "2021-02-23",
@@ -11453,7 +11453,7 @@
   "noNewTestsCaseDef": 15082,
   "noNewTestsOnRequest": 8517,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 14.3
+  "prcPositiveTests": 10.3
  },
  {
   "date": "2021-02-24",
@@ -11485,7 +11485,7 @@
   "noNewTestsCaseDef": 17019,
   "noNewTestsOnRequest": 9428,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 12.6
+  "prcPositiveTests": 9.7
  },
  {
   "date": "2021-02-25",
@@ -11517,7 +11517,7 @@
   "noNewTestsCaseDef": 18390,
   "noNewTestsOnRequest": 9751,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 13.9
+  "prcPositiveTests": 10.6
  },
  {
   "date": "2021-02-26",
@@ -11549,7 +11549,7 @@
   "noNewTestsCaseDef": 15794,
   "noNewTestsOnRequest": 11222,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 13.9
+  "prcPositiveTests": 10.5
  },
  {
   "date": "2021-02-27",
@@ -11581,7 +11581,7 @@
   "noNewTestsCaseDef": 12856,
   "noNewTestsOnRequest": 10485,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 14.7
+  "prcPositiveTests": 11
  },
  {
   "date": "2021-02-28",
@@ -11613,7 +11613,7 @@
   "noNewTestsCaseDef": 6933,
   "noNewTestsOnRequest": 6008,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 21.9
+  "prcPositiveTests": 16.2
  },
  {
   "date": "2021-03-01",
@@ -11645,7 +11645,7 @@
   "noNewTestsCaseDef": 4431,
   "noNewTestsOnRequest": 2185,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 31.7
+  "prcPositiveTests": 18.1
  },
  {
   "date": "2021-03-02",
@@ -11677,7 +11677,7 @@
   "noNewTestsCaseDef": 15539,
   "noNewTestsOnRequest": 7853,
   "noNewTestsOldResults": 4,
-  "prcPositiveTests": 16.9
+  "prcPositiveTests": 11.8
  },
  {
   "date": "2021-03-03",
@@ -11709,7 +11709,7 @@
   "noNewTestsCaseDef": 17749,
   "noNewTestsOnRequest": 8643,
   "noNewTestsOldResults": 225,
-  "prcPositiveTests": 16.1
+  "prcPositiveTests": 12.1
  },
  {
   "date": "2021-03-04",
@@ -11741,7 +11741,7 @@
   "noNewTestsCaseDef": 16885,
   "noNewTestsOnRequest": 9525,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 16.2
+  "prcPositiveTests": 11.9
  },
  {
   "date": "2021-03-05",
@@ -11773,7 +11773,7 @@
   "noNewTestsCaseDef": 16471,
   "noNewTestsOnRequest": 11397,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 15.6
+  "prcPositiveTests": 11.9
  },
  {
   "date": "2021-03-06",
@@ -11805,7 +11805,7 @@
   "noNewTestsCaseDef": 14555,
   "noNewTestsOnRequest": 10636,
   "noNewTestsOldResults": 250,
-  "prcPositiveTests": 16
+  "prcPositiveTests": 11.9
  },
  {
   "date": "2021-03-07",
@@ -11837,7 +11837,7 @@
   "noNewTestsCaseDef": 7378,
   "noNewTestsOnRequest": 5701,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 25.1
+  "prcPositiveTests": 18.1
  },
  {
   "date": "2021-03-08",
@@ -11869,7 +11869,7 @@
   "noNewTestsCaseDef": 5414,
   "noNewTestsOnRequest": 1793,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 31.6
+  "prcPositiveTests": 21.8
  },
  {
   "date": "2021-03-09",
@@ -11901,7 +11901,7 @@
   "noNewTestsCaseDef": 15338,
   "noNewTestsOnRequest": 9131,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 20.4
+  "prcPositiveTests": 14
  },
  {
   "date": "2021-03-10",
@@ -11933,7 +11933,7 @@
   "noNewTestsCaseDef": 17120,
   "noNewTestsOnRequest": 9507,
   "noNewTestsOldResults": 23,
-  "prcPositiveTests": 17.1
+  "prcPositiveTests": 12.3
  },
  {
   "date": "2021-03-11",
@@ -11965,7 +11965,7 @@
   "noNewTestsCaseDef": 17822,
   "noNewTestsOnRequest": 10632,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 18.4
+  "prcPositiveTests": 13.7
  },
  {
   "date": "2021-03-12",
@@ -11997,7 +11997,7 @@
   "noNewTestsCaseDef": 15891,
   "noNewTestsOnRequest": 11697,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 18.2
+  "prcPositiveTests": 13.3
  },
  {
   "date": "2021-03-13",
@@ -12029,7 +12029,7 @@
   "noNewTestsCaseDef": 13934,
   "noNewTestsOnRequest": 10762,
   "noNewTestsOldResults": 19114,
-  "prcPositiveTests": 18.8
+  "prcPositiveTests": 13.4
  },
  {
   "date": "2021-03-14",
@@ -12061,7 +12061,7 @@
   "noNewTestsCaseDef": 8599,
   "noNewTestsOnRequest": 6593,
   "noNewTestsOldResults": 50,
-  "prcPositiveTests": 28.8
+  "prcPositiveTests": 21.3
  },
  {
   "date": "2021-03-15",
@@ -12093,7 +12093,7 @@
   "noNewTestsCaseDef": 5474,
   "noNewTestsOnRequest": 1615,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 41.9
+  "prcPositiveTests": 24.3
  },
  {
   "date": "2021-03-16",
@@ -12125,7 +12125,7 @@
   "noNewTestsCaseDef": 16882,
   "noNewTestsOnRequest": 9304,
   "noNewTestsOldResults": 383,
-  "prcPositiveTests": 23
+  "prcPositiveTests": 15.8
  },
  {
   "date": "2021-03-17",
@@ -12157,7 +12157,7 @@
   "noNewTestsCaseDef": 18881,
   "noNewTestsOnRequest": 9102,
   "noNewTestsOldResults": 61,
-  "prcPositiveTests": 22.1
+  "prcPositiveTests": 15.5
  },
  {
   "date": "2021-03-18",
@@ -12189,7 +12189,7 @@
   "noNewTestsCaseDef": 17978,
   "noNewTestsOnRequest": 9586,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 22.4
+  "prcPositiveTests": 16.1
  },
  {
   "date": "2021-03-19",
@@ -12221,7 +12221,7 @@
   "noNewTestsCaseDef": 16882,
   "noNewTestsOnRequest": 11455,
   "noNewTestsOldResults": 68,
-  "prcPositiveTests": 19.7
+  "prcPositiveTests": 14.4
  },
  {
   "date": "2021-03-20",
@@ -12253,7 +12253,7 @@
   "noNewTestsCaseDef": 14866,
   "noNewTestsOnRequest": 11172,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 23.4
+  "prcPositiveTests": 16.2
  },
  {
   "date": "2021-03-21",
@@ -12285,7 +12285,7 @@
   "noNewTestsCaseDef": 8736,
   "noNewTestsOnRequest": 6337,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 28.3
+  "prcPositiveTests": 20.9
  },
  {
   "date": "2021-03-22",
@@ -12317,7 +12317,7 @@
   "noNewTestsCaseDef": 6249,
   "noNewTestsOnRequest": 1653,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 47.4
+  "prcPositiveTests": 27.6
  },
  {
   "date": "2021-03-23",
@@ -12349,7 +12349,7 @@
   "noNewTestsCaseDef": 16518,
   "noNewTestsOnRequest": 9216,
   "noNewTestsOldResults": 279,
-  "prcPositiveTests": 23.6
+  "prcPositiveTests": 15.9
  },
  {
   "date": "2021-03-24",
@@ -12381,7 +12381,7 @@
   "noNewTestsCaseDef": 18825,
   "noNewTestsOnRequest": 9538,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 21.6
+  "prcPositiveTests": 15.2
  },
  {
   "date": "2021-03-25",
@@ -12413,7 +12413,7 @@
   "noNewTestsCaseDef": 19207,
   "noNewTestsOnRequest": 11026,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 22
+  "prcPositiveTests": 15.8
  },
  {
   "date": "2021-03-26",
@@ -12445,7 +12445,7 @@
   "noNewTestsCaseDef": 17445,
   "noNewTestsOnRequest": 12309,
   "noNewTestsOldResults": 20,
-  "prcPositiveTests": 21.9
+  "prcPositiveTests": 16
  },
  {
   "date": "2021-03-27",
@@ -12477,7 +12477,7 @@
   "noNewTestsCaseDef": 14150,
   "noNewTestsOnRequest": 11378,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 23
+  "prcPositiveTests": 15.8
  },
  {
   "date": "2021-03-28",
@@ -12509,7 +12509,7 @@
   "noNewTestsCaseDef": 8880,
   "noNewTestsOnRequest": 6505,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 28.9
+  "prcPositiveTests": 20.7
  },
  {
   "date": "2021-03-29",
@@ -12541,7 +12541,7 @@
   "noNewTestsCaseDef": 6323,
   "noNewTestsOnRequest": 2030,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 45.8
+  "prcPositiveTests": 26.6
  },
  {
   "date": "2021-03-30",
@@ -12573,7 +12573,7 @@
   "noNewTestsCaseDef": 17254,
   "noNewTestsOnRequest": 9980,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 22.8
+  "prcPositiveTests": 15.4
  },
  {
   "date": "2021-03-31",
@@ -12605,7 +12605,7 @@
   "noNewTestsCaseDef": 19008,
   "noNewTestsOnRequest": 9975,
   "noNewTestsOldResults": 56,
-  "prcPositiveTests": 21.2
+  "prcPositiveTests": 14.8
  },
  {
   "date": "2021-04-01",
@@ -12637,7 +12637,7 @@
   "noNewTestsCaseDef": 18430,
   "noNewTestsOnRequest": 11471,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 20.5
+  "prcPositiveTests": 14.6
  },
  {
   "date": "2021-04-02",
@@ -12669,7 +12669,7 @@
   "noNewTestsCaseDef": 16946,
   "noNewTestsOnRequest": 12312,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 19.9
+  "prcPositiveTests": 14.6
  },
  {
   "date": "2021-04-03",
@@ -12701,7 +12701,7 @@
   "noNewTestsCaseDef": 14218,
   "noNewTestsOnRequest": 12491,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 20.6
+  "prcPositiveTests": 14.7
  },
  {
   "date": "2021-04-04",
@@ -12733,7 +12733,7 @@
   "noNewTestsCaseDef": 7634,
   "noNewTestsOnRequest": 8346,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 26
+  "prcPositiveTests": 19.2
  },
  {
   "date": "2021-04-05",
@@ -12765,7 +12765,7 @@
   "noNewTestsCaseDef": 6013,
   "noNewTestsOnRequest": 2439,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 42.7
+  "prcPositiveTests": 25.2
  },
  {
   "date": "2021-04-06",
@@ -12797,7 +12797,7 @@
   "noNewTestsCaseDef": 15422,
   "noNewTestsOnRequest": 9387,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 21.1
+  "prcPositiveTests": 13.9
  },
  {
   "date": "2021-04-07",
@@ -12829,7 +12829,7 @@
   "noNewTestsCaseDef": 17135,
   "noNewTestsOnRequest": 11595,
   "noNewTestsOldResults": 7,
-  "prcPositiveTests": 18.8
+  "prcPositiveTests": 13.5
  },
  {
   "date": "2021-04-08",
@@ -12861,7 +12861,7 @@
   "noNewTestsCaseDef": 17439,
   "noNewTestsOnRequest": 11839,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 17
+  "prcPositiveTests": 12.3
  },
  {
   "date": "2021-04-09",
@@ -12893,7 +12893,7 @@
   "noNewTestsCaseDef": 16720,
   "noNewTestsOnRequest": 12066,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 17.2
+  "prcPositiveTests": 12.5
  },
  {
   "date": "2021-04-10",
@@ -12925,7 +12925,7 @@
   "noNewTestsCaseDef": 13546,
   "noNewTestsOnRequest": 12498,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 16.5
+  "prcPositiveTests": 12.1
  },
  {
   "date": "2021-04-11",
@@ -12957,7 +12957,7 @@
   "noNewTestsCaseDef": 7395,
   "noNewTestsOnRequest": 7569,
   "noNewTestsOldResults": 607,
-  "prcPositiveTests": 21.2
+  "prcPositiveTests": 15.5
  },
  {
   "date": "2021-04-12",
@@ -12989,7 +12989,7 @@
   "noNewTestsCaseDef": 5154,
   "noNewTestsOnRequest": 1998,
   "noNewTestsOldResults": 54,
-  "prcPositiveTests": 32.2
+  "prcPositiveTests": 18.4
  },
  {
   "date": "2021-04-13",
@@ -13021,7 +13021,7 @@
   "noNewTestsCaseDef": 15161,
   "noNewTestsOnRequest": 8729,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 16.3
+  "prcPositiveTests": 10.8
  },
  {
   "date": "2021-04-14",
@@ -13053,7 +13053,7 @@
   "noNewTestsCaseDef": 16775,
   "noNewTestsOnRequest": 9634,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 15.4
+  "prcPositiveTests": 11
  },
  {
   "date": "2021-04-15",
@@ -13085,7 +13085,7 @@
   "noNewTestsCaseDef": 16640,
   "noNewTestsOnRequest": 9492,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 14.7
+  "prcPositiveTests": 10.3
  },
  {
   "date": "2021-04-16",
@@ -13117,7 +13117,7 @@
   "noNewTestsCaseDef": 13564,
   "noNewTestsOnRequest": 11066,
   "noNewTestsOldResults": 53,
-  "prcPositiveTests": 13.2
+  "prcPositiveTests": 8.9
  },
  {
   "date": "2021-04-17",
@@ -13149,7 +13149,7 @@
   "noNewTestsCaseDef": 12622,
   "noNewTestsOnRequest": 11287,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 14.5
+  "prcPositiveTests": 9.7
  },
  {
   "date": "2021-04-18",
@@ -13181,7 +13181,7 @@
   "noNewTestsCaseDef": 6286,
   "noNewTestsOnRequest": 7391,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 16.6
+  "prcPositiveTests": 11.7
  },
  {
   "date": "2021-04-19",
@@ -13213,7 +13213,7 @@
   "noNewTestsCaseDef": 4277,
   "noNewTestsOnRequest": 2207,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 27.3
+  "prcPositiveTests": 14.8
  },
  {
   "date": "2021-04-20",
@@ -13245,7 +13245,7 @@
   "noNewTestsCaseDef": 13178,
   "noNewTestsOnRequest": 10210,
   "noNewTestsOldResults": 424,
-  "prcPositiveTests": 12.3
+  "prcPositiveTests": 8.1
  },
  {
   "date": "2021-04-21",
@@ -13277,7 +13277,7 @@
   "noNewTestsCaseDef": 14919,
   "noNewTestsOnRequest": 9643,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 12.2
+  "prcPositiveTests": 8.6
  },
  {
   "date": "2021-04-22",
@@ -13309,7 +13309,7 @@
   "noNewTestsCaseDef": 14391,
   "noNewTestsOnRequest": 10476,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 12
+  "prcPositiveTests": 8.1
  },
  {
   "date": "2021-04-23",
@@ -13341,7 +13341,7 @@
   "noNewTestsCaseDef": 13118,
   "noNewTestsOnRequest": 11268,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 10.3
+  "prcPositiveTests": 6.8
  },
  {
   "date": "2021-04-24",
@@ -13373,7 +13373,7 @@
   "noNewTestsCaseDef": 10144,
   "noNewTestsOnRequest": 11531,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 10.2
+  "prcPositiveTests": 6.6
  },
  {
   "date": "2021-04-25",
@@ -13405,7 +13405,7 @@
   "noNewTestsCaseDef": 5552,
   "noNewTestsOnRequest": 7097,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 12.2
+  "prcPositiveTests": 8.8
  },
  {
   "date": "2021-04-26",
@@ -13437,7 +13437,7 @@
   "noNewTestsCaseDef": 3973,
   "noNewTestsOnRequest": 2626,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 19
+  "prcPositiveTests": 10.7
  },
  {
   "date": "2021-04-27",
@@ -13469,7 +13469,7 @@
   "noNewTestsCaseDef": 12097,
   "noNewTestsOnRequest": 9874,
   "noNewTestsOldResults": 53,
-  "prcPositiveTests": 9.2
+  "prcPositiveTests": 6.3
  },
  {
   "date": "2021-04-28",
@@ -13501,7 +13501,7 @@
   "noNewTestsCaseDef": 14165,
   "noNewTestsOnRequest": 11088,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 8.9
+  "prcPositiveTests": 6.3
  },
  {
   "date": "2021-04-29",
@@ -13533,7 +13533,7 @@
   "noNewTestsCaseDef": 12806,
   "noNewTestsOnRequest": 12545,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 7.3
+  "prcPositiveTests": 5.2
  },
  {
   "date": "2021-04-30",
@@ -13565,7 +13565,7 @@
   "noNewTestsCaseDef": 10011,
   "noNewTestsOnRequest": 13374,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 7
+  "prcPositiveTests": 5.1
  },
  {
   "date": "2021-05-01",
@@ -13597,7 +13597,7 @@
   "noNewTestsCaseDef": 4628,
   "noNewTestsOnRequest": 6483,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 11.8
+  "prcPositiveTests": 8
  },
  {
   "date": "2021-05-02",
@@ -13629,7 +13629,7 @@
   "noNewTestsCaseDef": 3027,
   "noNewTestsOnRequest": 4859,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 13.7
+  "prcPositiveTests": 9.3
  },
  {
   "date": "2021-05-03",
@@ -13661,7 +13661,7 @@
   "noNewTestsCaseDef": 1910,
   "noNewTestsOnRequest": 821,
   "noNewTestsOldResults": 2,
-  "prcPositiveTests": 25
+  "prcPositiveTests": 11.4
  },
  {
   "date": "2021-05-04",
@@ -13693,7 +13693,7 @@
   "noNewTestsCaseDef": 4448,
   "noNewTestsOnRequest": 4676,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 10.9
+  "prcPositiveTests": 7.1
  },
  {
   "date": "2021-05-05",
@@ -13725,7 +13725,7 @@
   "noNewTestsCaseDef": 13048,
   "noNewTestsOnRequest": 11511,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 6.4
+  "prcPositiveTests": 4.2
  },
  {
   "date": "2021-05-06",
@@ -13757,7 +13757,7 @@
   "noNewTestsCaseDef": 13981,
   "noNewTestsOnRequest": 11867,
   "noNewTestsOldResults": 4,
-  "prcPositiveTests": 6.3
+  "prcPositiveTests": 4.2
  },
  {
   "date": "2021-05-07",
@@ -13789,7 +13789,7 @@
   "noNewTestsCaseDef": 13337,
   "noNewTestsOnRequest": 13106,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 5.4
+  "prcPositiveTests": 3.7
  },
  {
   "date": "2021-05-08",
@@ -13821,7 +13821,7 @@
   "noNewTestsCaseDef": 9794,
   "noNewTestsOnRequest": 14842,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 5.3
+  "prcPositiveTests": 3.5
  },
  {
   "date": "2021-05-09",
@@ -13853,7 +13853,7 @@
   "noNewTestsCaseDef": 5524,
   "noNewTestsOnRequest": 9130,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 5.8
+  "prcPositiveTests": 4.2
  },
  {
   "date": "2021-05-10",
@@ -13885,7 +13885,7 @@
   "noNewTestsCaseDef": 3244,
   "noNewTestsOnRequest": 2748,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 10.3
+  "prcPositiveTests": 5.8
  },
  {
   "date": "2021-05-11",
@@ -13917,7 +13917,7 @@
   "noNewTestsCaseDef": 12769,
   "noNewTestsOnRequest": 10254,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 5
+  "prcPositiveTests": 3.2
  },
  {
   "date": "2021-05-12",
@@ -13949,7 +13949,7 @@
   "noNewTestsCaseDef": 14910,
   "noNewTestsOnRequest": 9397,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 3.8
+  "prcPositiveTests": 2.7
  },
  {
   "date": "2021-05-13",
@@ -13981,7 +13981,7 @@
   "noNewTestsCaseDef": 12908,
   "noNewTestsOnRequest": 9624,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 4.2
+  "prcPositiveTests": 2.9
  },
  {
   "date": "2021-05-14",
@@ -14013,7 +14013,7 @@
   "noNewTestsCaseDef": 10911,
   "noNewTestsOnRequest": 11794,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 3.7
+  "prcPositiveTests": 2.4
  },
  {
   "date": "2021-05-15",
@@ -14045,7 +14045,7 @@
   "noNewTestsCaseDef": 7972,
   "noNewTestsOnRequest": 13084,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 3.5
+  "prcPositiveTests": 2.2
  },
  {
   "date": "2021-05-16",
@@ -14077,7 +14077,7 @@
   "noNewTestsCaseDef": 4733,
   "noNewTestsOnRequest": 8224,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 4.4
+  "prcPositiveTests": 3
  },
  {
   "date": "2021-05-17",
@@ -14109,7 +14109,7 @@
   "noNewTestsCaseDef": 3212,
   "noNewTestsOnRequest": 2704,
   "noNewTestsOldResults": 409,
-  "prcPositiveTests": 6.2
+  "prcPositiveTests": 3.4
  },
  {
   "date": "2021-05-18",
@@ -14141,7 +14141,7 @@
   "noNewTestsCaseDef": 11119,
   "noNewTestsOnRequest": 9515,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 3.3
+  "prcPositiveTests": 2.1
  },
  {
   "date": "2021-05-19",
@@ -14173,7 +14173,7 @@
   "noNewTestsCaseDef": 12294,
   "noNewTestsOnRequest": 9027,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 3.3
+  "prcPositiveTests": 2.2
  },
  {
   "date": "2021-05-20",
@@ -14205,7 +14205,7 @@
   "noNewTestsCaseDef": 10626,
   "noNewTestsOnRequest": 9934,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 3
+  "prcPositiveTests": 2
  },
  {
   "date": "2021-05-21",
@@ -14237,7 +14237,7 @@
   "noNewTestsCaseDef": 10617,
   "noNewTestsOnRequest": 11418,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 2.2
+  "prcPositiveTests": 1.4
  },
  {
   "date": "2021-05-22",
@@ -14269,7 +14269,7 @@
   "noNewTestsCaseDef": 7612,
   "noNewTestsOnRequest": 12182,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 2.3
+  "prcPositiveTests": 1.6
  },
  {
   "date": "2021-05-23",
@@ -14301,7 +14301,7 @@
   "noNewTestsCaseDef": 4427,
   "noNewTestsOnRequest": 8661,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 2.3
+  "prcPositiveTests": 1.7
  },
  {
   "date": "2021-05-24",
@@ -14333,7 +14333,7 @@
   "noNewTestsCaseDef": 3025,
   "noNewTestsOnRequest": 2367,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 4.3
+  "prcPositiveTests": 2.2
  },
  {
   "date": "2021-05-25",
@@ -14365,7 +14365,7 @@
   "noNewTestsCaseDef": 10778,
   "noNewTestsOnRequest": 9741,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.9
+  "prcPositiveTests": 1.2
  },
  {
   "date": "2021-05-26",
@@ -14397,7 +14397,7 @@
   "noNewTestsCaseDef": 13690,
   "noNewTestsOnRequest": 8896,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.7
+  "prcPositiveTests": 1.1
  },
  {
   "date": "2021-05-27",
@@ -14429,7 +14429,7 @@
   "noNewTestsCaseDef": 11325,
   "noNewTestsOnRequest": 9491,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.5
+  "prcPositiveTests": 1
  },
  {
   "date": "2021-05-28",
@@ -14461,7 +14461,7 @@
   "noNewTestsCaseDef": 9860,
   "noNewTestsOnRequest": 12740,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.4
+  "prcPositiveTests": 1
  },
  {
   "date": "2021-05-29",
@@ -14493,7 +14493,7 @@
   "noNewTestsCaseDef": 7374,
   "noNewTestsOnRequest": 11968,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.4
+  "prcPositiveTests": 0.9
  },
  {
   "date": "2021-05-30",
@@ -14525,7 +14525,7 @@
   "noNewTestsCaseDef": 3998,
   "noNewTestsOnRequest": 7767,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.3
+  "prcPositiveTests": 0.9
  },
  {
   "date": "2021-05-31",
@@ -14557,7 +14557,7 @@
   "noNewTestsCaseDef": 2372,
   "noNewTestsOnRequest": 2505,
   "noNewTestsOldResults": 1,
-  "prcPositiveTests": 3.1
+  "prcPositiveTests": 1.6
  },
  {
   "date": "2021-06-01",
@@ -14589,7 +14589,7 @@
   "noNewTestsCaseDef": 8630,
   "noNewTestsOnRequest": 9432,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.3
+  "prcPositiveTests": 0.9
  },
  {
   "date": "2021-06-02",
@@ -14621,7 +14621,7 @@
   "noNewTestsCaseDef": 4256,
   "noNewTestsOnRequest": 6219,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.6
+  "prcPositiveTests": 1
  },
  {
   "date": "2021-06-03",
@@ -14653,7 +14653,7 @@
   "noNewTestsCaseDef": 11460,
   "noNewTestsOnRequest": 9167,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1
+  "prcPositiveTests": 0.6
  },
  {
   "date": "2021-06-04",
@@ -14685,7 +14685,7 @@
   "noNewTestsCaseDef": 10854,
   "noNewTestsOnRequest": 10982,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1
+  "prcPositiveTests": 0.7
  },
  {
   "date": "2021-06-05",
@@ -14717,7 +14717,7 @@
   "noNewTestsCaseDef": 9087,
   "noNewTestsOnRequest": 12293,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.8
+  "prcPositiveTests": 0.6
  },
  {
   "date": "2021-06-06",
@@ -14749,7 +14749,7 @@
   "noNewTestsCaseDef": 3951,
   "noNewTestsOnRequest": 7715,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1
+  "prcPositiveTests": 0.7
  },
  {
   "date": "2021-06-07",
@@ -14781,7 +14781,7 @@
   "noNewTestsCaseDef": 2878,
   "noNewTestsOnRequest": 2073,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.8
+  "prcPositiveTests": 0.9
  },
  {
   "date": "2021-06-08",
@@ -14813,7 +14813,7 @@
   "noNewTestsCaseDef": 10858,
   "noNewTestsOnRequest": 8091,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.1
+  "prcPositiveTests": 0.7
  },
  {
   "date": "2021-06-09",
@@ -14845,7 +14845,7 @@
   "noNewTestsCaseDef": 11326,
   "noNewTestsOnRequest": 7758,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.7
+  "prcPositiveTests": 0.5
  },
  {
   "date": "2021-06-10",
@@ -14877,7 +14877,7 @@
   "noNewTestsCaseDef": 11081,
   "noNewTestsOnRequest": 8949,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.7
+  "prcPositiveTests": 0.4
  },
  {
   "date": "2021-06-11",
@@ -14909,7 +14909,7 @@
   "noNewTestsCaseDef": 9424,
   "noNewTestsOnRequest": 9642,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.5
+  "prcPositiveTests": 0.3
  },
  {
   "date": "2021-06-12",
@@ -14941,7 +14941,7 @@
   "noNewTestsCaseDef": 6847,
   "noNewTestsOnRequest": 10512,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.7
+  "prcPositiveTests": 0.4
  },
  {
   "date": "2021-06-13",
@@ -14973,7 +14973,7 @@
   "noNewTestsCaseDef": 3361,
   "noNewTestsOnRequest": 6182,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.7
+  "prcPositiveTests": 0.4
  },
  {
   "date": "2021-06-14",
@@ -15005,7 +15005,7 @@
   "noNewTestsCaseDef": 2387,
   "noNewTestsOnRequest": 3573,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.8
+  "prcPositiveTests": 0.4
  },
  {
   "date": "2021-06-15",
@@ -15037,7 +15037,7 @@
   "noNewTestsCaseDef": 8526,
   "noNewTestsOnRequest": 9006,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.6
+  "prcPositiveTests": 0.3
  },
  {
   "date": "2021-06-16",
@@ -15069,7 +15069,7 @@
   "noNewTestsCaseDef": 8878,
   "noNewTestsOnRequest": 9154,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.6
+  "prcPositiveTests": 0.3
  },
  {
   "date": "2021-06-17",
@@ -15101,7 +15101,7 @@
   "noNewTestsCaseDef": 9295,
   "noNewTestsOnRequest": 8214,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.5
+  "prcPositiveTests": 0.3
  },
  {
   "date": "2021-06-18",
@@ -15133,7 +15133,7 @@
   "noNewTestsCaseDef": 8762,
   "noNewTestsOnRequest": 11547,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.3
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-06-19",
@@ -15165,7 +15165,7 @@
   "noNewTestsCaseDef": 6352,
   "noNewTestsOnRequest": 12752,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.3
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-06-20",
@@ -15197,7 +15197,7 @@
   "noNewTestsCaseDef": 3034,
   "noNewTestsOnRequest": 9139,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.4
+  "prcPositiveTests": 0.3
  },
  {
   "date": "2021-06-21",
@@ -15229,7 +15229,7 @@
   "noNewTestsCaseDef": 1771,
   "noNewTestsOnRequest": 2317,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.6
+  "prcPositiveTests": 0.3
  },
  {
   "date": "2021-06-22",
@@ -15261,7 +15261,7 @@
   "noNewTestsCaseDef": 3466,
   "noNewTestsOnRequest": 5132,
   "noNewTestsOldResults": 1,
-  "prcPositiveTests": 0.5
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-06-23",
@@ -15293,7 +15293,7 @@
   "noNewTestsCaseDef": 10605,
   "noNewTestsOnRequest": 8022,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.4
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-06-24",
@@ -15325,7 +15325,7 @@
   "noNewTestsCaseDef": 10765,
   "noNewTestsOnRequest": 7176,
   "noNewTestsOldResults": 34,
-  "prcPositiveTests": 0.4
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-06-25",
@@ -15357,7 +15357,7 @@
   "noNewTestsCaseDef": 8634,
   "noNewTestsOnRequest": 9067,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.4
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-06-26",
@@ -15389,7 +15389,7 @@
   "noNewTestsCaseDef": 6090,
   "noNewTestsOnRequest": 8799,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.4
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-06-27",
@@ -15421,7 +15421,7 @@
   "noNewTestsCaseDef": 2858,
   "noNewTestsOnRequest": 6933,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.5
+  "prcPositiveTests": 0.3
  },
  {
   "date": "2021-06-28",
@@ -15453,7 +15453,7 @@
   "noNewTestsCaseDef": 2312,
   "noNewTestsOnRequest": 2221,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.8
+  "prcPositiveTests": 0.3
  },
  {
   "date": "2021-06-29",
@@ -15485,7 +15485,7 @@
   "noNewTestsCaseDef": 8076,
   "noNewTestsOnRequest": 7216,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.5
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-06-30",
@@ -15517,7 +15517,7 @@
   "noNewTestsCaseDef": 8114,
   "noNewTestsOnRequest": 6837,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.3
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-07-01",
@@ -15549,7 +15549,7 @@
   "noNewTestsCaseDef": 8368,
   "noNewTestsOnRequest": 6866,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.2
+  "prcPositiveTests": 0.1
  },
  {
   "date": "2021-07-02",
@@ -15581,7 +15581,7 @@
   "noNewTestsCaseDef": 6959,
   "noNewTestsOnRequest": 7160,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.3
+  "prcPositiveTests": 0.1
  },
  {
   "date": "2021-07-03",
@@ -15613,7 +15613,7 @@
   "noNewTestsCaseDef": 5480,
   "noNewTestsOnRequest": 7908,
   "noNewTestsOldResults": 6,
-  "prcPositiveTests": 0.4
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-07-04",
@@ -15645,7 +15645,7 @@
   "noNewTestsCaseDef": 2556,
   "noNewTestsOnRequest": 6157,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.4
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-07-05",
@@ -15677,7 +15677,7 @@
   "noNewTestsCaseDef": 1937,
   "noNewTestsOnRequest": 2074,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.7
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-07-06",
@@ -15709,7 +15709,7 @@
   "noNewTestsCaseDef": 6975,
   "noNewTestsOnRequest": 6286,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.4
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-07-07",
@@ -15741,7 +15741,7 @@
   "noNewTestsCaseDef": 7786,
   "noNewTestsOnRequest": 6518,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.4
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-07-08",
@@ -15773,7 +15773,7 @@
   "noNewTestsCaseDef": 6763,
   "noNewTestsOnRequest": 5488,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.2
+  "prcPositiveTests": 0.1
  },
  {
   "date": "2021-07-09",
@@ -15805,7 +15805,7 @@
   "noNewTestsCaseDef": 5499,
   "noNewTestsOnRequest": 6492,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.5
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-07-10",
@@ -15837,7 +15837,7 @@
   "noNewTestsCaseDef": 4350,
   "noNewTestsOnRequest": 7413,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.3
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-07-11",
@@ -15869,7 +15869,7 @@
   "noNewTestsCaseDef": 2243,
   "noNewTestsOnRequest": 6001,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.3
+  "prcPositiveTests": 0.1
  },
  {
   "date": "2021-07-12",
@@ -15901,7 +15901,7 @@
   "noNewTestsCaseDef": 1801,
   "noNewTestsOnRequest": 2231,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1
+  "prcPositiveTests": 0.3
  },
  {
   "date": "2021-07-13",
@@ -15933,7 +15933,7 @@
   "noNewTestsCaseDef": 6084,
   "noNewTestsOnRequest": 6475,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.4
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-07-14",
@@ -15965,7 +15965,7 @@
   "noNewTestsCaseDef": 6206,
   "noNewTestsOnRequest": 6871,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.6
+  "prcPositiveTests": 0.3
  },
  {
   "date": "2021-07-15",
@@ -15997,7 +15997,7 @@
   "noNewTestsCaseDef": 5742,
   "noNewTestsOnRequest": 5900,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.5
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-07-16",
@@ -16029,7 +16029,7 @@
   "noNewTestsCaseDef": 4645,
   "noNewTestsOnRequest": 7480,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.6
+  "prcPositiveTests": 0.3
  },
  {
   "date": "2021-07-17",
@@ -16061,7 +16061,7 @@
   "noNewTestsCaseDef": 4246,
   "noNewTestsOnRequest": 7566,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.4
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-07-18",
@@ -16093,7 +16093,7 @@
   "noNewTestsCaseDef": 2214,
   "noNewTestsOnRequest": 6814,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.5
+  "prcPositiveTests": 0.2
  },
  {
   "date": "2021-07-19",
@@ -16125,7 +16125,7 @@
   "noNewTestsCaseDef": 1798,
   "noNewTestsOnRequest": 2283,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.1
+  "prcPositiveTests": 0.4
  },
  {
   "date": "2021-07-20",
@@ -16157,7 +16157,7 @@
   "noNewTestsCaseDef": 6376,
   "noNewTestsOnRequest": 6812,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.7
+  "prcPositiveTests": 0.3
  },
  {
   "date": "2021-07-21",
@@ -16189,7 +16189,7 @@
   "noNewTestsCaseDef": 6429,
   "noNewTestsOnRequest": 6640,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.8
+  "prcPositiveTests": 0.4
  },
  {
   "date": "2021-07-22",
@@ -16221,7 +16221,7 @@
   "noNewTestsCaseDef": 5614,
   "noNewTestsOnRequest": 6052,
   "noNewTestsOldResults": 180,
-  "prcPositiveTests": 0.7
+  "prcPositiveTests": 0.3
  },
  {
   "date": "2021-07-23",
@@ -16253,7 +16253,7 @@
   "noNewTestsCaseDef": 4681,
   "noNewTestsOnRequest": 7357,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 0.9
+  "prcPositiveTests": 0.4
  },
  {
   "date": "2021-07-24",
@@ -16285,7 +16285,7 @@
   "noNewTestsCaseDef": 4096,
   "noNewTestsOnRequest": 8042,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1
+  "prcPositiveTests": 0.5
  },
  {
   "date": "2021-07-25",
@@ -16317,7 +16317,7 @@
   "noNewTestsCaseDef": 2399,
   "noNewTestsOnRequest": 7043,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.2
+  "prcPositiveTests": 0.6
  },
  {
   "date": "2021-07-26",
@@ -16349,7 +16349,7 @@
   "noNewTestsCaseDef": 1678,
   "noNewTestsOnRequest": 2409,
   "noNewTestsOldResults": 80,
-  "prcPositiveTests": 2
+  "prcPositiveTests": 0.7
  },
  {
   "date": "2021-07-27",
@@ -16381,7 +16381,7 @@
   "noNewTestsCaseDef": 5998,
   "noNewTestsOnRequest": 7544,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.3
+  "prcPositiveTests": 0.6
  },
  {
   "date": "2021-07-28",
@@ -16413,7 +16413,7 @@
   "noNewTestsCaseDef": 5758,
   "noNewTestsOnRequest": 7276,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.2
+  "prcPositiveTests": 0.6
  },
  {
   "date": "2021-07-29",
@@ -16445,7 +16445,7 @@
   "noNewTestsCaseDef": 5208,
   "noNewTestsOnRequest": 6749,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.4
+  "prcPositiveTests": 0.6
  },
  {
   "date": "2021-07-30",
@@ -16477,7 +16477,7 @@
   "noNewTestsCaseDef": 4426,
   "noNewTestsOnRequest": 8701,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.2
+  "prcPositiveTests": 0.5
  },
  {
   "date": "2021-07-31",
@@ -16509,7 +16509,7 @@
   "noNewTestsCaseDef": 4007,
   "noNewTestsOnRequest": 9831,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.1
+  "prcPositiveTests": 0.5
  },
  {
   "date": "2021-08-01",
@@ -16541,7 +16541,7 @@
   "noNewTestsCaseDef": 2770,
   "noNewTestsOnRequest": 8032,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.4
+  "prcPositiveTests": 0.7
  },
  {
   "date": "2021-08-02",
@@ -16573,7 +16573,7 @@
   "noNewTestsCaseDef": 1817,
   "noNewTestsOnRequest": 3051,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 2.8
+  "prcPositiveTests": 1.1
  },
  {
   "date": "2021-08-03",
@@ -16605,7 +16605,7 @@
   "noNewTestsCaseDef": 6294,
   "noNewTestsOnRequest": 8267,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.6
+  "prcPositiveTests": 0.7
  },
  {
   "date": "2021-08-04",
@@ -16637,7 +16637,7 @@
   "noNewTestsCaseDef": 6078,
   "noNewTestsOnRequest": 8145,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.9
+  "prcPositiveTests": 0.9
  },
  {
   "date": "2021-08-05",
@@ -16669,7 +16669,7 @@
   "noNewTestsCaseDef": 5568,
   "noNewTestsOnRequest": 7110,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1
+  "prcPositiveTests": 0.6
  },
  {
   "date": "2021-08-06",
@@ -16701,7 +16701,7 @@
   "noNewTestsCaseDef": 4356,
   "noNewTestsOnRequest": 8858,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.7
+  "prcPositiveTests": 0.8
  },
  {
   "date": "2021-08-07",
@@ -16733,7 +16733,7 @@
   "noNewTestsCaseDef": 4119,
   "noNewTestsOnRequest": 9186,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 1.9
+  "prcPositiveTests": 0.8
  },
  {
   "date": "2021-08-08",
@@ -16765,7 +16765,7 @@
   "noNewTestsCaseDef": 2191,
   "noNewTestsOnRequest": 8202,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 2
+  "prcPositiveTests": 0.9
  },
  {
   "date": "2021-08-09",
@@ -16797,7 +16797,7 @@
   "noNewTestsCaseDef": 1880,
   "noNewTestsOnRequest": 2571,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 4.1
+  "prcPositiveTests": 1.4
  },
  {
   "date": "2021-08-10",
@@ -16829,7 +16829,7 @@
   "noNewTestsCaseDef": 6311,
   "noNewTestsOnRequest": 7896,
   "noNewTestsOldResults": 27,
-  "prcPositiveTests": 2.2
+  "prcPositiveTests": 0.9
  },
  {
   "date": "2021-08-11",
@@ -16861,7 +16861,7 @@
   "noNewTestsCaseDef": 6044,
   "noNewTestsOnRequest": 7770,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 2.4
+  "prcPositiveTests": 1.1
  },
  {
   "date": "2021-08-12",
@@ -16893,7 +16893,7 @@
   "noNewTestsCaseDef": 5320,
   "noNewTestsOnRequest": 7447,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 2.9
+  "prcPositiveTests": 1.3
  },
  {
   "date": "2021-08-13",
@@ -16925,7 +16925,7 @@
   "noNewTestsCaseDef": 4288,
   "noNewTestsOnRequest": 9249,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 2.8
+  "prcPositiveTests": 1.2
  },
  {
   "date": "2021-08-14",
@@ -16957,7 +16957,7 @@
   "noNewTestsCaseDef": 4288,
   "noNewTestsOnRequest": 10920,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 2.7
+  "prcPositiveTests": 1.1
  },
  {
   "date": "2021-08-15",
@@ -16989,7 +16989,7 @@
   "noNewTestsCaseDef": 2221,
   "noNewTestsOnRequest": 9691,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 2.7
+  "prcPositiveTests": 1.2
  },
  {
   "date": "2021-08-16",
@@ -17021,7 +17021,7 @@
   "noNewTestsCaseDef": 1730,
   "noNewTestsOnRequest": 3160,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 5.8
+  "prcPositiveTests": 1.5
  },
  {
   "date": "2021-08-17",
@@ -17053,7 +17053,7 @@
   "noNewTestsCaseDef": 6305,
   "noNewTestsOnRequest": 9000,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 3.6
+  "prcPositiveTests": 1.4
  },
  {
   "date": "2021-08-18",
@@ -17085,7 +17085,7 @@
   "noNewTestsCaseDef": 6381,
   "noNewTestsOnRequest": 9201,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 3.5
+  "prcPositiveTests": 1.5
  },
  {
   "date": "2021-08-19",
@@ -17117,7 +17117,7 @@
   "noNewTestsCaseDef": 5812,
   "noNewTestsOnRequest": 8223,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 4.2
+  "prcPositiveTests": 1.8
  },
  {
   "date": "2021-08-20",
@@ -17149,7 +17149,7 @@
   "noNewTestsCaseDef": 4853,
   "noNewTestsOnRequest": 10343,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 4.1
+  "prcPositiveTests": 1.6
  },
  {
   "date": "2021-08-21",
@@ -17181,7 +17181,7 @@
   "noNewTestsCaseDef": 4471,
   "noNewTestsOnRequest": 10915,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 3.8
+  "prcPositiveTests": 1.5
  },
  {
   "date": "2021-08-22",
@@ -17213,7 +17213,7 @@
   "noNewTestsCaseDef": 2635,
   "noNewTestsOnRequest": 9365,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 4.3
+  "prcPositiveTests": 1.8
  },
  {
   "date": "2021-08-23",
@@ -17245,7 +17245,7 @@
   "noNewTestsCaseDef": 1887,
   "noNewTestsOnRequest": 2452,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 9.9
+  "prcPositiveTests": 2.8
  },
  {
   "date": "2021-08-24",
@@ -17277,7 +17277,7 @@
   "noNewTestsCaseDef": 6838,
   "noNewTestsOnRequest": 8580,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 5.1
+  "prcPositiveTests": 1.9
  },
  {
   "date": "2021-08-25",
@@ -17309,7 +17309,7 @@
   "noNewTestsCaseDef": 6289,
   "noNewTestsOnRequest": 9258,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 5.5
+  "prcPositiveTests": 2.3
  },
  {
   "date": "2021-08-26",
@@ -17341,7 +17341,7 @@
   "noNewTestsCaseDef": 5908,
   "noNewTestsOnRequest": 8266,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 6.7
+  "prcPositiveTests": 2.7
  },
  {
   "date": "2021-08-27",
@@ -17373,7 +17373,7 @@
   "noNewTestsCaseDef": 5179,
   "noNewTestsOnRequest": 10160,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 6.2
+  "prcPositiveTests": 2.4
  },
  {
   "date": "2021-08-28",
@@ -17405,7 +17405,7 @@
   "noNewTestsCaseDef": 4834,
   "noNewTestsOnRequest": 11296,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 6.3
+  "prcPositiveTests": 2.3
  },
  {
   "date": "2021-08-29",
@@ -17437,7 +17437,7 @@
   "noNewTestsCaseDef": 2865,
   "noNewTestsOnRequest": 9449,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 7
+  "prcPositiveTests": 2.8
  },
  {
   "date": "2021-08-30",
@@ -17469,7 +17469,7 @@
   "noNewTestsCaseDef": 2075,
   "noNewTestsOnRequest": 2827,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 14.3
+  "prcPositiveTests": 4.3
  },
  {
   "date": "2021-08-31",
@@ -17501,7 +17501,7 @@
   "noNewTestsCaseDef": 7542,
   "noNewTestsOnRequest": 10133,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 7.4
+  "prcPositiveTests": 2.9
  },
  {
   "date": "2021-09-01",
@@ -17533,7 +17533,7 @@
   "noNewTestsCaseDef": 7349,
   "noNewTestsOnRequest": 10849,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 7.9
+  "prcPositiveTests": 3.4
  },
  {
   "date": "2021-09-02",
@@ -17565,7 +17565,7 @@
   "noNewTestsCaseDef": 6831,
   "noNewTestsOnRequest": 9462,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 9
+  "prcPositiveTests": 3.6
  },
  {
   "date": "2021-09-03",
@@ -17597,7 +17597,7 @@
   "noNewTestsCaseDef": 5951,
   "noNewTestsOnRequest": 10992,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 9
+  "prcPositiveTests": 3.5
  },
  {
   "date": "2021-09-04",
@@ -17629,7 +17629,7 @@
   "noNewTestsCaseDef": 5074,
   "noNewTestsOnRequest": 11033,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 9.7
+  "prcPositiveTests": 3.5
  },
  {
   "date": "2021-09-05",
@@ -17661,7 +17661,7 @@
   "noNewTestsCaseDef": 3356,
   "noNewTestsOnRequest": 9327,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 9.8
+  "prcPositiveTests": 3.9
  },
  {
   "date": "2021-09-06",
@@ -17693,7 +17693,7 @@
   "noNewTestsCaseDef": 2514,
   "noNewTestsOnRequest": 3116,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 18.4
+  "prcPositiveTests": 5.8
  },
  {
   "date": "2021-09-07",
@@ -17725,7 +17725,7 @@
   "noNewTestsCaseDef": 7798,
   "noNewTestsOnRequest": 9280,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 11.9
+  "prcPositiveTests": 4.5
  },
  {
   "date": "2021-09-08",
@@ -17757,7 +17757,7 @@
   "noNewTestsCaseDef": 7522,
   "noNewTestsOnRequest": 9610,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 12.1
+  "prcPositiveTests": 5.1
  },
  {
   "date": "2021-09-09",
@@ -17789,7 +17789,7 @@
   "noNewTestsCaseDef": 6721,
   "noNewTestsOnRequest": 8540,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 14.6
+  "prcPositiveTests": 5.7
  },
  {
   "date": "2021-09-10",
@@ -17821,7 +17821,7 @@
   "noNewTestsCaseDef": 6070,
   "noNewTestsOnRequest": 9991,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 15.7
+  "prcPositiveTests": 5.7
  },
  {
   "date": "2021-09-11",
@@ -17853,7 +17853,7 @@
   "noNewTestsCaseDef": 5932,
   "noNewTestsOnRequest": 10720,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 15.9
+  "prcPositiveTests": 5.4
  },
  {
   "date": "2021-09-12",
@@ -17885,7 +17885,7 @@
   "noNewTestsCaseDef": 3858,
   "noNewTestsOnRequest": 7814,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 19.3
+  "prcPositiveTests": 6.8
  },
  {
   "date": "2021-09-13",
@@ -17917,7 +17917,7 @@
   "noNewTestsCaseDef": 2701,
   "noNewTestsOnRequest": 3425,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 30.2
+  "prcPositiveTests": 8.4
  },
  {
   "date": "2021-09-14",
@@ -17949,7 +17949,7 @@
   "noNewTestsCaseDef": 8417,
   "noNewTestsOnRequest": 10228,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 21.1
+  "prcPositiveTests": 8.3
  },
  {
   "date": "2021-09-15",
@@ -17981,7 +17981,7 @@
   "noNewTestsCaseDef": 9372,
   "noNewTestsOnRequest": 10301,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 20.4
+  "prcPositiveTests": 9
  },
  {
   "date": "2021-09-16",
@@ -18013,7 +18013,7 @@
   "noNewTestsCaseDef": 8610,
   "noNewTestsOnRequest": 10336,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 23.4
+  "prcPositiveTests": 10.2
  },
  {
   "date": "2021-09-17",
@@ -18045,7 +18045,7 @@
   "noNewTestsCaseDef": 7782,
   "noNewTestsOnRequest": 11326,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 23.4
+  "prcPositiveTests": 9.7
  },
  {
   "date": "2021-09-18",
@@ -18077,7 +18077,7 @@
   "noNewTestsCaseDef": 7730,
   "noNewTestsOnRequest": 11947,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 27.4
+  "prcPositiveTests": 10.3
  },
  {
   "date": "2021-09-19",
@@ -18109,7 +18109,7 @@
   "noNewTestsCaseDef": 5174,
   "noNewTestsOnRequest": 9153,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 26.6
+  "prcPositiveTests": 10.8
  },
  {
   "date": "2021-09-20",
@@ -18141,7 +18141,7 @@
   "noNewTestsCaseDef": 3589,
   "noNewTestsOnRequest": 3520,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 47
+  "prcPositiveTests": 15.8
  },
  {
   "date": "2021-09-21",
@@ -18173,7 +18173,7 @@
   "noNewTestsCaseDef": 10728,
   "noNewTestsOnRequest": 12328,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 29.4
+  "prcPositiveTests": 11.4
  },
  {
   "date": "2021-09-22",
@@ -18205,7 +18205,7 @@
   "noNewTestsCaseDef": 11002,
   "noNewTestsOnRequest": 12217,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 30.3
+  "prcPositiveTests": 13.1
  },
  {
   "date": "2021-09-23",
@@ -18237,7 +18237,7 @@
   "noNewTestsCaseDef": 10872,
   "noNewTestsOnRequest": 10982,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 32.6
+  "prcPositiveTests": 13.2
  },
  {
   "date": "2021-09-24",
@@ -18269,7 +18269,7 @@
   "noNewTestsCaseDef": 9432,
   "noNewTestsOnRequest": 11779,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 33.5
+  "prcPositiveTests": 12.6
  },
  {
   "date": "2021-09-25",
@@ -18301,7 +18301,7 @@
   "noNewTestsCaseDef": 10070,
   "noNewTestsOnRequest": 12460,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 34.1
+  "prcPositiveTests": 11.4
  },
  {
   "date": "2021-09-26",
@@ -18333,7 +18333,7 @@
   "noNewTestsCaseDef": 6201,
   "noNewTestsOnRequest": 9861,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 39.4
+  "prcPositiveTests": 14.3
  },
  {
   "date": "2021-09-27",
@@ -18365,7 +18365,7 @@
   "noNewTestsCaseDef": 4888,
   "noNewTestsOnRequest": 4219,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 62.1
+  "prcPositiveTests": 19.7
  },
  {
   "date": "2021-09-28",
@@ -18397,7 +18397,7 @@
   "noNewTestsCaseDef": 12250,
   "noNewTestsOnRequest": 13032,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 43.7
+  "prcPositiveTests": 15.1
  },
  {
   "date": "2021-09-29",
@@ -18429,7 +18429,7 @@
   "noNewTestsCaseDef": 13184,
   "noNewTestsOnRequest": 14273,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 39.4
+  "prcPositiveTests": 15.4
  },
  {
   "date": "2021-09-30",
@@ -18461,7 +18461,7 @@
   "noNewTestsCaseDef": 12775,
   "noNewTestsOnRequest": 12806,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 47
+  "prcPositiveTests": 17.7
  },
  {
   "date": "2021-10-01",
@@ -18493,7 +18493,7 @@
   "noNewTestsCaseDef": 11844,
   "noNewTestsOnRequest": 13138,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 43.6
+  "prcPositiveTests": 16.2
  },
  {
   "date": "2021-10-02",
@@ -18525,7 +18525,7 @@
   "noNewTestsCaseDef": 11613,
   "noNewTestsOnRequest": 14940,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 47.4
+  "prcPositiveTests": 15.9
  },
  {
   "date": "2021-10-03",
@@ -18557,7 +18557,7 @@
   "noNewTestsCaseDef": 7706,
   "noNewTestsOnRequest": 10334,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 48.1
+  "prcPositiveTests": 18.8
  },
  {
   "date": "2021-10-04",
@@ -18589,7 +18589,7 @@
   "noNewTestsCaseDef": 6378,
   "noNewTestsOnRequest": 4312,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 77.6
+  "prcPositiveTests": 25.9
  },
  {
   "date": "2021-10-05",
@@ -18621,7 +18621,7 @@
   "noNewTestsCaseDef": 13743,
   "noNewTestsOnRequest": 12811,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 56.6
+  "prcPositiveTests": 19.3
  },
  {
   "date": "2021-10-06",
@@ -18653,7 +18653,7 @@
   "noNewTestsCaseDef": 14796,
   "noNewTestsOnRequest": 12555,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 53.9
+  "prcPositiveTests": 21
  },
  {
   "date": "2021-10-07",
@@ -18685,7 +18685,7 @@
   "noNewTestsCaseDef": 14360,
   "noNewTestsOnRequest": 11124,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 56.8
+  "prcPositiveTests": 21.8
  },
  {
   "date": "2021-10-08",
@@ -18717,7 +18717,7 @@
   "noNewTestsCaseDef": 12415,
   "noNewTestsOnRequest": 11361,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 58.3
+  "prcPositiveTests": 21
  },
  {
   "date": "2021-10-09",
@@ -18749,7 +18749,7 @@
   "noNewTestsCaseDef": 12862,
   "noNewTestsOnRequest": 11530,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 57.5
+  "prcPositiveTests": 20.7
  },
  {
   "date": "2021-10-10",
@@ -18781,7 +18781,7 @@
   "noNewTestsCaseDef": 8139,
   "noNewTestsOnRequest": 10125,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 56.9
+  "prcPositiveTests": 23.9
  },
  {
   "date": "2021-10-11",
@@ -18813,7 +18813,7 @@
   "noNewTestsCaseDef": 6850,
   "noNewTestsOnRequest": 3803,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 85.9
+  "prcPositiveTests": 28.5
  },
  {
   "date": "2021-10-12",
@@ -18845,7 +18845,7 @@
   "noNewTestsCaseDef": 14434,
   "noNewTestsOnRequest": 12152,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 63
+  "prcPositiveTests": 21
  },
  {
   "date": "2021-10-13",
@@ -18877,7 +18877,7 @@
   "noNewTestsCaseDef": 14475,
   "noNewTestsOnRequest": 12225,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 58.9
+  "prcPositiveTests": 22.5
  },
  {
   "date": "2021-10-14",
@@ -18909,7 +18909,7 @@
   "noNewTestsCaseDef": 15320,
   "noNewTestsOnRequest": 10851,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 62.6
+  "prcPositiveTests": 24.1
  },
  {
   "date": "2021-10-15",
@@ -18941,7 +18941,7 @@
   "noNewTestsCaseDef": 14067,
   "noNewTestsOnRequest": 12369,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 59.9
+  "prcPositiveTests": 23.4
  },
  {
   "date": "2021-10-16",
@@ -18973,7 +18973,7 @@
   "noNewTestsCaseDef": 12684,
   "noNewTestsOnRequest": 13239,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 58.8
+  "prcPositiveTests": 22
  },
  {
   "date": "2021-10-17",
@@ -19005,7 +19005,7 @@
   "noNewTestsCaseDef": 8297,
   "noNewTestsOnRequest": 9341,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 65.5
+  "prcPositiveTests": 28
  },
  {
   "date": "2021-10-18",
@@ -19037,7 +19037,7 @@
   "noNewTestsCaseDef": 6905,
   "noNewTestsOnRequest": 4522,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 88.7
+  "prcPositiveTests": 29.3
  },
  {
   "date": "2021-10-19",
@@ -19069,7 +19069,7 @@
   "noNewTestsCaseDef": 15039,
   "noNewTestsOnRequest": 12780,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 67.8
+  "prcPositiveTests": 23.3
  },
  {
   "date": "2021-10-20",
@@ -19101,7 +19101,7 @@
   "noNewTestsCaseDef": 14985,
   "noNewTestsOnRequest": 13266,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 60.7
+  "prcPositiveTests": 23.4
  },
  {
   "date": "2021-10-21",
@@ -19133,7 +19133,7 @@
   "noNewTestsCaseDef": 13986,
   "noNewTestsOnRequest": 12111,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 61.7
+  "prcPositiveTests": 24.1
  },
  {
   "date": "2021-10-22",
@@ -19165,7 +19165,7 @@
   "noNewTestsCaseDef": 13225,
   "noNewTestsOnRequest": 11807,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 61.6
+  "prcPositiveTests": 23.3
  },
  {
   "date": "2021-10-23",
@@ -19197,7 +19197,7 @@
   "noNewTestsCaseDef": 12080,
   "noNewTestsOnRequest": 13400,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 59.9
+  "prcPositiveTests": 21.1
  },
  {
   "date": "2021-10-24",
@@ -19229,7 +19229,7 @@
   "noNewTestsCaseDef": 9631,
   "noNewTestsOnRequest": 9410,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 61.6
+  "prcPositiveTests": 27.4
  },
  {
   "date": "2021-10-25",
@@ -19261,7 +19261,7 @@
   "noNewTestsCaseDef": 8173,
   "noNewTestsOnRequest": 3431,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 79.2
+  "prcPositiveTests": 29.4
  },
  {
   "date": "2021-10-26",
@@ -19293,7 +19293,7 @@
   "noNewTestsCaseDef": 13268,
   "noNewTestsOnRequest": 12082,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 66.1
+  "prcPositiveTests": 21.3
  },
  {
   "date": "2021-10-27",
@@ -19325,7 +19325,7 @@
   "noNewTestsCaseDef": 14557,
   "noNewTestsOnRequest": 11645,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 57.1
+  "prcPositiveTests": 19.9
  },
  {
   "date": "2021-10-28",
@@ -19357,7 +19357,7 @@
   "noNewTestsCaseDef": 13361,
   "noNewTestsOnRequest": 10633,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 55
+  "prcPositiveTests": 19.4
  },
  {
   "date": "2021-10-29",
@@ -19389,7 +19389,7 @@
   "noNewTestsCaseDef": 11980,
   "noNewTestsOnRequest": 10696,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 55
+  "prcPositiveTests": 18.7
  },
  {
   "date": "2021-10-30",
@@ -19421,7 +19421,7 @@
   "noNewTestsCaseDef": 11511,
   "noNewTestsOnRequest": 10602,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 54.7
+  "prcPositiveTests": 19.4
  },
  {
   "date": "2021-10-31",
@@ -19453,7 +19453,7 @@
   "noNewTestsCaseDef": 7446,
   "noNewTestsOnRequest": 7460,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 49.8
+  "prcPositiveTests": 21.3
  },
  {
   "date": "2021-11-01",
@@ -19485,7 +19485,7 @@
   "noNewTestsCaseDef": 5855,
   "noNewTestsOnRequest": 3346,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 76
+  "prcPositiveTests": 24.8
  },
  {
   "date": "2021-11-02",
@@ -19517,7 +19517,7 @@
   "noNewTestsCaseDef": 12191,
   "noNewTestsOnRequest": 10369,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 49.1
+  "prcPositiveTests": 15.3
  },
  {
   "date": "2021-11-03",
@@ -19549,7 +19549,7 @@
   "noNewTestsCaseDef": 12050,
   "noNewTestsOnRequest": 9958,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 46.3
+  "prcPositiveTests": 15.9
  },
  {
   "date": "2021-11-04",
@@ -19581,7 +19581,7 @@
   "noNewTestsCaseDef": 11200,
   "noNewTestsOnRequest": 8820,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 44.8
+  "prcPositiveTests": 15.4
  },
  {
   "date": "2021-11-05",
@@ -19613,7 +19613,7 @@
   "noNewTestsCaseDef": 10058,
   "noNewTestsOnRequest": 8949,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 43.5
+  "prcPositiveTests": 14.3
  },
  {
   "date": "2021-11-06",
@@ -19645,7 +19645,7 @@
   "noNewTestsCaseDef": 8958,
   "noNewTestsOnRequest": 9231,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 44.3
+  "prcPositiveTests": 14.5
  },
  {
   "date": "2021-11-07",
@@ -19677,7 +19677,7 @@
   "noNewTestsCaseDef": 6198,
   "noNewTestsOnRequest": 6874,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 40.5
+  "prcPositiveTests": 17.4
  },
  {
   "date": "2021-11-08",
@@ -19709,7 +19709,7 @@
   "noNewTestsCaseDef": 4737,
   "noNewTestsOnRequest": 2965,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 55.2
+  "prcPositiveTests": 16.4
  },
  {
   "date": "2021-11-09",
@@ -19741,7 +19741,7 @@
   "noNewTestsCaseDef": 10676,
   "noNewTestsOnRequest": 8773,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 39
+  "prcPositiveTests": 11.7
  },
  {
   "date": "2021-11-10",
@@ -19773,7 +19773,7 @@
   "noNewTestsCaseDef": 10350,
   "noNewTestsOnRequest": 7909,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 34.5
+  "prcPositiveTests": 11.6
  },
  {
   "date": "2021-11-11",
@@ -19805,7 +19805,7 @@
   "noNewTestsCaseDef": 9748,
   "noNewTestsOnRequest": 7366,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 31.6
+  "prcPositiveTests": 10.5
  },
  {
   "date": "2021-11-12",
@@ -19837,7 +19837,7 @@
   "noNewTestsCaseDef": 8201,
   "noNewTestsOnRequest": 7339,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 31.2
+  "prcPositiveTests": 10
  },
  {
   "date": "2021-11-13",
@@ -19869,7 +19869,7 @@
   "noNewTestsCaseDef": 7495,
   "noNewTestsOnRequest": 8017,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 25.8
+  "prcPositiveTests": 8.8
  },
  {
   "date": "2021-11-14",
@@ -19901,7 +19901,7 @@
   "noNewTestsCaseDef": 4907,
   "noNewTestsOnRequest": 5545,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 28.9
+  "prcPositiveTests": 12.9
  },
  {
   "date": "2021-11-15",
@@ -19933,7 +19933,7 @@
   "noNewTestsCaseDef": 3544,
   "noNewTestsOnRequest": 2049,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 38.2
+  "prcPositiveTests": 11.2
  },
  {
   "date": "2021-11-16",
@@ -19965,7 +19965,7 @@
   "noNewTestsCaseDef": 9227,
   "noNewTestsOnRequest": 7308,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 25
+  "prcPositiveTests": 7.4
  },
  {
   "date": "2021-11-17",
@@ -19997,7 +19997,7 @@
   "noNewTestsCaseDef": 8941,
   "noNewTestsOnRequest": 6979,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 22.2
+  "prcPositiveTests": 7.3
  },
  {
   "date": "2021-11-18",
@@ -20029,7 +20029,7 @@
   "noNewTestsCaseDef": 8018,
   "noNewTestsOnRequest": 5950,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 22
+  "prcPositiveTests": 6.9
  },
  {
   "date": "2021-11-19",
@@ -20061,7 +20061,7 @@
   "noNewTestsCaseDef": 7091,
   "noNewTestsOnRequest": 6505,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 21.2
+  "prcPositiveTests": 6.5
  },
  {
   "date": "2021-11-20",
@@ -20093,7 +20093,7 @@
   "noNewTestsCaseDef": 6491,
   "noNewTestsOnRequest": 6745,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 20.4
+  "prcPositiveTests": 6.6
  },
  {
   "date": "2021-11-21",
@@ -20125,7 +20125,7 @@
   "noNewTestsCaseDef": 3978,
   "noNewTestsOnRequest": 5003,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 21.6
+  "prcPositiveTests": 8.5
  },
  {
   "date": "2021-11-22",
@@ -20157,7 +20157,7 @@
   "noNewTestsCaseDef": 3586,
   "noNewTestsOnRequest": 1563,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 30.1
+  "prcPositiveTests": 8.4
  },
  {
   "date": "2021-11-23",
@@ -20189,7 +20189,7 @@
   "noNewTestsCaseDef": 8452,
   "noNewTestsOnRequest": 6681,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 18.1
+  "prcPositiveTests": 5
  },
  {
   "date": "2021-11-24",
@@ -20221,7 +20221,7 @@
   "noNewTestsCaseDef": 8811,
   "noNewTestsOnRequest": 7128,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 17.5
+  "prcPositiveTests": 5.9
  },
  {
   "date": "2021-11-25",
@@ -20253,7 +20253,7 @@
   "noNewTestsCaseDef": 8047,
   "noNewTestsOnRequest": 6467,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 14.5
+  "prcPositiveTests": 4.9
  },
  {
   "date": "2021-11-26",
@@ -20285,7 +20285,7 @@
   "noNewTestsCaseDef": 6776,
   "noNewTestsOnRequest": 6141,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 15.2
+  "prcPositiveTests": 4.6
  },
  {
   "date": "2021-11-27",
@@ -20317,7 +20317,7 @@
   "noNewTestsCaseDef": 5526,
   "noNewTestsOnRequest": 5921,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 15.1
+  "prcPositiveTests": 4.7
  },
  {
   "date": "2021-11-28",
@@ -20349,7 +20349,7 @@
   "noNewTestsCaseDef": 3584,
   "noNewTestsOnRequest": 5144,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 15.8
+  "prcPositiveTests": 6.5
  },
  {
   "date": "2021-11-29",
@@ -20381,7 +20381,7 @@
   "noNewTestsCaseDef": 2801,
   "noNewTestsOnRequest": 2667,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 20
+  "prcPositiveTests": 7.1
  },
  {
   "date": "2021-11-30",
@@ -20413,7 +20413,7 @@
   "noNewTestsCaseDef": 4980,
   "noNewTestsOnRequest": 5813,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 15
+  "prcPositiveTests": 5.6
  },
  {
   "date": "2021-12-01",
@@ -20445,7 +20445,7 @@
   "noNewTestsCaseDef": 3660,
   "noNewTestsOnRequest": 4066,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 14.8
+  "prcPositiveTests": 6.5
  },
  {
   "date": "2021-12-02",
@@ -20477,7 +20477,7 @@
   "noNewTestsCaseDef": 3875,
   "noNewTestsOnRequest": 3432,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 15.7
+  "prcPositiveTests": 5.7
  },
  {
   "date": "2021-12-03",
@@ -20509,7 +20509,7 @@
   "noNewTestsCaseDef": 7737,
   "noNewTestsOnRequest": 6081,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 12.1
+  "prcPositiveTests": 3.3
  },
  {
   "date": "2021-12-04",
@@ -20541,7 +20541,7 @@
   "noNewTestsCaseDef": 6812,
   "noNewTestsOnRequest": 6702,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 11
+  "prcPositiveTests": 3.9
  },
  {
   "date": "2021-12-05",
@@ -20573,7 +20573,7 @@
   "noNewTestsCaseDef": 3578,
   "noNewTestsOnRequest": 4666,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 11.1
+  "prcPositiveTests": 4.8
  },
  {
   "date": "2021-12-06",
@@ -20605,7 +20605,7 @@
   "noNewTestsCaseDef": 2979,
   "noNewTestsOnRequest": 2122,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 15.7
+  "prcPositiveTests": 4.7
  },
  {
   "date": "2021-12-07",
@@ -20637,7 +20637,7 @@
   "noNewTestsCaseDef": 8325,
   "noNewTestsOnRequest": 7065,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 9.2
+  "prcPositiveTests": 2.7
  },
  {
   "date": "2021-12-08",
@@ -20669,7 +20669,7 @@
   "noNewTestsCaseDef": 7814,
   "noNewTestsOnRequest": 7215,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 8.5
+  "prcPositiveTests": 3
  },
  {
   "date": "2021-12-09",
@@ -20701,7 +20701,7 @@
   "noNewTestsCaseDef": 7197,
   "noNewTestsOnRequest": 6543,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 7.5
+  "prcPositiveTests": 2.6
  },
  {
   "date": "2021-12-10",
@@ -20733,7 +20733,7 @@
   "noNewTestsCaseDef": 5891,
   "noNewTestsOnRequest": 6745,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 7.4
+  "prcPositiveTests": 2.3
  },
  {
   "date": "2021-12-11",
@@ -20765,7 +20765,7 @@
   "noNewTestsCaseDef": 5583,
   "noNewTestsOnRequest": 6640,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 7.6
+  "prcPositiveTests": 2.4
  },
  {
   "date": "2021-12-12",
@@ -20797,7 +20797,7 @@
   "noNewTestsCaseDef": 3312,
   "noNewTestsOnRequest": 5320,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 8.3
+  "prcPositiveTests": 3.3
  },
  {
   "date": "2021-12-13",
@@ -20829,7 +20829,7 @@
   "noNewTestsCaseDef": 2769,
   "noNewTestsOnRequest": 2319,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 9.7
+  "prcPositiveTests": 2.9
  },
  {
   "date": "2021-12-14",
@@ -20861,7 +20861,7 @@
   "noNewTestsCaseDef": 7131,
   "noNewTestsOnRequest": 6947,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 6.7
+  "prcPositiveTests": 2
  },
  {
   "date": "2021-12-15",
@@ -20893,7 +20893,7 @@
   "noNewTestsCaseDef": 6435,
   "noNewTestsOnRequest": 6915,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 6.2
+  "prcPositiveTests": 1.9
  },
  {
   "date": "2021-12-16",
@@ -20925,7 +20925,7 @@
   "noNewTestsCaseDef": 6481,
   "noNewTestsOnRequest": 6273,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 6.4
+  "prcPositiveTests": 1.9
  },
  {
   "date": "2021-12-17",
@@ -20957,7 +20957,7 @@
   "noNewTestsCaseDef": 5361,
   "noNewTestsOnRequest": 7052,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 5.7
+  "prcPositiveTests": 1.7
  },
  {
   "date": "2021-12-18",
@@ -20989,7 +20989,7 @@
   "noNewTestsCaseDef": 4842,
   "noNewTestsOnRequest": 7017,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 6.5
+  "prcPositiveTests": 1.7
  },
  {
   "date": "2021-12-19",
@@ -21021,7 +21021,7 @@
   "noNewTestsCaseDef": 3036,
   "noNewTestsOnRequest": 5704,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 5.7
+  "prcPositiveTests": 1.9
  },
  {
   "date": "2021-12-20",
@@ -21053,7 +21053,7 @@
   "noNewTestsCaseDef": 2733,
   "noNewTestsOnRequest": 2639,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 7.9
+  "prcPositiveTests": 2.2
  },
  {
   "date": "2021-12-21",
@@ -21085,7 +21085,7 @@
   "noNewTestsCaseDef": 6511,
   "noNewTestsOnRequest": 6908,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 6.2
+  "prcPositiveTests": 1.7
  },
  {
   "date": "2021-12-22",
@@ -21117,7 +21117,7 @@
   "noNewTestsCaseDef": 5917,
   "noNewTestsOnRequest": 7362,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 6.4
+  "prcPositiveTests": 1.9
  },
  {
   "date": "2021-12-23",
@@ -21149,7 +21149,7 @@
   "noNewTestsCaseDef": 5023,
   "noNewTestsOnRequest": 6226,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 6.9
+  "prcPositiveTests": 1.9
  },
  {
   "date": "2021-12-24",
@@ -21181,7 +21181,7 @@
   "noNewTestsCaseDef": 3824,
   "noNewTestsOnRequest": 5311,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 7.8
+  "prcPositiveTests": 2.1
  },
  {
   "date": "2021-12-25",
@@ -21213,7 +21213,7 @@
   "noNewTestsCaseDef": 3352,
   "noNewTestsOnRequest": 5126,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 7.1
+  "prcPositiveTests": 2.9
  },
  {
   "date": "2021-12-26",
@@ -21245,7 +21245,7 @@
   "noNewTestsCaseDef": 1452,
   "noNewTestsOnRequest": 1980,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 10.2
+  "prcPositiveTests": 3.6
  },
  {
   "date": "2021-12-27",
@@ -21277,7 +21277,7 @@
   "noNewTestsCaseDef": 2511,
   "noNewTestsOnRequest": 2763,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 10.7
+  "prcPositiveTests": 2.8
  },
  {
   "date": "2021-12-28",
@@ -21309,7 +21309,7 @@
   "noNewTestsCaseDef": 5845,
   "noNewTestsOnRequest": 9109,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 7.7
+  "prcPositiveTests": 2.4
  },
  {
   "date": "2021-12-29",
@@ -21341,7 +21341,7 @@
   "noNewTestsCaseDef": 5362,
   "noNewTestsOnRequest": 7340,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 10
+  "prcPositiveTests": 3
  },
  {
   "date": "2021-12-30",
@@ -21373,7 +21373,7 @@
   "noNewTestsCaseDef": 4841,
   "noNewTestsOnRequest": 6007,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 13.8
+  "prcPositiveTests": 3.8
  },
  {
   "date": "2021-12-31",
@@ -21405,7 +21405,7 @@
   "noNewTestsCaseDef": 4206,
   "noNewTestsOnRequest": 4859,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 18.4
+  "prcPositiveTests": 4.7
  },
  {
   "date": "2022-01-01",
@@ -21437,7 +21437,7 @@
   "noNewTestsCaseDef": 3673,
   "noNewTestsOnRequest": 6959,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 13.6
+  "prcPositiveTests": 5.6
  },
  {
   "date": "2022-01-02",
@@ -21469,7 +21469,7 @@
   "noNewTestsCaseDef": 1710,
   "noNewTestsOnRequest": 2410,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 23.3
+  "prcPositiveTests": 5.9
  },
  {
   "date": "2022-01-03",
@@ -21501,7 +21501,7 @@
   "noNewTestsCaseDef": 3155,
   "noNewTestsOnRequest": 3679,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 25.7
+  "prcPositiveTests": 5.9
  },
  {
   "date": "2022-01-04",
@@ -21533,7 +21533,7 @@
   "noNewTestsCaseDef": 9042,
   "noNewTestsOnRequest": 11702,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 18.8
+  "prcPositiveTests": 6.1
  },
  {
   "date": "2022-01-05",
@@ -21565,7 +21565,7 @@
   "noNewTestsCaseDef": 9947,
   "noNewTestsOnRequest": 10940,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 23.4
+  "prcPositiveTests": 7.6
  },
  {
   "date": "2022-01-06",
@@ -21597,7 +21597,7 @@
   "noNewTestsCaseDef": 9562,
   "noNewTestsOnRequest": 10599,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 29.8
+  "prcPositiveTests": 9.6
  },
  {
   "date": "2022-01-07",
@@ -21629,7 +21629,7 @@
   "noNewTestsCaseDef": 9069,
   "noNewTestsOnRequest": 12379,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 27.6
+  "prcPositiveTests": 9.2
  },
  {
   "date": "2022-01-08",
@@ -21661,7 +21661,7 @@
   "noNewTestsCaseDef": 8088,
   "noNewTestsOnRequest": 14207,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 27.1
+  "prcPositiveTests": 9.3
  },
  {
   "date": "2022-01-09",
@@ -21693,7 +21693,7 @@
   "noNewTestsCaseDef": 5148,
   "noNewTestsOnRequest": 11030,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 29.1
+  "prcPositiveTests": 11.5
  },
  {
   "date": "2022-01-10",
@@ -21725,7 +21725,7 @@
   "noNewTestsCaseDef": 4561,
   "noNewTestsOnRequest": 4440,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 45.6
+  "prcPositiveTests": 13.4
  },
  {
   "date": "2022-01-11",
@@ -21757,7 +21757,7 @@
   "noNewTestsCaseDef": 11611,
   "noNewTestsOnRequest": 11008,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 39.2
+  "prcPositiveTests": 12.1
  },
  {
   "date": "2022-01-12",
@@ -21789,7 +21789,7 @@
   "noNewTestsCaseDef": 10995,
   "noNewTestsOnRequest": 9641,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 41.7
+  "prcPositiveTests": 13.9
  },
  {
   "date": "2022-01-13",
@@ -21821,7 +21821,7 @@
   "noNewTestsCaseDef": 10770,
   "noNewTestsOnRequest": 9813,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 47.5
+  "prcPositiveTests": 15.4
  },
  {
   "date": "2022-01-14",
@@ -21853,7 +21853,7 @@
   "noNewTestsCaseDef": 10356,
   "noNewTestsOnRequest": 10257,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 48
+  "prcPositiveTests": 15.6
  },
  {
   "date": "2022-01-15",
@@ -21885,7 +21885,7 @@
   "noNewTestsCaseDef": 9642,
   "noNewTestsOnRequest": 11173,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 48.3
+  "prcPositiveTests": 16.2
  },
  {
   "date": "2022-01-16",
@@ -21917,7 +21917,7 @@
   "noNewTestsCaseDef": 6166,
   "noNewTestsOnRequest": 8947,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 50.3
+  "prcPositiveTests": 20.2
  },
  {
   "date": "2022-01-17",
@@ -21949,7 +21949,7 @@
   "noNewTestsCaseDef": 6244,
   "noNewTestsOnRequest": 3789,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 80.9
+  "prcPositiveTests": 23.7
  },
  {
   "date": "2022-01-18",
@@ -21981,7 +21981,7 @@
   "noNewTestsCaseDef": 16437,
   "noNewTestsOnRequest": 12313,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 58.3
+  "prcPositiveTests": 19
  },
  {
   "date": "2022-01-19",
@@ -22013,7 +22013,7 @@
   "noNewTestsCaseDef": 14652,
   "noNewTestsOnRequest": 11875,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 62.6
+  "prcPositiveTests": 21.3
  },
  {
   "date": "2022-01-20",
@@ -22045,7 +22045,7 @@
   "noNewTestsCaseDef": 14249,
   "noNewTestsOnRequest": 12032,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 72.7
+  "prcPositiveTests": 24.2
  },
  {
   "date": "2022-01-21",
@@ -22077,7 +22077,7 @@
   "noNewTestsCaseDef": 13991,
   "noNewTestsOnRequest": 12345,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 74.6
+  "prcPositiveTests": 23.9
  },
  {
   "date": "2022-01-22",
@@ -22109,7 +22109,7 @@
   "noNewTestsCaseDef": 13037,
   "noNewTestsOnRequest": 13210,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 73.8
+  "prcPositiveTests": 25.3
  },
  {
   "date": "2022-01-23",
@@ -22141,7 +22141,7 @@
   "noNewTestsCaseDef": 8803,
   "noNewTestsOnRequest": 9108,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 79.3
+  "prcPositiveTests": 32.5
  },
  {
   "date": "2022-01-24",
@@ -22173,7 +22173,7 @@
   "noNewTestsCaseDef": 8465,
   "noNewTestsOnRequest": 4723,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 90.6
+  "prcPositiveTests": 31.3
  },
  {
   "date": "2022-01-25",
@@ -22205,7 +22205,7 @@
   "noNewTestsCaseDef": 10828,
   "noNewTestsOnRequest": 9696,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 95.9
+  "prcPositiveTests": 31.7
  },
  {
   "date": "2022-01-26",
@@ -22237,7 +22237,7 @@
   "noNewTestsCaseDef": 19635,
   "noNewTestsOnRequest": 15572,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 97.3
+  "prcPositiveTests": 31.4
  },
  {
   "date": "2022-01-27",
@@ -22269,7 +22269,7 @@
   "noNewTestsCaseDef": 19193,
   "noNewTestsOnRequest": 13714,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 96.3
+  "prcPositiveTests": 31.4
  },
  {
   "date": "2022-01-28",
@@ -22301,7 +22301,7 @@
   "noNewTestsCaseDef": 18240,
   "noNewTestsOnRequest": 14495,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 96.9
+  "prcPositiveTests": 31.4
  },
  {
   "date": "2022-01-29",
@@ -22333,7 +22333,7 @@
   "noNewTestsCaseDef": 19063,
   "noNewTestsOnRequest": 13685,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 92.1
+  "prcPositiveTests": 31.3
  },
  {
   "date": "2022-01-30",
@@ -22365,7 +22365,7 @@
   "noNewTestsCaseDef": 12651,
   "noNewTestsOnRequest": 11407,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 81.8
+  "prcPositiveTests": 33.2
  },
  {
   "date": "2022-01-31",
@@ -22397,7 +22397,7 @@
   "noNewTestsCaseDef": 12125,
   "noNewTestsOnRequest": 6870,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 106
+  "prcPositiveTests": 38.4
  },
  {
   "date": "2022-02-01",
@@ -22429,7 +22429,7 @@
   "noNewTestsCaseDef": 20492,
   "noNewTestsOnRequest": 15654,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 110.7
+  "prcPositiveTests": 32.6
  },
  {
   "date": "2022-02-02",
@@ -22461,7 +22461,7 @@
   "noNewTestsCaseDef": 20821,
   "noNewTestsOnRequest": 15575,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 98.4
+  "prcPositiveTests": 32.6
  },
  {
   "date": "2022-02-03",
@@ -22493,7 +22493,7 @@
   "noNewTestsCaseDef": 19749,
   "noNewTestsOnRequest": 13907,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 97.1
+  "prcPositiveTests": 32
  },
  {
   "date": "2022-02-04",
@@ -22525,7 +22525,7 @@
   "noNewTestsCaseDef": 19259,
   "noNewTestsOnRequest": 13359,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 97.4
+  "prcPositiveTests": 31.3
  },
  {
   "date": "2022-02-05",
@@ -22557,7 +22557,7 @@
   "noNewTestsCaseDef": 17323,
   "noNewTestsOnRequest": 13221,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 94.7
+  "prcPositiveTests": 32.6
  },
  {
   "date": "2022-02-06",
@@ -22589,6 +22589,38 @@
   "noNewTestsCaseDef": 11639,
   "noNewTestsOnRequest": 10203,
   "noNewTestsOldResults": null,
-  "prcPositiveTests": 73.7
+  "prcPositiveTests": 31.2
+ },
+ {
+  "date": "2022-02-07",
+  "noConfirmed": 2418779,
+  "noActive": 367802,
+  "prcActive": "15.2",
+  "noIC": 1102,
+  "noRecovered": 1990254,
+  "prcRecoveredOfTotal": "82.3",
+  "prcRecoveredOfClosed": "97.0",
+  "noDeceased": 60723,
+  "prcDeceasedOfTotal": "2.5",
+  "prcDeceasedOfClosed": "3.0",
+  "noClosed": 2050977,
+  "noNewConfirmed": 16958,
+  "noNewRecovered": 4332,
+  "noNewDeceased": 81,
+  "noVaccineDosesAdministered": 16535444,
+  "noTotalDoses": 16535444,
+  "noImmunized1stDose": 81849,
+  "noImmunized": 8003956,
+  "prcImmunized": "41.2",
+  "noNewVaccineDosesAdministered": null,
+  "noNewPfizer": null,
+  "noNewModerna": null,
+  "noNewAstraZeneca": null,
+  "noNewJohnson": null,
+  "noNewTestsTotal": 48101,
+  "noNewTestsCaseDef": 10716,
+  "noNewTestsOnRequest": 6006,
+  "noNewTestsOldResults": null,
+  "prcPositiveTests": 35.3
  }
 ]
