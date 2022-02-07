@@ -111,7 +111,8 @@ function processData() {
     const noTotalDoses = (vaccineData === undefined) ? 0 : vaccineData.total_doze;
     const noImmunized1stDose = (vaccineData === undefined) ? 0 : vaccineData.total_1;
     const noImmunized = (vaccineData === undefined) ? 0 : vaccineData.total_2;
-    const prcPositiveTests = (d.new_cases_today/d.new_tests_today*100).toFixed(1);
+    const total_new_tests = d.new_tests_today + d.rapid_tests;
+    const prcPositiveTests = (d.new_cases_today/total_new_tests*100).toFixed(1);
 
     const day = {
       date: d.reporting_date,
@@ -139,7 +140,7 @@ function processData() {
       noNewModerna,
       noNewAstraZeneca,
       noNewJohnson,
-      noNewTestsTotal: d.new_tests_today + d.rapid_tests,
+      noNewTestsTotal: total_new_tests,
       noNewTestsCaseDef: d.tests_for_case_definition,
       noNewTestsOnRequest: d.tests_upon_request,
       noNewTestsOldResults: d.tests_done_before_today_and_reported_today,

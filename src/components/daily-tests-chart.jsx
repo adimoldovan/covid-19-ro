@@ -42,53 +42,17 @@ export default class DailyTestsChart extends Component {
       series: [
         {
           name: 'total tests',
-          type: 'line',
+          type: 'bar',
           color: Colors.tests,
           data: data.map(function (e) {
             return e.noNewTestsTotal;
           })
         },
         {
-          name: 'tests on case definition',
-          type: 'bar',
-          stack: '2',
-          emphasis: {
-            focus: 'series'
-          },
-          color: Colors.closed,
-          data: data.map(function (e) {
-            return e.noNewTestsCaseDef;
-          })
-        },
-        {
-          name: 'tests on request',
-          type: 'bar',
-          stack: '2',
-          emphasis: {
-            focus: 'series'
-          },
-          color: Colors.active,
-          data: data.map(function (e) {
-            return e.noNewTestsOnRequest;
-          })
-        },
-        {
-          name: 'older tests reported today',
-          type: 'bar',
-          stack: '2',
-          emphasis: {
-            focus: 'series'
-          },
-          color: Colors.brush,
-          data: data.map(function (e) {
-            return e.noNewTestsOldResults;
-          })
-        },
-        {
           name: 'positive tests (%)',
           type: 'line',
           yAxisIndex: 1,
-          color: Colors.confirmed,
+          color: Colors.active,
           data: data.map(function (e) {
             return e.prcPositiveTests;
           })
