@@ -25,7 +25,7 @@ export default class County extends Component {
       yAxis: [
         {
           type: 'value',
-          max: 20,
+          max: 40,
         }
       ],
       dataZoom: [{
