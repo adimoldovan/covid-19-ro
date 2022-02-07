@@ -139,7 +139,7 @@ function processData() {
       noNewModerna,
       noNewAstraZeneca,
       noNewJohnson,
-      noNewTestsTotal: d.new_tests_today,
+      noNewTestsTotal: d.new_tests_today + d.rapid_tests,
       noNewTestsCaseDef: d.tests_for_case_definition,
       noNewTestsOnRequest: d.tests_upon_request,
       noNewTestsOldResults: d.tests_done_before_today_and_reported_today,
