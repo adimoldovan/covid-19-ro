@@ -68,15 +68,15 @@ export default class Dashboard extends Component {
               <span className='fine'>&nbsp;</span>
             </div>
           </Col>
-          <Col lg={4}>
-            <div className='summary-box'>
-              <span className='number'>{formattedNumber(today.noActive)}</span>
-              <br />
-              <span className='description'>active cases</span>
-              <br />
-              <span className='fine'>{formattedNumber(today.prcActive)}%</span>
-            </div>
-          </Col>
+          {/* <Col lg={4}>*/}
+          {/*  <div className='summary-box'>*/}
+          {/*    <span className='number'>{formattedNumber(today.noActive)}</span>*/}
+          {/*    <br />*/}
+          {/*    <span className='description'>active cases</span>*/}
+          {/*    <br />*/}
+          {/*    <span className='fine'>{formattedNumber(today.prcActive)}%</span>*/}
+          {/*  </div>*/}
+          {/* </Col>*/}
           <Col lg={4}>
             <div className='summary-box '>
               <span className='number'>{formattedNumber(today.noDeceased)}</span>
@@ -112,18 +112,30 @@ export default class Dashboard extends Component {
               <span className='fine'>{formattedNumber((today.noImmunized1stDose / population * 100).toFixed(1))}%</span>
             </div>
           </Col>
-          <Col lg={4}>
-            <div className='summary-box '>
-              <span
-                className='number'
-              >{formattedNumber(today.noImmunized)}
-              </span>
-              <br />
-              <span className='description'>immunized with second dose</span>
-              <br />
-              <span className='fine'>{formattedNumber(today.prcImmunized)}%</span>
-            </div>
-          </Col>
+          {/* <Col lg={4}>*/}
+          {/*  <div className='summary-box '>*/}
+          {/*    <span*/}
+          {/*      className='number'*/}
+          {/*    >{formattedNumber(today.noImmunized)}*/}
+          {/*    </span>*/}
+          {/*    <br />*/}
+          {/*    <span className='description'>immunized with second dose</span>*/}
+          {/*    <br />*/}
+          {/*    <span className='fine'>{formattedNumber(today.prcImmunized)}%</span>*/}
+          {/*  </div>*/}
+          {/* </Col>*/}
+          {/* <Col lg={4}>*/}
+          {/*  <div className='summary-box '>*/}
+          {/*    <span*/}
+          {/*      className='number'*/}
+          {/*    >{formattedNumber(today.noImmunized)}*/}
+          {/*    </span>*/}
+          {/*    <br />*/}
+          {/*    <span className='description'>immunized with second dose</span>*/}
+          {/*    <br />*/}
+          {/*    <span className='fine'>{formattedNumber(today.prcImmunized)}%</span>*/}
+          {/*  </div>*/}
+          {/* </Col>*/}
         </Row>
         <hr />
         {/* Main charts */}
