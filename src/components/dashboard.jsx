@@ -109,7 +109,7 @@ export default class Dashboard extends Component {
               <br />
               <span className='description'>immunized with first dose only</span>
               <br />
-              <span className='fine'>{formattedNumber((today.noImmunized1stDose / population * 100).toFixed(1))}</span>
+              <span className='fine'>{formattedNumber((today.noImmunized1stDose / population * 100).toFixed(1))}%</span>
             </div>
           </Col>
           <Col lg={4}>
