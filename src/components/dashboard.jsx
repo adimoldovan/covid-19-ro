@@ -9,7 +9,6 @@ import DailyTestsChart from './daily-tests-chart';
 import County from './county';
 import DailyVaccinesChart from './daily-vaccines-chart';
 import DailyCountiesIncidenceBarChart from './daily-counties-incidence-chart';
-import VaccinesGaugeChart from './vaccines-gauge-chart';
 
 export default class Dashboard extends Component {
   render() {
@@ -68,15 +67,6 @@ export default class Dashboard extends Component {
               <span className='fine'>&nbsp;</span>
             </div>
           </Col>
-          {/* <Col lg={4}>*/}
-          {/*  <div className='summary-box'>*/}
-          {/*    <span className='number'>{formattedNumber(today.noActive)}</span>*/}
-          {/*    <br />*/}
-          {/*    <span className='description'>active cases</span>*/}
-          {/*    <br />*/}
-          {/*    <span className='fine'>{formattedNumber(today.prcActive)}%</span>*/}
-          {/*  </div>*/}
-          {/* </Col>*/}
           <Col lg={4}>
             <div className='summary-box '>
               <span className='number'>{formattedNumber(today.noDeceased)}</span>
@@ -92,71 +82,16 @@ export default class Dashboard extends Component {
             <div className='summary-box '>
               <span
                 className='number'
-              >{formattedNumber(today.noVaccineDosesAdministered)}
+              >{formattedNumber(today.noImmunized1stDose + today.noImmunized)}
               </span>
-              <br />
-              <span className='description'>vaccine doses administered</span>
-              <br />
-              <span className='fine'>&nbsp;</span>
-            </div>
-          </Col>
-          <Col lg={4}>
-            <div className='summary-box '>
-              <span
-                className='number'
-              >{formattedNumber(today.noImmunized1stDose)}
-              </span>
-              <br />
-              <span className='description'>immunized with first dose only</span>
-              <br />
-              <span className='fine'>{formattedNumber((today.noImmunized1stDose / population * 100).toFixed(1))}%</span>
-            </div>
-          </Col>
-          {/* <Col lg={4}>*/}
-          {/*  <div className='summary-box '>*/}
-          {/*    <span*/}
-          {/*      className='number'*/}
-          {/*    >{formattedNumber(today.noImmunized)}*/}
-          {/*    </span>*/}
-          {/*    <br />*/}
-          {/*    <span className='description'>immunized with second dose</span>*/}
-          {/*    <br />*/}
-          {/*    <span className='fine'>{formattedNumber(today.prcImmunized)}%</span>*/}
-          {/*  </div>*/}
-          {/* </Col>*/}
-          {/* <Col lg={4}>*/}
-          {/*  <div className='summary-box '>*/}
-          {/*    <span*/}
-          {/*      className='number'*/}
-          {/*    >{formattedNumber(today.noImmunized)}*/}
-          {/*    </span>*/}
-          {/*    <br />*/}
-          {/*    <span className='description'>immunized with second dose</span>*/}
-          {/*    <br />*/}
-          {/*    <span className='fine'>{formattedNumber(today.prcImmunized)}%</span>*/}
-          {/*  </div>*/}
-          {/* </Col>*/}
-        </Row>
-        <hr />
-        {/* Main charts */}
-        <Row className='spaced-row align-items-center'>
-          <Col sm={2}>
-            <div className='summary-box left'>
-              <span className='number'>{formattedNumber(today.noImmunized1stDose + today.noImmunized)}</span>
               <br />
               <span className='description'>people vaccinated</span>
+              <br />
+              <span className='fine'>{((today.noImmunized1stDose + today.noImmunized) / population * 100).toFixed(1)}%</span>
             </div>
           </Col>
-          <Col sm={5}>
-            <VaccinesGaugeChart
-              name='At least one dose'
-              prc={((today.noImmunized1stDose + today.noImmunized) / population * 100).toFixed(1)}
-            />
-          </Col>
-          <Col sm={5}>
-            <VaccinesGaugeChart name='Both doses' prc={today.prcImmunized} />
-          </Col>
         </Row>
+        <hr />
         <Row className='spaced-row align-items-center'>
           <Col sm={2}>
             <div className='summary-box left'>
