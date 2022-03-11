@@ -84,7 +84,6 @@ export default class Dashboard extends Component {
               <span className='description'>deceased</span>
               <br />
               <span className='fine'>
-                {formattedNumber(today.prcDeceasedOfClosed)}% out of closed,&nbsp;
                 {formattedNumber(today.prcDeceasedOfTotal)}% out of total
               </span>
             </div>
